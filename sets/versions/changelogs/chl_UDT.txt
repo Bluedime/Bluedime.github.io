@@ -1,4 +1,947 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Snowdrake, Teen Comedian added.
+Strapping Aaron added.
+Thunderous Snail added.
+Self-Sustaining Trashnado added.
+Encounter a Tormented King added.
+Gerson, Hammer of Justice added.
+
+Snowdrake removed.
+Aaron removed.
+Thundersnail removed.
+Sans, Time-Space Prankster removed.
+Encounter the Monster King removed.
+
+Whimsun
+rules_text: Flying
+Whenever this creature attacks a player, return it to its owner's hand unless you pay {3}{W}{W}. If you do, transform it. => Flying
+Whenever this creature attacks a player, you may pay {3}{W}{W}. If you do, transform it. Otherwise, return it to its owner's hand.
+
+Froggit
+
+Loox
+
+Migosp
+rules_text: This creature can't attack alone.
+Whenever this creature and at least two other creatures attack, you may pay {R}. If you do, transform it. => This creature can't attack a player alone.
+Whenever this creature and at least two other creatures attack, you may pay {R}. If you do, transform it.
+
+Moldsmal
+rules_text: When this creature enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+{3}{G}{G}: Transform this creature and put three +1+1 counters on it. Activate only as a sorcery. => When this creature enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+{4}{G}{G}, Exile this card from your graveyard: Return it to the battlefield transformed with a finality counter on it.
+
+Worn Dagger
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+Equipped creature gets +3/+0.
+At the beginning of your end step, if your LV is 19 or greater, transform this artifact.
+Equip {2} => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Equipped creature gets +3/+0 and “If your LV would increase, it increases by twice that much instead.”
+At the beginning of your end step, if your LV is 19 or greater, transform this artifact.
+Equip {2}
+
+Heart Locket
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+Equipped creature has ward {2}.
+At the beginning of your end step, if your LV is 19 or greater, transform this artifact.
+Equip {1} => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Equipped creature has ward {2} and “If your LV would increase, it increases by twice that much instead.”
+At the beginning of your end step, if your LV is 19 or greater, transform this artifact.
+Equip {1}
+
+Show Mercy
+
+Dust the Monster
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+Destroy target creature. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Destroy target creature.
+
+Doomed to Death of KARMA!
+cost: {1}{B}{B}{B} => {3}{B}{B}
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+At the beginning of your upkeep, you draw cards and lose life equal to half your LV, rounded down. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+At the beginning of your end step, you draw cards and lose life equal to half your LV, rounded up.
+
+Bone Attack
+rules_text: During your turn, equipped creature gets +1/+1 and has first strike.
+Equipped creature has “{2}, {T}, Sacrifice Bone Attack: Bone Attack deals 3 damage to any target.”
+Equip {1} => During your turn, equipped creature gets +1/+1 and has first strike.
+When this Equipment is put into a graveyard from the battlefield, it deals 3 damage to target creature.
+Equip {1}
+
+Lesser Dog
+rules_text: Whenever this creature attacks, put a +1/+1 counter on it.
+As long as this creature's power is 4 or greater, it has reach. => Whenever this creature attacks, put a +1/+1 counter on it.
+As long as this creature's power is 4 or greater, it has reach.
+As long as this creature's power is 6 or greater, it has trample.
+
+Ice Cap
+cost: {1}{W}{W} => {2}{W}
+pt: 3/3 => 3/2
+
+Capture the Human
+
+Flowey, Brutal Guide
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+Flowey enters with X +1/+1 counters on him, where X is your LV.
+Escape—{1}{B}{B}, Exile five other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Flowey enters with X +1/+1 counters on him, where X is your LV.
+Escape—{1}{B}{B}, Exile five other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+pt: 1/1 => 2/1
+
+Gyftrot
+type: Creature — Elk => Creature — Elk Citizen
+rules_text: This creature enters with a +1/+1 counter on it.
+Whenever this creature attacks, you may remove two counters from it. If you do, create a 2/2 green Citizen creature token. => Trample
+This creature enters with two +1/+1 counters on it.
+Whenever this creature enters or attacks, you may remove a counter from a creature you control. If you do, create a Treasure token.
+
+Undyne, Chief of the Guard
+cost: {3}{R}{R} => {5}{R}
+rules_text: Prowess
+When Undyne enters, up to one target creature gains defender until Undyne leaves the battlefield. => Haste
+Prowess
+When Undyne enters, up to one target creature gains defender until Undyne leaves the battlefield.
+
+Sans, Lazybones
+rules_text: {T}: Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Whenever a counter is removed from Sans, you may draw a card. If you do, discard a card.
+{1}, {T}, Put a stun counter on Sans: Tap another target creature.
+
+Integrity Magic
+
+Asgore, King of Monsters
+
+Kindness Magic
+type: Instant => Enchantment — Aura
+rules_text: Target creature gets +3/+3 and gains hexproof, indestructible, and defender until end of turn. [i](Having defender doesn't remove an attacking creature from combat.)[/i] => Flash
+Enchant creature
+Enchanted creature gets +1/+2. 
+When this Aura enters, enchanted creature gains hexproof and defender until end of turn. [i](Gaining defender doesn't remove an creature from combat if it's already attacking.)[/i]
+
+Napstablook, Sad Ghost
+
+The Final Human
+
+The First Human
+cost: {9}{B}{R} => {7}{B}{R}
+rules_text: This spell costs {1} less to cast for each LV you have.
+Deathtouch, menace => This spell costs {X} less to cast, where X is your LV. [i](If you haven't done anything worth Judgment yet, your LV is 1.)[/i]
+Deathtouch, menace
+
+Frisk, Determined SOUL
+
+Flowey, Talking Flower
+
+Alphys, Royal Scientist
+cost: {3}{U} => {4}{U}{U}
+rules_text: {1}{U}, {T}: Instant and sorcery spells you cast this turn have affinity for artifacts. [i](They cost {1} less to cast for each artifact you control.)[/i] => During your turn, instant and sorcery spells you cast have affinity for artifacts. [i](They cost {1} less to cast for each artifact you control.)[/i]
+pt: 2/4 => 3/4
+
+Mettabot
+
+Mettaton, Robot Entertainer
+
+Cell Phone
+
+Greater Dog
+rules_text: Trample
+When Greater Dog enters, you may have it fight up to one target creature. => Vigilance
+When Greater Dog enters, you may have it fight up to one target creature.
+
+Toriel, Desperate Guardian
+
+Toriel, Homely Protector
+
+Alphys, Scientist with Secrets
+cost: {1}{B}{G}{U} => {2}{B}{G}{U}
+rules_text: Horror spells you cast have delve. [i](Each card you exile from your graveyard while casting them pays for {1}.)
+[/i]Whenever a card leaves your graveyard, Alphys deals 1 damage to each creature you control. => Non-Human creature cards in your graveyard have escape. Their escape cost is equal to their mana cost plus exile three other cards from your graveyard. 
+Whenever a creature card leaves your graveyard, you lose life equal to its mana value.
+pt: 2/5 => 3/5
+
+The Great Papyrus
+
+Muffet, Vindictive Baker
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+When Muffet enters, if another Spider died this turn or if you have LV 9 or greater, destroy up to one target creature. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+When Muffet enters, destroy target creature if it was dealt damage this turn or if your LV is 5 or greater.
+
+Ruins Recluse
+
+Mad Dummy, Recluse
+rules_text: Flying, menace
+{3}{R}, Sacrifice another artifact: Mad Dummy gets +3/+3 until end of turn. => Flying, menace
+{3}{R}, Sacrifice another artifact: Mad Dummy gets +3/+0 until end of turn.
+
+Bird that Carries You...
+
+Grillby, Stoic Bartender
+rules_text: Trample
+Whenever you sacrifice an artifact, put a +1/+1 counter on Grillby. Then if Grillby has four or more counters on him, exile him, then return him to the battlefield transformed under its owner's control. => Trample
+Whenever you sacrifice an artifact, put a +1/+1 counter on Grillby. Then if Grillby has four or more counters on him, you may transform him.
+
+Vulkin
+
+Pyrope
+
+Tsunderplane
+
+Snowdrake's Mother
+cost: {2}{U}{U} => {3}{U}{U}
+pt: 3/5 => 4/6
+
+Memoryhead
+
+DT Extractor
+
+Instant Ramen
+
+Last Corridor
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+{T}: Add {C}.
+{4}, {T}: Add five mana in any combination of colors. Activate only if your LV is 1.
+{W}{U}{B}, {T}: If your LV is 19 or greater, exile this
+card and return it to the battlefield transformed. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+{T}: Add {C}.
+{4}, {T}: Add five mana in any combination of colors. Activate only if your LV is 1.
+{W}{U}{B}, {T}: If your LV is 19 or greater, exile this
+card and return it to the battlefield transformed.
+
+Sans, Serendipitous Diner
+
+Cruel Guidance
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+When this enchantment enters, destroy up to one target non-Human creature.
+If your LV would increase, it increases by twice that much instead. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+When this enchantment enters, destroy up to one target non-Human creature.
+If your LV would increase, it increases by twice that much instead.
+
+Judgment.
+rules_text: Your LV starts at 1. 
+Whenever you deal an opponent combat damage or a creature an opponent control dies, your LV increases by 1. => Your LV starts at 1. 
+Whenever a creature an opponent control dies, your LV increases by 1.
+
+Shock
+
+Monster Kid, Fanatic Explorer
+
+River Person's Raft
+
+Perserverence Magic
+rules_text: Flash
+Enchant creature
+When this Aura enters, surveil 2.
+Enchanted creature gets -2/-0. => Flash
+Enchant creature
+When this Aura enters, surveil 2.
+Enchanted creature gets -2/-0. As long as it's attacking a battle, it gets an additional -2/-0.
+
+Megalovania
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+You draw two cards and lose 2 life. If your LV is 9 or higher, instead you draw three cards and lose 3 life. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+You draw two cards and lose 2 life. If your LV is 5 or higher, instead you draw three cards and lose 3 life.
+
+Hot Dog Stacking
+
+Ruins of Home
+
+Sentry Outpost
+
+Waterfall Caverns
+
+The CORE
+
+Hotland Volcano
+
+Flower Patch
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+
+In My Way.
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+Up to one target creature gets -X/-X until end of turn, where X is your LV. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Up to one target creature gets -X/-X until end of turn, where X is your LV.
+
+Barrier Breach
+rules_text: This land enters tapped.
+Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+{T}: Add {B} or {R}.
+{1}{B}{R}, {T}, Sacrifice this land: Destroy target creature. Activate only if your LV is 9 or greater. => This land enters tapped.
+Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+{T}: Add {B} or {R}.
+{1}{B}{R}, {T}, Sacrifice this land: Destroy target creature. Activate only if your LV is 9 or greater.
+
+The True Lab
+
+Undyne, Spear of Justice
+
+Gerson, Junk Vendor
+
+True Pacifism
+cost: {1}{W} => {2}{W}{W}
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+At the beginning of your end step, if your LV is 2 or greater, sacrifice this enchantment.
+Creatures can't attack you unless their controller pays {2} for each creature they control that's attacking you. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Creatures can't attack you unless their controller sacrifices a permanent for each creature they control that's attacking you.
+When your LV is above 1, sacrifice this enchantment.
+
+Battle Against a True Hero
+cost: {1}{R}{G}{W} => {R}{G}{W}
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+Flash
+As this Encounter enters, choose up to one target creature. 
+The chosen creature has hexproof and indestructible. => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+Flash
+When this Encounter enters, choose up to one target creature. It gains hexproof and indestructible until end of turn.
+
+Burgerpants
+rules_text: When Burgerpants enters, create a Food token.
+[i]Sardonic Rant— {3}, {T}:[/i] Sacrifice another permanent: Each opponent loses 1 life. => When Burgerpants enters, surveil 1.
+[i]Fast Food Flunky [/i]— Pay 3 life, {T} or {3}, {T}: Create a Food token.
+
+Temmie!!
+
+Woshua
+
+Bratty and Catty
+
+Snow Symbol Puzzle
+cost: {5}{U}{U} => {4}{U}{U}
+rules_text: This spell costs {2}{U} less to cast if it targets at least one creature you control.
+Tap up to three target creatures and put a stun counter on each of them.
+Draw a card. => This spell costs {1}{U} less to cast if it targets at least one creature you control.
+Tap up to three target creatures and put a stun counter on each of them.
+Draw a card.
+
+Dog Marriage
+
+Temmie Village
+
+Temmie Armor
+
+Evade the Guard
+
+SOULless Ressurection
+
+Bomb Report
+rules_text: {1}, Sacrifice an artifact: This artifact deals 2 damage to any target. Activate only as a sorcery. => {1}, {T}, Sacrifice an artifact: This artifact deals 2 damage to any target. Activate only as a sorcery.
+
+Haunted Dummy
+
+Demand Answers
+
+Asriel, Lost Prince
+
+Memorial Statue
+
+New Home
+
+Toriel, Mourning Mother
+
+Settle Beyond Reality
+
+Alphys, Inventive Ally
+cost: {1}{W}{U} => {1}{U}{R}
+rules_text: Whenever you cast an Aura or Equipment spell, draw a card.
+Whenever an equipped or enchanted creature attacks, it gets +1/+1 until end of turn. => Prowess
+At the beginning of your upkeep, another target creature you control gains prowess until end of turn.
+
+Snowdin Town
+rules_text: This land enters tapped.
+{T}: Add {W} or {U}.
+{2}{W}{U}, {T}: Target enchanted or equipped creature you control gains double strike until end of turn. Activate only as a sorcery. => This land enters tapped.
+{T}: Add {W} or {U}.
+{2}{W}{U}, {T}: Target enchanted or equipped creature you control gains flying until end of turn. Activate only as a sorcery.
+
+Empty Gun
+
+Tough Glove
+
+Torn Notebook
+cost: {3}{U} => {1}{U}
+rules_text: When this Equipment enters, create a 1/1 colorless Human creature token, then attach this Equipment to it.
+Equipped creature gets +2/+2 and has prowess.
+Equip {5} => When this Equipment enters, create a 1/1 colorless Human creature token, then attach this Equipment to it.
+Equipped creature has prowess.
+Equip {2}
+
+Pacify the Monster
+
+Ideation
+
+Lonely Snowman
+cost: {2}{W} => {1}{W}
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+Defender
+Whenever your LV increases to a number above 7, transform this creature. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Defender
+{6}, {T}: If your LV is 3 or below, exile Lonely Snowman and create three 2/2 green Citizen creature tokens. Otherwise, transform it.
+pt: 2/4 => 0/4
+
+MTT-Brand Cosmetics
+cost: {W} => {1}{W}
+rules_text: Enchant creature
+When this Aura enters, if you control an artifact, draw a card.
+Enchanted creature gets +1/+1. => Enchant creature
+When this Aura enters, if you control an artifact, draw a card.
+Enchanted creature gets +1/+2.
+
+Lovestruck Guards
+
+Hearts Beating As One
+
+Ballet Shoes
+
+Raise the Alarm
+
+Chilldrake
+
+Anguished Recollection
+
+Ice Skating Puzzle
+
+Rooted Shroom
+
+Shambling Mass
+
+Snail Family
+
+Meet Judgment
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+Exile the top card of your library. You may play it this turn. If your LV is 2 or higher, exile this card.
+Escape—{1}{R}, Exile two cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Exile the top card of your library. You may play it this turn. If your LV is 2 or higher, exile this card.
+Escape—{1}{R}, Exile two cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Demonic Optimist
+cost: {4}{B} => {1}{B}
+rules_text: {2}{B}: Transform Demonic Optimist. Activate only if you own three or more cards in exile and only as a sorcery. => {4}{B}: Draw a card, then transform this creature. Activate only if you own four or more cards in exile and only once each turn.
+pt: 4/5 => 1/3
+
+Flowey's Flattery
+
+Call Upon Determination
+
+Drunk Bun
+
+Burnt Pan
+
+Prove Yourself
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+Target creature you control gets +3/+1 until end of turn. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Target creature you control gets +3/+1 until end of turn.
+
+Resort Receptionist
+
+Heats Flamesman
+cost: {R} => {1}{R}
+pt: 1/1 => 2/1
+
+Hotdog Harpy
+
+Pasta Accident
+
+Incendiary Student
+
+Impassioned Speech
+
+Laser Puzzle
+
+Dogamy and Dogaressa
+cost: {3}{G} => {4}{G}{G}
+rules_text: Trample
+Whenever Dogamy and Dogaressa attack, if you control a token or another Dog, put a +1/+1 counter on Dogamy and Dogaressa. => Vigilance
+Whenever Dogamy and Dogaressa attack, you may pay {1}{G}. If you do, create a 2/2 white Dog Soldier creature token with “This creature can't block non-Human creatures.”
+pt: 4/3 => 6/6
+
+Doggo, Stout Sentry
+rules_text: Vigilance
+{1}{G}: Doggo gains deathtouch until end of turn. => Defender
+{4}{G}{G}, Exile this card from your graveyard: Create two 2/2 white Dog Soldier creature tokens with “This creature can't block non-Human creatures.”
+pt: 1/1 => 2/1
+
+Manly Bandana
+cost: {1}{G} => {3}{G}
+rules_text: When this Equipment enters, create a 1/1 colorless Human creature token, then attach this Equipment to it.
+Equipped creature has “Whenever this creature attacks, put a +1/+1 counter on it.”
+Equip {3} => When this Equipment enters, create a 1/1 colorless Human creature token, then attach this Equipment to it.
+Equipped creature gets +3/+2 and has “Whenever equipped creature attacks, creatures you control gain trample until end of turn.”
+Equip {6}
+
+Donut Neophyte
+
+Show Kindness
+
+Grapple with the Past
+
+Explore
+
+Heroic Brawl
+
+Stained Apron
+
+Cowboy Hat
+
+Onionsan
+
+Cloudy Glasses
+
+Unfair Dodge
+rules_text: Counter target spell unless its controller pays {2}. When they do, target creature you control phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i] => Counter target spell unless its controller pays {2}. When they do, up to one target creature you control phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+
+Clam Girl
+
+Echo Flower
+
+Patience Magic
+type: Enchantment => Enchantment — Aura
+rules_text: At the beginning of your upkeep, if you removed a stun counter from a creature you control this turn, draw a card. Otherwise, tap up to one target creature you control and put a stun counter on it. => Enchant player
+Whenever enchanted player removes a stun counter from a creature they control, you draw a card. This ability triggers only once each turn.
+
+Encounter a Spider Bake Sale
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+When this Encounter enters, create a Food token. => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+At the beginning of your upkeep, you gain 1 life.
+pt: 3 => 4
+
+Deny Fate
+
+Glyde
+
+Encounter RUINS Denizens
+cost: {3}{B} => {2}{B}
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+Whenever a player attacks this Encounter with one or more creatures, they exile the top card of their library. Then you draw a card and lose 1 life. => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+At the beginning of your upkeep, look at the top card of your library. You may exile it.
+
+Lost SOUL
+
+Mettaton, Rogue Robot
+rules_text: At the beginning of combat on your turn, up to one target noncreature artifact becomes a 2/2 Robot artifact creature and gains haste. Sacrifice it at the beginning of the next end step. => At the beginning of combat on your turn, up to one target noncreature artifact you control becomes a 2/2 Robot artifact creature and gains haste. Sacrifice it at the beginning of the next end step.
+
+Old Tutu
+
+Encounter CORE Mercenaries
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+When this Encounter enters, choose one—
+• Encounter deals 6 damage to up to one target creature.
+• Exile target artifact. This Encounter deals 2 damage to its controller. => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+When this Encounter enters, choose one—
+• This Encounter deals 6 damage to up to one target creature.
+• Exile target artifact. This Encounter deals 2 damage to its controller.
+pt: 7 => 6
+
+Bravery Magic
+
+Encounter the Canine Unit
+cost: {2}{W} => {4}{W}
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)
+[/i]When this Encounter enters, create a 2/2 white Dog Soldier creature token. => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)
+[/i]At the beginning of your end step, create a 2/2 white Dog Soldier creature token with “This creature can't block non-Human creatures.”
+pt: 6 => 3
+
+Ice Wolf
+
+Shyren, Pensive Performer
+
+Undyne, Heroine
+
+Encounter an Empty Home
+cost: {3}{W}{W} => {2}{W}{W}
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+When this Encounter enters, return target creature, artifact, or enchantment card from your graveyard to the battlefield. => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+Whenever a creature you control with power 2 or less enters, draw a card. This ability triggers only once each turn.
+
+Goner Kid
+
+Encounter a Stunning Cavern
+pt: 5 => 6
+
+Morphing Amalgam
+
+Raining Somewhere Else
+
+Undyne, Vengeful Empress
+rules_text: Other non-human creatures get +1/+1.
+Human creatures get -1/-1.
+{3}{B}{B}: Exile target non-Human creature if its controller also controls a Human. => Other non-Human creatures get +1/+1.
+Human creatures get -1/-1.
+{3}{B}{B}: Exile target non-Human creature if its controller also controls a Human.
+
+Power of LOVE
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+Enchant creature
+Enchanted creature gets +X/+X and each other creature you control gets -X/-X, where X is your LV. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Enchant creature
+Enchanted creature gets +X/+X and each other creature you control gets -X/-X, where X is your LV.
+
+Encounter a Faded Devotee
+cost: {3}{B}{B} => {4}{B}{B}
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+At the beginning of your upkeep, surveil 1.
+If a card or token would be put into a graveyard from anywhere, exile it instead with a void counter on it. => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+Whenever you cast a spell, exile that spell and up to one target creature with a void counter on each of them.
+
+Put You in the Dungeon
+
+Mad Dummy, Poltergeist
+
+Frisk, Monsterkind's Friend
+cost: {4}{G}{G} => {4}{G}
+rules_text: Affinity for legendary creatures [i](This spell costs {1} less to cast for each legendary creature you control.)[/i]
+When Frisk enters, reveal the top six cards of your library. Put all non-human legendary creature cards from among them into your hand and the rest on the bottom of your library in a random order. => Affinity for legendary creatures [i](This spell costs {1} less to cast for each legendary creature you control.)[/i]
+When Frisk enters, reveal the top six cards of your library. Put all non-Human legendary creature cards from among them into your hand and the rest on the bottom of your library in a random order.
+
+Arson's Aftermath
+
+Grillby, Flame of Snowdin
+
+Killing Spree
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+If a source you control would deal damage to a permanent or player, it deals that much damage plus 1 instead. If your LV is 9 or greater, it deals double instead. If your LV is 19 or greater, it deals triple instead. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+If a source you control would deal damage to a permanent or player, it deals that much damage plus 1 instead. If your LV is 5 or greater, it deals double instead. If your LV is 9 or greater, it deals triple instead. If your LV is 19 or greater, that player or that permanent's controller loses the game.
+
+Gerson, Storied Archaeologist
+
+Tem Shop Purveyor
+
+Encounter an Annoying Dog
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+When this Encounter enters, look at the top five cards of your library. You may put a creature card from among them onto the battlefield and the rest on the bottom of your library in any order. => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+At the beginning of your upkeep, look at the top two cards of your library. You may put a creature card from among them onto the battlefield and the rest on the bottom of your library in any order.
+
+Vegetoid
+
+Toriel, Returned Queen
+rules_text: Vigilance
+[i]Sanctuary— {T}:[/i] Exile Toriel and any number of other target creatures you control. Return them to the battlefield tapped under their owners' control at the beginning of your next upkeep. => Vigilance
+[i]Sanctuary — {T}:[/i] Exile Toriel and any number of other target creatures you control. Return them to the battlefield tapped under their owners' control at the beginning of your next upkeep.
+
+Break the Barrier
+
+Return to Your SAVE
+
+Flowey the Flower
+rules_text: Deathtouch
+At the beginning of your upkeep, you may pay {2}{W}{U}{B}{R}{G}. If you do, transform Flowey.
+Escape—{1}{B}, Exile five other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Deathtouch
+At the beginning of your upkeep, you may pay {2}{W}{U}{B}{R}{G}. If you do, transform Flowey.
+Escape—{3}{B}, Exile five other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Flowey's Command
+
+Dating HUD
+
+Garbage Date
+cost: {2}{G} => {1}{G}
+rules_text: Whenever a legendary creature you control enters or attacks, surveil 1. 
+Whenever two legendary creatures you control attack together, transform this enchantment. => Whenever a legendary creature you control enters, surveil 2. 
+Whenever two legendary creatures you control attack together, you may transform this enchantment.
+
+Parallel Lives
+
+Monster Kid, Undyne's Fan
+
+Jokes Through the Door
+
+Napstablook, Ghostly DJ
+rules_text: Flying
+You may cast artifact and enchantment spells as though they had flash.
+Whenever an artifact or enchantment you control enters, up to one target creature you control phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i] => Flying
+You may cast artifact and enchantment spells as though they had flash.
+Whenever a nontoken artifact or enchantment you control enters, up to one target creature you control phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+
+Waterfall Salvaging
+
+Papyrus, Friend to Flowers
+
+Godly Lament
+
+Toy Knife
+
+Map of the Underground
+
+Faded Ribbon
+
+Sequestered Coffins
+
+Well-Worn Sweater
+
+Mettaton NEO
+
+Hotland Schoolteacher
+
+Snowdin Shopkeep
+
+Frisk, Feared Human
+cost: {1}{B}{R} => {B}{R}
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+If your LV is 3 or higher, Frisk gets +1/+1 and has menace.
+If your LV is 9 or higher, Frisk gets +3/+3 and has double strike. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+As long as your LV is 3 or higher, Frisk gets +1/+1 and has menace. 
+As long as your LV is 9 or higher, Frisk gets an additional +1/+1 and has double strike.
+
+Jerry
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+As long as your LV is 5 or greater, this creature gets +1/+1 and has menace. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+As long as your LV is 3 or greater, this creature gets +1/+1 and has menace.
+
+Spend Time at the Dump
+
+Endogeny
+rules_text: This creature enters with X +1/+1 counters on it.
+Creatures you control get +1/+1 for each type of counter on them. => Trample, ward {2}
+This creature enters with X +1/+1 counters on it.
+Creatures you control get +1/+1 for each type of counter on them.
+
+Knight Knight
+
+Papyrus, Jovial Sentry
+rules_text: Haste
+Whenever Papyrus attacks, you may create an artifact token named Bone.
+{2}, {T}, Sacrifice an artifact: Exile the top card of your library. You may play it this turn. => Haste
+Whenever Papyrus attacks, you may sacrifice an artifact. If you do, exile the top card of your library. You may play that card this turn.
+{2}, {T}: Create an artifact token named Bone.
+
+Royal Guard Squad
+
+Reaper Bird
+
+Papyrus, Puzzlemaster
+cost: {U}{R} => {W}{U}
+rules_text: Prowess
+Whenever Papyrus deals combat damage to a player or battle, look at the top two cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. => Whenever Papyrus deals combat damage to a player or battle, look at that many cards from the top your library. You may reveal an Aura or Equipment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+Heroic Cooking
+
+Madjick
+
+Moldessa
+rules_text: When this creature enters, mill three cards. Put X +1/+1 counters on this creature, where X is the number of creature cards milled this way. => Trample
+When this creature enters, mill three cards. Put X +1/+1 counters on this creature, where X is the number of creature cards milled this way.
+
+Kill or Be Killed
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+Target creature you control gets +X/+X until end of turn, where X is your LV. It fights target creature you don't control. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Target creature you control gets +X/+X until end of turn, where X is your LV. It fights target creature you don't control.
+
+King Asgore, Gardener
+
+Defend the Underground
+
+Bartered SOUL
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+This spell costs {1} less to cast if your LV is 9 or greater.
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+This spell costs {1} less to cast if your LV is 5 or greater.
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+
+Alphys, Anime Enthusiast
+
+Determined Disregard
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+When this enchantment enters, it deals 3 damage to any target.
+{R}, Discard a card: Your LV increases. Activate only once each turn. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+When this enchantment enters, it deals 3 damage to any target.
+At the beginning of your end step, if your LV is 5 or greater, this enchantment deals 1 damage to each player.
+
+Muffet's Pet
+
+Vineridden Ruins
+cost: {3}{G} => {2}{G}
+rules_text: At the beginning of your upkeep, you may mill two cards. [i](You may put the top two cards of your library into your graveyard.)[/i]
+Whenever one or more creature cards are put into exile from your graveyard during your turn, create a 2/1 black Spider creature token with reach. => At the beginning of your upkeep, you may mill two cards. [i](You may put the top two cards of your library into your graveyard.)[/i]
+Whenever one or more creature cards leave your graveyard, create a 2/1 black Spider creature token with reach.
+
+Oh! One True Love!
+
+Flirt
+
+Encounter Aimless Teens
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+[i]Pointless Rebellion — [/i]When this Encounter enters, create a 2/2 green Citizen token. Then each creature you control deals 1 damage to you. => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+[i]Pointless Rebellion — [/i]At the beginning of each opponent's end step, if that player didn't attack this turn, exile this Encounter. You may cast it transformed.
+pt: 6 => 4
+
+SOUL Containment
+cost: {4}{B} => {3}{B}
+
+Business Dudes
+
+Cling to Dust
+
+SOULs' Revenge
+
+Creepy Look
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+Enchant creature
+Enchanted creature has flying and gets +1/+0 for each LV you have. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Enchant creature
+Enchanted creature gets +1/+0 and has flying. 
+As long as your LV is 3 or greater, enchanted creature gets an additional +2/-1.
+
+Unsettling Prank
+
+Friendly Froggit Guide
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+At the beginning of your end step, if your LV is 1, target creature an opponent controls gets -3/-0 until your next turn. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+At the beginning of your end step, if your LV is 1, each creature your opponents control get -2/-0 until your next turn.
+
+Steam Vent Puzzle
+
+Take a Shortcut
+
+Celebrate an Ending
+
+Encounter an Amalgamate
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+When this Encounter enters, draw three cards, then discard a card. => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+At the beginning of your end step, draw a card, then discard a card. Up to one target creature gets -2/-0 until your next turn.
+pt: 6 => 3
+
+Power of Mercy
+cost: {1}{W} => {W}{W}
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+At the beginning of your upkeep, if your LV is 1, you draw a card and gain 1 life. Otherwise, sacrifice this enchantment. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Whenever your LV increases, sacrifice this enchantment.
+At the beginning of your upkeep, if your LV is 1, you draw a card and gain 1 life. Then if you control seven or more legendary creatures, you win the game.
+
+Sans, Illegal Vendor
+
+Nice Cream Guy
+
+Encounter Strange Vendors
+cost: {1}{G}{G} => {3}{G}{G}
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+When this Encounter enters, create a 2/2 green Citizen creature token, a Treasure token, and a Food token. => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+At the beginning of your upkeep, create your choice of a 2/2 green Citizen creature token, a Treasure token, or a Food token.
+pt: 7 => 4
+
+Heartfelt Gathering
+
+Loren
+
+Heartache
+
+Encounter Waterfall Residents
+cost: {2}{G}{G} => {1}{G}
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+When this Encounter enters, choose one:
+- Create a 2/2 green Citizen creature token and a 1/1 colorless Human creature token.
+- Destroy target artifact, enchantment, or battle an opponent controls. => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+When this Encounter enters, destroy target artifact, enchantment, or battle an opponent controls.
+
+Politics Bear
+
+Gaster Blaster
+rules_text: Flying, haste
+Whenever this creature deals combat damage to an opponent, you may search your library for a card named Shock, reveal it, put it into your hand, then shuffle. => Flying, haste
+Whenever this creature attacks, you may search your library for a card named Shock, reveal it, put it into your hand, then shuffle.
+
+Papyrus, Spaghettore
+rules_text: Menace
+Whenever Papyrus attacks an opponent, they create a Food token. => Whenever Papyrus becomes blocked, defending player creates a Food token.
+
+True RESET
+
+Flowey, Timeline's Tormentor
+
+Steal Away Hope
+
+Studious Librarbian
+
+Dig Through the Dump
+
+Trapped Arachnids
+
+Battle Mastery
+
+Dress Lion
+
+Doleful Banishment
+
+Elder Puzzler
+
+Broken Wings
+
+Hardened Cheese
+rules_text: When this artifact enters, draw a card and create a 1/1 white Mouse creature token.
+When this artifact is put into a graveyard from the battlefield, you gain 3 life. => When this artifact enters, create a 1/1 white Mouse creature token.
+When this artifact is put into a graveyard from the battlefield, you gain 3 life.
+
+Justice Magic
+
+Encounter Snowdin Locals
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+[i]Bundle Up — [/i]Aura and Equipment spells you cast cost {1} less to cast. => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+[i]Bundle Up — [/i]Whenever a creature you control becomes the target of a spell or ability you control, draw a card. This ability triggers only once each turn.
+pt: 10 => 5
+
+Encounter a Training Dummy
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+When this Encounter enters, surveil 2. => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+Whenever a creature you control enters, surveil 1. This ability triggers only once each turn.
+pt: 3 => 4
+
+Leap
+
+Business Manticore
+
+Mettaton, Killer Host
+cost: {4}{B} => {5}{B}
+rules_text: Flying
+Whenever Mettaton attacks, if you own five or more cards in exile, he gains deathtouch until end of turn. => Flying
+Whenever Mettaton enters or attacks, if you own five or more cards in exile, each opponent loses 2 life and you gain 2 life.
+pt: 3/3 => 4/4
+
+Lemon Bread
+
+Asgore, Guiltridden Ruler
+rules_text: Whenever a creature that Asgore dealt damage to this turn dies, exile it with a SOUL counter on it.
+At the beginning of your end step, if there are seven cards in exile with SOUL counters on them, you win the game. => Whenever a creature dies, if a creature you control dealt damage to it this turn, exile it with a SOUL counter on it.
+At the beginning of your end step, if there are seven cards in exile with SOUL counters on them, you win the game.
+
+But Nobody Came.
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+At the beginning of combat on each turn, target creature you control gets +X/+X, where X is your LV. => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+At the beginning of combat on each turn, target creature you control gets +X/+X, where X is your LV.
+
+The Delta Rune
+
+Prank Telescope
+
+Muffet, Vicious Chef
+
+Strange Sculpting
+
+Despite Everything...
+
+Clamoring Fans
+
+Undyne's Command
+
+Mettaton, Arisen Despot
+
+Queen Alphys
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]
+Whenever you cast a noncreature spell, if your LV is 9 or higher, Queen Alphys deals 4 damage to each opponent. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Whenever you cast a noncreature spell, if your LV is 5 or higher, Queen Alphys deals 2 damage to each opponent. If your LV is 9 or higher, she deals damage equal to her power instead.
+pt: 3/4 => 4/4
+
+Chara, the Fallen Human
+
+Commune with Trash
+rules_text: Mill four cards. If a creature card was milled this way, create a 1/1 white Spirit creature token with flying. If a noncreature, nonland card was milled this way, draw a card. => Mill three cards. If a creature card was milled this way, create a 1/1 white Spirit creature token with flying. If a noncreature, nonland card was milled this way, draw a card.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

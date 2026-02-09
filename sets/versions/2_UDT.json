@@ -1,7 +1,6 @@
 ﻿{
     "name": "Undertale",
     "formats": "",
-    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
     "unpreviewed": "card back",
@@ -16,7 +15,7 @@
             "number": 42,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Flying\nWhenever this creature attacks a player, return it to its owner's hand unless you pay {3}{W}{W}. If you do, transform it.",
+            "rules_text": "Flying\nWhenever this creature attacks a player, you may pay {3}{W}{W}. If you do, transform it. Otherwise, return it to its owner's hand.",
             "flavor_text": "[i]This monster is too sensitive to fight...[/i]",
             "pt": "1/3",
             "special_text": "",
@@ -37,6 +36,8 @@
             "loyalty2": "",
             "artist2": "Mel17641 (Amino)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -68,6 +69,8 @@
             "loyalty2": "",
             "artist2": "Cleasia (DeviantArt)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -99,6 +102,8 @@
             "loyalty2": "",
             "artist2": "Uzeil21 (DeviantArt)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -109,7 +114,7 @@
             "number": 157,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "This creature can't attack alone.\nWhenever this creature and at least two other creatures attack, you may pay {R}. If you do, transform it.",
+            "rules_text": "This creature can't attack a player alone.\nWhenever this creature and at least two other creatures attack, you may pay {R}. If you do, transform it.",
             "flavor_text": "[i]It seems evil, but it's just with the wrong crowd...[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -123,13 +128,15 @@
             "color2": "R",
             "type2": "Creature \u2014 Insect Performer",
             "cost2": "",
-            "rules_text2": "This creature can't attack alone.",
+            "rules_text2": "This creature can't attack a player alone.",
             "flavor_text2": "[i]This messed-up clownbug thinks battle's a performance.[/i]",
             "pt2": "4/3",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Draculoloo (Amino)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -140,7 +147,7 @@
             "number": 200,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "When this creature enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.\n{3}{G}{G}: Transform this creature and put three +1+1 counters on it. Activate only as a sorcery.",
+            "rules_text": "When this creature enters, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.\n{4}{G}{G}, Exile this card from your graveyard: Return it to the battlefield transformed with a finality counter on it.",
             "flavor_text": "[i]Stereotypical: Curvaceously attractive, but \nno brains...[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -154,13 +161,15 @@
             "color2": "G",
             "type2": "Creature \u2014 Ooze",
             "cost2": "",
-            "rules_text2": "",
+            "rules_text2": "Trample",
             "flavor_text2": "[i]One size greater than Moldaverage.[/i]",
-            "pt2": "2/3",
+            "pt2": "4/4",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "JordanLDavies (Pixilart)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -168,10 +177,10 @@
             "color": "",
             "rarity": "mythic",
             "type": "Artifact \u2014 Equipment",
-            "number": 269,
+            "number": 270,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nEquipped creature gets +3/+0.\nAt the beginning of your end step, if your LV is 19 or greater, transform this artifact.\nEquip {2}",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nEquipped creature gets +3/+0 and \u201cIf your LV would increase, it increases by twice that much instead.\u201d\nAt the beginning of your end step, if your LV is 19 or greater, transform this artifact.\nEquip {2}",
             "flavor_text": "[i]Perfect for cutting plants and vines.[/i]",
             "pt": "",
             "special_text": "",
@@ -192,6 +201,8 @@
             "loyalty2": "",
             "artist2": "Anael Pontes",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -199,10 +210,10 @@
             "color": "",
             "rarity": "rare",
             "type": "Artifact \u2014 Equipment",
-            "number": 260,
+            "number": 261,
             "color_identity": "C",
             "cost": "{1}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nEquipped creature has ward {2}.\nAt the beginning of your end step, if your LV is 19 or greater, transform this artifact.\nEquip {1}",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nEquipped creature has ward {2} and \u201cIf your LV would increase, it increases by twice that much instead.\u201d\nAt the beginning of your end step, if your LV is 19 or greater, transform this artifact.\nEquip {1}",
             "flavor_text": "[i]It says \u201cBest Friends Forever.\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -223,6 +234,8 @@
             "loyalty2": "",
             "artist2": "Zimnomel (Amino)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -243,6 +256,7 @@
             "artist": "Marcus Thomas",
             "alias": "",
             "position": "7",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -253,7 +267,7 @@
             "number": 97,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nDestroy target creature.",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nDestroy target creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -263,6 +277,7 @@
             "artist": "Tanzenkat (Tumblr)",
             "alias": "",
             "position": "8",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -272,8 +287,8 @@
             "type": "Enchantment",
             "number": 95,
             "color_identity": "B",
-            "cost": "{1}{B}{B}{B}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nAt the beginning of your upkeep, you draw cards and lose life equal to half your LV, rounded down.",
+            "cost": "{3}{B}{B}",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nAt the beginning of your end step, you draw cards and lose life equal to half your LV, rounded up.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -283,6 +298,7 @@
             "artist": "Eggbin (DeviantArt)",
             "alias": "",
             "position": "9",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -290,10 +306,10 @@
             "color": "WR",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Equipment",
-            "number": 219,
+            "number": 220,
             "color_identity": "WR",
             "cost": "{R}{W}",
-            "rules_text": "During your turn, equipped creature gets +1/+1 and has first strike.\nEquipped creature has \u201c{2}, {T}, Sacrifice Bone Attack: Bone Attack deals 3 damage to any target.\u201d\nEquip {1}",
+            "rules_text": "During your turn, equipped creature gets +1/+1 and has first strike.\nWhen this Equipment is put into a graveyard from the battlefield, it deals 3 damage to target creature.\nEquip {1}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -303,6 +319,7 @@
             "artist": "Balade (DeviantArt)",
             "alias": "",
             "position": "10",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -313,7 +330,7 @@
             "number": 197,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Whenever this creature attacks, put a +1/+1 counter on it.\nAs long as this creature's power is 4 or greater, it has reach.",
+            "rules_text": "Whenever this creature attacks, put a +1/+1 counter on it.\nAs long as this creature's power is 4 or greater, it has reach.\nAs long as this creature's power is 6 or greater, it has trample.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -323,18 +340,19 @@
             "artist": "BlurTheFur (FurAffinity)",
             "alias": "",
             "position": "11",
+            "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "Snowdrake",
+            "card_name": "Snowdrake, Teen Comedian",
             "color": "U",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Bird",
             "number": 77,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Flying\n[i]Bad Joke\u2014[/i]Whenever this creature attacks, you may pay {1}{U}. If you do, put a stun counter on up to one target tapped creature.",
-            "flavor_text": "[i]This teen comedian fights for a captive audience.[/i]",
+            "rules_text": "Flying\n[i]Bad Joke\u2014[/i]Whenever this creature attacks, you may put a stun counter on another tapped creature you control. If you do, put a stun counter on target creature you don't control.",
+            "flavor_text": "[i]Fighting for a captive audience.[/i]",
             "pt": "1/2",
             "special_text": "",
             "shape": "normal",
@@ -343,6 +361,7 @@
             "artist": "King-k-rouxls (DeviantArt)",
             "alias": "",
             "position": "12",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -352,10 +371,10 @@
             "type": "Creature \u2014 Elemental",
             "number": 16,
             "color_identity": "W",
-            "cost": "{1}{W}{W}",
+            "cost": "{2}{W}",
             "rules_text": "As long as you control an Equipment or Aura, this creature gets +1/+1.",
             "flavor_text": "[i]\u201cHELLO??? My hat's up here.\u201d[/i]",
-            "pt": "3/3",
+            "pt": "3/2",
             "special_text": "",
             "shape": "normal",
             "set": "UDT",
@@ -363,6 +382,7 @@
             "artist": "uzeil21 DeviantArt)",
             "alias": "",
             "position": "13",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -383,6 +403,7 @@
             "artist": "Palidoozy-Art (Tumblr)",
             "alias": "",
             "position": "14",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -393,9 +414,9 @@
             "number": 103,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nFlowey enters with X +1/+1 counters on him, where X is your LV.\nEscape\u2014{1}{B}{B}, Exile five other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nFlowey enters with X +1/+1 counters on him, where X is your LV.\nEscape\u2014{1}{B}{B}, Exile five other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
             "flavor_text": "[i]\u201cIn this world, it's kill or BE killed.\u201d[/i]",
-            "pt": "1/1",
+            "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "UDT",
@@ -403,17 +424,18 @@
             "artist": "Zinrius (DeviantArt)",
             "alias": "",
             "position": "15",
+            "rotated": false,
             "notes": ""
         },
         {
             "card_name": "Gyftrot",
             "color": "G",
-            "rarity": "uncommon",
-            "type": "Creature \u2014 Elk",
+            "rarity": "common",
+            "type": "Creature \u2014 Elk Citizen",
             "number": 191,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "This creature enters with a +1/+1 counter on it.\nWhenever this creature attacks, you may remove two counters from it. If you do, create a 2/2 green Citizen creature token.",
+            "rules_text": "Trample\nThis creature enters with two +1/+1 counters on it.\nWhenever this creature enters or attacks, you may remove a counter from a creature you control. If you do, create a Treasure token.",
             "flavor_text": "[i][/i]",
             "pt": "3/1",
             "special_text": "",
@@ -423,6 +445,7 @@
             "artist": "Vesner (Tumblr)",
             "alias": "",
             "position": "16",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -432,8 +455,8 @@
             "type": "Legendary Creature \u2014 Fish Soldier",
             "number": 169,
             "color_identity": "R",
-            "cost": "{3}{R}{R}",
-            "rules_text": "Prowess\nWhen Undyne enters, up to one target creature gains defender until Undyne leaves the battlefield.",
+            "cost": "{5}{R}",
+            "rules_text": "Haste\nProwess\nWhen Undyne enters, up to one target creature gains defender until Undyne leaves the battlefield.",
             "flavor_text": "[i]\u201cUnless you learn to face danger head-on, you won't last a SECOND against ME!\u201d[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -443,6 +466,7 @@
             "artist": "Hellknight10 (DeviantArt)",
             "alias": "",
             "position": "17",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -453,7 +477,7 @@
             "number": 73,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "{T}: Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
+            "rules_text": "Whenever a counter is removed from Sans, you may draw a card. If you do, discard a card.\n{1}, {T}, Put a stun counter on Sans: Tap another target creature.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -463,6 +487,7 @@
             "artist": "Hairy-Permission1849 (Reddit)",
             "alias": "",
             "position": "18",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -483,6 +508,7 @@
             "artist": "Mewpet (Tumblr)",
             "alias": "",
             "position": "19",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -490,7 +516,7 @@
             "color": "WBG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Goat Noble",
-            "number": 217,
+            "number": 218,
             "color_identity": "WBG",
             "cost": "{3}{W}{B}{G}",
             "rules_text": "Your opponents can't cast artifact or enchantment spells.\nCreatures you control can't be put into exile by spells and abilities your opponents control.\nAt the beginning of your end step, each opponent may sacrifice a Human. If they don't, they discard a card and lose 3 life.",
@@ -503,17 +529,18 @@
             "artist": "Laon8130 (Twitter)",
             "alias": "",
             "position": "20",
+            "rotated": false,
             "notes": ""
         },
         {
             "card_name": "Kindness Magic",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Instant",
+            "type": "Enchantment \u2014 Aura",
             "number": 194,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Target creature gets +3/+3 and gains hexproof, indestructible, and defender until end of turn. [i](Having defender doesn't remove an attacking creature from combat.)[/i]",
+            "rules_text": "Flash\nEnchant creature\nEnchanted creature gets +1/+2. \nWhen this Aura enters, enchanted creature gains hexproof and defender until end of turn. [i](Gaining defender doesn't remove an creature from combat if it's already attacking.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -523,6 +550,7 @@
             "artist": "Palidoozy-Art (Tumblr)",
             "alias": "",
             "position": "21",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -543,6 +571,7 @@
             "artist": "Orka09 (Reddit)",
             "alias": "",
             "position": "22",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -563,6 +592,7 @@
             "artist": "Serain (Tumblr)",
             "alias": "",
             "position": "23",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -570,10 +600,10 @@
             "color": "BR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Demon",
-            "number": 227,
+            "number": 228,
             "color_identity": "BR",
-            "cost": "{9}{B}{R}",
-            "rules_text": "This spell costs {1} less to cast for each LV you have.\nDeathtouch, menace",
+            "cost": "{7}{B}{R}",
+            "rules_text": "This spell costs {X} less to cast, where X is your LV. [i](If you haven't done anything worth Judgment yet, your LV is 1.)[/i]\nDeathtouch, menace",
             "flavor_text": "[i]It's me.[/i]",
             "pt": "9/9",
             "special_text": "",
@@ -583,6 +613,7 @@
             "artist": "Undertale Tarot",
             "alias": "",
             "position": "24",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -607,13 +638,15 @@
             "color2": "R",
             "type2": "Legendary Creature \u2014 Human Spirit",
             "cost2": "{3}{R}{R}",
-            "rules_text2": "When Chara enters, transform target permanent.\nWhenever this creature transforms into Chara, transform target permanent.",
+            "rules_text2": "Whenever this creature enters or transforms into Chara, transform target permanent.",
             "flavor_text2": "[i]...[/i]",
             "pt2": "2/1",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Aoile (Tumblr)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -621,7 +654,7 @@
             "color": "BG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Plant",
-            "number": 228,
+            "number": 229,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
             "rules_text": "Deathtouch\nAt the beginning of your end step, you may exile six creature cards from your graveyard. If you do, transform Flowey the Flower.",
@@ -645,6 +678,8 @@
             "loyalty2": "",
             "artist2": "Asriel da Goat (Amino)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -654,10 +689,10 @@
             "type": "Legendary Creature \u2014 Lizard Scientist",
             "number": 43,
             "color_identity": "U",
-            "cost": "{3}{U}",
-            "rules_text": "{1}{U}, {T}: Instant and sorcery spells you cast this turn have affinity for artifacts. [i](They cost {1} less to cast for each artifact you control.)[/i]",
+            "cost": "{4}{U}{U}",
+            "rules_text": "During your turn, instant and sorcery spells you cast have affinity for artifacts. [i](They cost {1} less to cast for each artifact you control.)[/i]",
             "flavor_text": "[i]\u201cUsing my knowledge, I can easily guide you through Hotland!\u201d[/i]",
-            "pt": "2/4",
+            "pt": "3/4",
             "special_text": "",
             "shape": "normal",
             "set": "UDT",
@@ -665,6 +700,7 @@
             "artist": "Zinrius (DeviantArt)",
             "alias": "",
             "position": "27",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -672,7 +708,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Robot",
-            "number": 264,
+            "number": 265,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "Whenever this creature attacks, it deals 1 damage to defending player.",
@@ -685,6 +721,7 @@
             "artist": "PikE0224 (Twitter)",
             "alias": "",
             "position": "28",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -692,7 +729,7 @@
             "color": "UR",
             "rarity": "rare",
             "type": "Legendary Artifact Creature \u2014 Robot Performer",
-            "number": 240,
+            "number": 241,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
             "rules_text": "Indestructible\n[i]Flip His Switch[/i]\u2014 {3}: Transform Mettaton. Any player may activate this ability.",
@@ -716,6 +753,8 @@
             "loyalty2": "",
             "artist2": "Palidoozy-Art (Tumblr)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -723,7 +762,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact",
-            "number": 258,
+            "number": 259,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "{1}, {T}: Choose one that hasn't been chosen\u2014\n\u2022 [i]Jetpack\u2014[/i]Target creature gains flying until end of turn.\n\u2022 [i]Yellow Button\u2014 [/i]Cell Phone deals 1 damage to any target.\n\u2022 [i]Dimensional Box\u2014[/i]Draw a card, then sacrifice this artifact.",
@@ -736,17 +775,18 @@
             "artist": "Pixlotl",
             "alias": "",
             "position": "30",
+            "rotated": false,
             "notes": ""
         },
         {
             "card_name": "Greater Dog",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Legendary Creature \u2014 Dog Soldier",
             "number": 190,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "Trample\nWhen Greater Dog enters, you may have it fight up to one target creature.",
+            "rules_text": "Vigilance\nWhen Greater Dog enters, you may have it fight up to one target creature.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -756,6 +796,7 @@
             "artist": "Krefropod (ArtStation)",
             "alias": "",
             "position": "31",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -776,6 +817,7 @@
             "artist": "Palidoozy-Art (Tumblr)",
             "alias": "",
             "position": "32",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -796,6 +838,7 @@
             "artist": "BlueKomadori (DeviantArt)",
             "alias": "",
             "position": "33",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -803,12 +846,12 @@
             "color": "UBG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Lizard Scientist",
-            "number": 215,
+            "number": 216,
             "color_identity": "UBG",
-            "cost": "{1}{B}{G}{U}",
-            "rules_text": "Horror spells you cast have delve. [i](Each card you exile from your graveyard while casting them pays for {1}.)\n[/i]Whenever a card leaves your graveyard, Alphys deals 1 damage to each creature you control.",
+            "cost": "{2}{B}{G}{U}",
+            "rules_text": "Non-Human creature cards in your graveyard have escape. Their escape cost is equal to their mana cost plus exile three other cards from your graveyard. \nWhenever a creature card leaves your graveyard, you lose life equal to its mana value.",
             "flavor_text": "[i]\u201cEvery day I'm scared... Scared what will happen if people learn the truth on their own.\u201d[/i]",
-            "pt": "2/5",
+            "pt": "3/5",
             "special_text": "",
             "shape": "normal",
             "set": "UDT",
@@ -816,6 +859,7 @@
             "artist": "ffSade (DeviantArt)",
             "alias": "",
             "position": "34",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -823,7 +867,7 @@
             "color": "WR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Skeleton Scout",
-            "number": 232,
+            "number": 233,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
             "rules_text": "Vigilance\n[i]Bonetrousle[/i]\u2014Activated abilities of attacking creatures you control cost {3} less to activate. This effect can't reduce the mana in that cost to less than one mana.\n{3}{W}, {T}: Create a Food token.",
@@ -836,6 +880,7 @@
             "artist": "ThePurringCatfish (DeviantArt)",
             "alias": "",
             "position": "35",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -846,7 +891,7 @@
             "number": 114,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nWhen Muffet enters, if another Spider died this turn or if you have LV 9 or greater, destroy up to one target creature.",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nWhen Muffet enters, destroy target creature if it was dealt damage this turn or if your LV is 5 or greater.",
             "flavor_text": "[i]\u201cI think your taste is exactly what this next batch needs!\u201d[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -856,6 +901,7 @@
             "artist": "SammySketches (deviantArt)",
             "alias": "",
             "position": "36",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -876,6 +922,7 @@
             "artist": "Fangamer Promo",
             "alias": "",
             "position": "37",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -886,7 +933,7 @@
             "number": 154,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
-            "rules_text": "Flying, menace\n{3}{R}, Sacrifice another artifact: Mad Dummy gets +3/+3 until end of turn.",
+            "rules_text": "Flying, menace\n{3}{R}, Sacrifice another artifact: Mad Dummy gets +3/+0 until end of turn.",
             "flavor_text": "[i]\u201cI DON'T NEED FRIENDS!!! I'VE GOT KNIVES!!!\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -896,6 +943,7 @@
             "artist": "Gigapolosatik (DeviantArt)",
             "alias": "",
             "position": "38",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -916,6 +964,7 @@
             "artist": "Roterszeng (DeviantArt)",
             "alias": "",
             "position": "39",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -926,7 +975,7 @@
             "number": 146,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Trample\nWhenever you sacrifice an artifact, put a +1/+1 counter on Grillby. Then if Grillby has four or more counters on him, exile him, then return him to the battlefield transformed under its owner's control.",
+            "rules_text": "Trample\nWhenever you sacrifice an artifact, put a +1/+1 counter on Grillby. Then if Grillby has four or more counters on him, you may transform him.",
             "flavor_text": "[i]Although he's made of fire, ironically, \nhe prefers the cold.[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -938,15 +987,17 @@
             "position": "40",
             "card_name2": "Unpaid Tab",
             "color2": "R",
-            "type2": "Enchantment",
+            "type2": "Artifact",
             "cost2": "",
-            "rules_text2": "{2}{R}: This enchantment deals damage equal to the number of counters on it to target player. Then remove all counters from it and transform it.",
+            "rules_text2": "{2}{R}{R}, {T}, Sacrifice this artifact: Exile cards from the top of your library equal to the number of counters on this artifact. You may play them until end of turn.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Dileomax (Reddit)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -967,6 +1018,7 @@
             "artist": "Lattianpesuaine (DeviantArt)",
             "alias": "",
             "position": "41",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -987,6 +1039,7 @@
             "artist": "TheCappuccino04 (Twitter)",
             "alias": "",
             "position": "42",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1007,6 +1060,7 @@
             "artist": "Wawako-awa (Tumblr)",
             "alias": "",
             "position": "43",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1016,10 +1070,10 @@
             "type": "Legendary Creature \u2014 Bird Plant Horror",
             "number": 78,
             "color_identity": "U",
-            "cost": "{2}{U}{U}",
+            "cost": "{3}{U}{U}",
             "rules_text": "Flying\nWhenever Snowdrake's Mother attacks, put a stun counter on her.",
             "flavor_text": "[i]It's so cold...[/i]",
-            "pt": "3/5",
+            "pt": "4/6",
             "special_text": "",
             "shape": "normal",
             "set": "UDT",
@@ -1027,6 +1081,7 @@
             "artist": "Ransea (DeviantArt)",
             "alias": "",
             "position": "44",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1058,6 +1113,8 @@
             "loyalty2": "",
             "artist2": "Astrono77153462 (Tumblr)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1065,7 +1122,7 @@
             "color": "UG",
             "rarity": "uncommon",
             "type": "Artifact",
-            "number": 225,
+            "number": 226,
             "color_identity": "UG",
             "cost": "{G}{U}",
             "rules_text": "{1}{U}, {T}: You may move a counter from target creature you control onto this artifact. If you do, draw a card.\n{1}{G}, {T}, Discard a card: Move all counters from this artifact onto target creature.",
@@ -1078,6 +1135,7 @@
             "artist": "Yulpen (DeviantArt)",
             "alias": "",
             "position": "46",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1085,7 +1143,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact \u2014 Food",
-            "number": 261,
+            "number": 262,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "Flash\nWhen this artifact enters, draw a card.\n{2}, {T}, Sacrifice this artifact: You gain 3 life.",
@@ -1098,6 +1156,7 @@
             "artist": "Hyenafu (Tumblr)",
             "alias": "",
             "position": "47",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1105,10 +1164,10 @@
             "color": "",
             "rarity": "mythic",
             "type": "Land",
-            "number": 274,
+            "number": 275,
             "color_identity": "WUB",
             "cost": "",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\n{T}: Add {C}.\n{4}, {T}: Add five mana in any combination of colors. Activate only if your LV is 1.\n{W}{U}{B}, {T}: If your LV is 19 or greater, exile this\ncard and return it to the battlefield transformed.",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\n{T}: Add {C}.\n{4}, {T}: Add five mana in any combination of colors. Activate only if your LV is 1.\n{W}{U}{B}, {T}: If your LV is 19 or greater, exile this\ncard and return it to the battlefield transformed.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1129,6 +1188,8 @@
             "loyalty2": "",
             "artist2": "Hudinart (Reddit)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1149,6 +1210,7 @@
             "artist": "Neje (Tumblr)",
             "alias": "",
             "position": "49",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1159,7 +1221,7 @@
             "number": 91,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nWhen this enchantment enters, destroy up to one target non-Human creature.\nIf your LV would increase, it increases by twice that much instead.",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nWhen this enchantment enters, destroy up to one target non-Human creature.\nIf your LV would increase, it increases by twice that much instead.",
             "flavor_text": "[i]\u201cLet's destroy everything in this wretched world.\u201d \u2014Flowey[/i]",
             "pt": "",
             "special_text": "",
@@ -1169,6 +1231,7 @@
             "artist": "WalkingMelonsAAA (DeviantArt)",
             "alias": "",
             "position": "50",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1179,7 +1242,7 @@
             "number": 1,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "Your LV starts at 1. \nWhenever you deal an opponent combat damage or a creature an opponent control dies, your LV increases by 1.",
+            "rules_text": "Your LV starts at 1. \nWhenever a creature an opponent control dies, your LV increases by 1.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1189,6 +1252,7 @@
             "artist": "But nobody came.",
             "alias": "",
             "position": "51",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1209,6 +1273,7 @@
             "artist": "Wata_Lemon03 (Twitter)",
             "alias": "",
             "position": "52",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1229,6 +1294,7 @@
             "artist": "LazzLady (Twitter)",
             "alias": "",
             "position": "53",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1236,7 +1302,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Legendary Artifact \u2014 Vehicle",
-            "number": 265,
+            "number": 266,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "Whenever River Person's Raft attacks, surveil 1.\nCrew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
@@ -1249,6 +1315,7 @@
             "artist": "RandomOmelette (Reddit)",
             "alias": "",
             "position": "54",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1259,7 +1326,7 @@
             "number": 70,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Flash\nEnchant creature\nWhen this Aura enters, surveil 2.\nEnchanted creature gets -2/-0.",
+            "rules_text": "Flash\nEnchant creature\nWhen this Aura enters, surveil 2.\nEnchanted creature gets -2/-0. As long as it's attacking a battle, it gets an additional -2/-0.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1269,6 +1336,7 @@
             "artist": "Palidoozy-Art (Tumblr)",
             "alias": "",
             "position": "55",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1279,7 +1347,7 @@
             "number": 112,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nYou draw two cards and lose 2 life. If your LV is 9 or higher, instead you draw three cards and lose 3 life.",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nYou draw two cards and lose 2 life. If your LV is 5 or higher, instead you draw three cards and lose 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1289,6 +1357,7 @@
             "artist": "Mewpet (Tumblr)",
             "alias": "",
             "position": "56",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1309,6 +1378,7 @@
             "artist": "Wawako-awa (Tumblr)",
             "alias": "",
             "position": "57",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1316,7 +1386,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 276,
+            "number": 277,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {B} or {G}.\n{B}{G}, {T}, Sacrifice this land, Exile four cards from your graveyard: Create two 2/1 black Spider creatures token with reach. Activate only as a sorcery.",
@@ -1329,14 +1399,15 @@
             "artist": "Eggwishing (Tumblr)",
             "alias": "",
             "position": "58",
-            "notes": ""
+            "rotated": false,
+            "notes": "!tapped"
         },
         {
             "card_name": "Sentry Outpost",
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 277,
+            "number": 278,
             "color_identity": "WG",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {G} or {W}.\n{1}{G}{W}, {T}: Put a +1/+1 counter on target Soldier creature or creature token. Activate only as a sorcery.",
@@ -1349,14 +1420,15 @@
             "artist": "Tomi (Amino)",
             "alias": "",
             "position": "59",
-            "notes": ""
+            "rotated": false,
+            "notes": "!tapped"
         },
         {
             "card_name": "Waterfall Caverns",
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 281,
+            "number": 282,
             "color_identity": "UB",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {U} or {B}.\n{3}{U}{B}, {T}, Sacrifice this land: Return target noncreature, nonland card from your graveyard to your hand.",
@@ -1369,14 +1441,15 @@
             "artist": "CrazyAndFallenForArt (DeviantArt)",
             "alias": "",
             "position": "60",
-            "notes": ""
+            "rotated": false,
+            "notes": "!tapped"
         },
         {
             "card_name": "The CORE",
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 271,
+            "number": 272,
             "color_identity": "UR",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {U} or {R}.\n{2}{U}{R}, {T}, Sacrifice this land: Exile the top four cards of your library. Choose a noncreature, nonland card from among them. You may play that card until the end of your next turn.",
@@ -1389,14 +1462,15 @@
             "artist": "Pinesphinx (Tumblr)",
             "alias": "",
             "position": "61",
-            "notes": ""
+            "rotated": false,
+            "notes": "!tapped"
         },
         {
             "card_name": "Hotland Volcano",
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 273,
+            "number": 274,
             "color_identity": "WR",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {R} or {W}.\n{2}{R}{W}, {T}, Sacrifice this land: Create two colorless artifact tokens named Munitions with \u201cWhen this token leaves the battlefield, it deals 2 damage to any target.\u201d",
@@ -1409,17 +1483,18 @@
             "artist": "Wolf-NaKomis (DeviantArt)",
             "alias": "",
             "position": "62",
-            "notes": ""
+            "rotated": false,
+            "notes": "!tapped"
         },
         {
             "card_name": "Flower Patch",
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 272,
+            "number": 273,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\n{T}: Add {C}.\n{1}, {T}: Add one mana of any color.",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\n{T}: Add {C}.\n{1}, {T}: Add one mana of any color.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1429,6 +1504,7 @@
             "artist": "NightAngelTDC (DeviantArt)",
             "alias": "",
             "position": "63",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1439,7 +1515,7 @@
             "number": 107,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nUp to one target creature gets -X/-X until end of turn, where X is your LV.",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nUp to one target creature gets -X/-X until end of turn, where X is your LV.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1449,6 +1525,7 @@
             "artist": "Amikii (Tumblr)",
             "alias": "",
             "position": "64",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1456,10 +1533,10 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 270,
+            "number": 271,
             "color_identity": "BR",
             "cost": "",
-            "rules_text": "This land enters tapped.\nJudgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\n{T}: Add {B} or {R}.\n{1}{B}{R}, {T}, Sacrifice this land: Destroy target creature. Activate only if your LV is 9 or greater.",
+            "rules_text": "This land enters tapped.\nJudgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\n{T}: Add {B} or {R}.\n{1}{B}{R}, {T}, Sacrifice this land: Destroy target creature. Activate only if your LV is 9 or greater.",
             "flavor_text": "[i]\u201cIf by any chance you have any unfinished business... Please do as you must.\u201d \u2014Asgore[/i]",
             "pt": "",
             "special_text": "",
@@ -1469,14 +1546,15 @@
             "artist": "Bowedlech (Steam)",
             "alias": "",
             "position": "65",
-            "notes": ""
+            "rotated": false,
+            "notes": "!tapped"
         },
         {
             "card_name": "The True Lab",
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 280,
+            "number": 281,
             "color_identity": "UG",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {G} or {U}.\n{1}{G}{U}, {T}: Move a counter from target permanent you control onto another target permanent. Activate only as a sorcery.",
@@ -1489,14 +1567,15 @@
             "artist": "_Lati_ (Amino)",
             "alias": "",
             "position": "66",
-            "notes": ""
+            "rotated": false,
+            "notes": "!tapped"
         },
         {
             "card_name": "Undyne, Spear of Justice",
             "color": "RG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Fish Soldier",
-            "number": 255,
+            "number": 256,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
             "rules_text": "First strike\nWhenever you attack, Undyne fights up to one other target creature. [i](Each deals damage equal to their power to the other.)[/i]",
@@ -1509,6 +1588,7 @@
             "artist": "Pdubbsquared (DeviantArt)",
             "alias": "",
             "position": "67",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1529,6 +1609,7 @@
             "artist": "Wata_Lemon03 (Twitter)",
             "alias": "",
             "position": "68",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1538,8 +1619,8 @@
             "type": "Enchantment",
             "number": 41,
             "color_identity": "W",
-            "cost": "{1}{W}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nAt the beginning of your end step, if your LV is 2 or greater, sacrifice this enchantment.\nCreatures can't attack you unless their controller pays {2} for each creature they control that's attacking you.",
+            "cost": "{2}{W}{W}",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nCreatures can't attack you unless their controller sacrifices a permanent for each creature they control that's attacking you.\nWhen your LV is above 1, sacrifice this enchantment.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1549,6 +1630,7 @@
             "artist": "Momoppi (Tumblr)",
             "alias": "",
             "position": "69",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1556,10 +1638,10 @@
             "color": "WRG",
             "rarity": "mythic",
             "type": "Battle \u2014 Encounter",
-            "number": 218,
+            "number": 219,
             "color_identity": "WRG",
-            "cost": "{1}{R}{G}{W}",
-            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nFlash\nAs this Encounter enters, choose up to one target creature. \nThe chosen creature has hexproof and indestructible.",
+            "cost": "{R}{G}{W}",
+            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nFlash\nWhen this Encounter enters, choose up to one target creature. It gains hexproof and indestructible until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "6",
             "special_text": "",
@@ -1580,6 +1662,8 @@
             "loyalty2": "",
             "artist2": "Walkingmelonsaaa (DeviantArt)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1590,7 +1674,7 @@
             "number": 86,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When Burgerpants enters, create a Food token.\n[i]Sardonic Rant\u2014 {3}, {T}:[/i] Sacrifice another permanent: Each opponent loses 1 life.",
+            "rules_text": "When Burgerpants enters, surveil 1.\n[i]Fast Food Flunky [/i]\u2014 Pay 3 life, {T} or {3}, {T}: Create a Food token.",
             "flavor_text": "[i]\u201cI'm 19 years old and I've already wasted my entire life.\u201d[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -1600,6 +1684,7 @@
             "artist": "Wata_Lemon03 (Twiter)",
             "alias": "",
             "position": "71",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1620,6 +1705,7 @@
             "artist": "Razgrizes (Pixiv)",
             "alias": "",
             "position": "72",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1640,6 +1726,7 @@
             "artist": "SteffiSchuetze (Twitter)",
             "alias": "",
             "position": "73",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1660,6 +1747,7 @@
             "artist": "InsanelyADD (DeviantArt)",
             "alias": "",
             "position": "74",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1669,8 +1757,8 @@
             "type": "Sorcery",
             "number": 76,
             "color_identity": "U",
-            "cost": "{5}{U}{U}",
-            "rules_text": "This spell costs {2}{U} less to cast if it targets at least one creature you control.\nTap up to three target creatures and put a stun counter on each of them.\nDraw a card.",
+            "cost": "{4}{U}{U}",
+            "rules_text": "This spell costs {1}{U} less to cast if it targets at least one creature you control.\nTap up to three target creatures and put a stun counter on each of them.\nDraw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1680,6 +1768,7 @@
             "artist": "Alfos001 (DeviantArt)",
             "alias": "",
             "position": "75",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1687,7 +1776,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 175,
+            "number": 174,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "This spell costs {1} less to cast if it targets at least one Dog you control.\nUp to two target creatures you control each deal damage equal to their power to another target creature.",
@@ -1700,6 +1789,7 @@
             "artist": "Wawako-awa (Tumblr)",
             "alias": "",
             "position": "76",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1707,7 +1797,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 279,
+            "number": 280,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {R} or {G}.\n{1}{R}{G}, {T}, Sacrifice this land: Put two +1/+1 counters on target legendary creature. Activate only as a sorcery.",
@@ -1720,7 +1810,8 @@
             "artist": "Nekoichu (Tumblr)",
             "alias": "",
             "position": "77",
-            "notes": ""
+            "rotated": false,
+            "notes": "!tapped"
         },
         {
             "card_name": "Temmie Armor",
@@ -1740,6 +1831,7 @@
             "artist": "Ushcale (DeviantArt)",
             "alias": "",
             "position": "78",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1760,6 +1852,7 @@
             "artist": "Wata_Lemon03 (Twitter)",
             "alias": "",
             "position": "79",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1780,6 +1873,7 @@
             "artist": "Wata_Lemon03 (Twitter)",
             "alias": "",
             "position": "80",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1790,7 +1884,7 @@
             "number": 131,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "{1}, Sacrifice an artifact: This artifact deals 2 damage to any target. Activate only as a sorcery.",
+            "rules_text": "{1}, {T}, Sacrifice an artifact: This artifact deals 2 damage to any target. Activate only as a sorcery.",
             "flavor_text": "[i]\u201cEven my words are bombs!\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -1800,6 +1894,7 @@
             "artist": "Wata_Lemon03 (Twiter)",
             "alias": "",
             "position": "81",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1820,19 +1915,20 @@
             "artist": "Loblenty Ink (Pinterest)",
             "alias": "",
             "position": "82",
+            "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "Aaron",
+            "card_name": "Strapping Aaron",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Fish Horse",
-            "number": 171,
+            "number": 208,
             "color_identity": "G",
-            "cost": "{2}{G}",
+            "cost": "{3}{G}",
             "rules_text": "[i]Admire[/i]\u2014This creature has trample as long as there are two or more types of counters among creatures you control.\n[i]Flex\u2014[/i]Whenever this creature attacks, put a +1/+1 counter on it.",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "UDT",
@@ -1840,6 +1936,7 @@
             "artist": "Wata_Lemon03 (Twitter)",
             "alias": "",
             "position": "83",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1860,6 +1957,7 @@
             "artist": "Wata_Lemon03 (Twiter)",
             "alias": "",
             "position": "84",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1880,6 +1978,7 @@
             "artist": "Irima (Tumblr)",
             "alias": "",
             "position": "85",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1887,7 +1986,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Construct",
-            "number": 263,
+            "number": 264,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "When this creature enters, mill three cards. \n{2}, {T}: Put target card from a graveyard on the bottom of its owner's library.",
@@ -1900,6 +1999,7 @@
             "artist": "Pinesphinx (Tumblr)",
             "alias": "",
             "position": "86",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1907,7 +2007,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 275,
+            "number": 276,
             "color_identity": "WB",
             "cost": "",
             "rules_text": "This land enters tapped.\n{T}: Add {W} or {B}.\n{1}{W}{B}, {T}: If you own a card in exile, you gain 1 life and each opponent loses 1 life.",
@@ -1920,14 +2020,15 @@
             "artist": "Wata_Lemon03 (Twitter)",
             "alias": "",
             "position": "87",
-            "notes": ""
+            "rotated": false,
+            "notes": "!tapped"
         },
         {
             "card_name": "Toriel, Mourning Mother",
             "color": "WB",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Goat Noble",
-            "number": 254,
+            "number": 255,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
             "rules_text": "Whenever Toriel enters or attacks, surveil 1.\n{1}{B}: Exile target card from a graveyard. If it was a creature card, you gain 1 life and each opponent loses 1 life.",
@@ -1940,6 +2041,7 @@
             "artist": "Onfdraws (Tumblr)",
             "alias": "",
             "position": "88",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1960,17 +2062,18 @@
             "artist": "Palidoozy-Art (Tumblr)",
             "alias": "",
             "position": "89",
+            "rotated": false,
             "notes": ""
         },
         {
             "card_name": "Alphys, Inventive Ally",
-            "color": "WU",
+            "color": "UR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Lizard Scientist",
-            "number": 214,
-            "color_identity": "WU",
-            "cost": "{1}{W}{U}",
-            "rules_text": "Whenever you cast an Aura or Equipment spell, draw a card.\nWhenever an equipped or enchanted creature attacks, it gets +1/+1 until end of turn.",
+            "number": 215,
+            "color_identity": "UR",
+            "cost": "{1}{U}{R}",
+            "rules_text": "Prowess\nAt the beginning of your upkeep, another target creature you control gains prowess until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1980,6 +2083,7 @@
             "artist": "Sunsestart (Instagram)",
             "alias": "",
             "position": "90",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1987,10 +2091,10 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 278,
+            "number": 279,
             "color_identity": "WU",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {W} or {U}.\n{2}{W}{U}, {T}: Target enchanted or equipped creature you control gains double strike until end of turn. Activate only as a sorcery.",
+            "rules_text": "This land enters tapped.\n{T}: Add {W} or {U}.\n{2}{W}{U}, {T}: Target enchanted or equipped creature you control gains flying until end of turn. Activate only as a sorcery.",
             "flavor_text": "[i]\u201cAlong the way, some fuzzy folk decided they liked the cold and set up camp.\u201d \u2014Snowdin Shopkeeper.[/i]",
             "pt": "",
             "special_text": "",
@@ -2000,7 +2104,8 @@
             "artist": "Latyprod (DeviantArt)",
             "alias": "",
             "position": "91",
-            "notes": ""
+            "rotated": false,
+            "notes": "!tapped"
         },
         {
             "card_name": "Empty Gun",
@@ -2020,6 +2125,7 @@
             "artist": "Tamita-sama (DeviantArt)",
             "alias": "",
             "position": "92",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2040,6 +2146,7 @@
             "artist": "Tamita-sama (DeviantArt)",
             "alias": "",
             "position": "93",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2049,8 +2156,8 @@
             "type": "Artifact \u2014 Equipment",
             "number": 82,
             "color_identity": "U",
-            "cost": "{3}{U}",
-            "rules_text": "When this Equipment enters, create a 1/1 colorless Human creature token, then attach this Equipment to it.\nEquipped creature gets +2/+2 and has prowess.\nEquip {5}",
+            "cost": "{1}{U}",
+            "rules_text": "When this Equipment enters, create a 1/1 colorless Human creature token, then attach this Equipment to it.\nEquipped creature has prowess.\nEquip {2}",
             "flavor_text": "[i]Contains illegible scrawls.[/i]",
             "pt": "",
             "special_text": "",
@@ -2060,6 +2167,7 @@
             "artist": "Tanita-sama (DeviantArt)",
             "alias": "",
             "position": "94",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2080,12 +2188,13 @@
             "artist": "\u30d0\u30ec (Pixiv)",
             "alias": "",
             "position": "95",
+            "rotated": false,
             "notes": ""
         },
         {
             "card_name": "Ideation",
             "color": "W",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Enchantment \u2014 Aura",
             "number": 17,
             "color_identity": "W",
@@ -2100,6 +2209,7 @@
             "artist": "Fudgecake-Charlie (Tumblr)",
             "alias": "",
             "position": "96",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2109,10 +2219,10 @@
             "type": "Creature \u2014 Elemental",
             "number": 19,
             "color_identity": "W",
-            "cost": "{2}{W}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nDefender\nWhenever your LV increases to a number above 7, transform this creature.",
+            "cost": "{1}{W}",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nDefender\n{6}, {T}: If your LV is 3 or below, exile Lonely Snowman and create three 2/2 green Citizen creature tokens. Otherwise, transform it.",
             "flavor_text": "[i][/i]",
-            "pt": "2/4",
+            "pt": "0/4",
             "special_text": "",
             "shape": "transform double faced",
             "set": "UDT",
@@ -2131,6 +2241,8 @@
             "loyalty2": "",
             "artist2": "Skrrt (Amino)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2140,8 +2252,8 @@
             "type": "Enchantment \u2014 Aura",
             "number": 22,
             "color_identity": "W",
-            "cost": "{W}",
-            "rules_text": "Enchant creature\nWhen this Aura enters, if you control an artifact, draw a card.\nEnchanted creature gets +1/+1.",
+            "cost": "{1}{W}",
+            "rules_text": "Enchant creature\nWhen this Aura enters, if you control an artifact, draw a card.\nEnchanted creature gets +1/+2.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2151,6 +2263,7 @@
             "artist": "Torukoisu (FurAffinity)",
             "alias": "",
             "position": "98",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2171,6 +2284,7 @@
             "artist": "_Caelum_Cae (Twitter)",
             "alias": "",
             "position": "99",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2191,6 +2305,7 @@
             "artist": "Wata_Lemon03 (Twitter)",
             "alias": "",
             "position": "100",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2211,6 +2326,7 @@
             "artist": "Tamita-sama (DeviantArt)",
             "alias": "",
             "position": "101",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2231,6 +2347,7 @@
             "artist": "Raina0918 (DeviantArt)",
             "alias": "",
             "position": "102",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2251,6 +2368,7 @@
             "artist": "Akupaka (DeviantArt)",
             "alias": "",
             "position": "103",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2271,6 +2389,7 @@
             "artist": "Pkbunny (Tumblr)",
             "alias": "",
             "position": "104",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2291,6 +2410,7 @@
             "artist": "Wawako-awa (Tumblr)",
             "alias": "",
             "position": "105",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2311,6 +2431,7 @@
             "artist": "FleshQB (DeviantArt)",
             "alias": "",
             "position": "106",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2331,6 +2452,7 @@
             "artist": "Christistar27 (DeviantArt)",
             "alias": "",
             "position": "107",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2351,17 +2473,18 @@
             "artist": "Tabascofanatikerin (Steam)",
             "alias": "",
             "position": "108",
+            "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "Thundersnail",
+            "card_name": "Thunderous Snail",
             "color": "G",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Creature \u2014 Snail",
-            "number": 209,
+            "number": 210,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "This creature enters tapped with a stun counter on it.",
+            "rules_text": "Whenever this creature attacks, put a stun counter on it.",
             "flavor_text": "[i]\u201clooks like you encouraged your snail too much... all that pressure to succeed... really got to her...\u201d \n\u2014Napstablook[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2371,6 +2494,7 @@
             "artist": "Chocochalk (DeviantArt)",
             "alias": "",
             "position": "109",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2381,7 +2505,7 @@
             "number": 155,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nExile the top card of your library. You may play it this turn. If your LV is 2 or higher, exile this card.\nEscape\u2014{1}{R}, Exile two cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nExile the top card of your library. You may play it this turn. If your LV is 2 or higher, exile this card.\nEscape\u2014{1}{R}, Exile two cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2391,6 +2515,7 @@
             "artist": "Brendan Cave (Cara)",
             "alias": "",
             "position": "110",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2400,10 +2525,10 @@
             "type": "Creature \u2014 Demon Beast",
             "number": 92,
             "color_identity": "B",
-            "cost": "{4}{B}",
-            "rules_text": "{2}{B}: Transform Demonic Optimist. Activate only if you own three or more cards in exile and only as a sorcery.",
+            "cost": "{1}{B}",
+            "rules_text": "{4}{B}: Draw a card, then transform this creature. Activate only if you own four or more cards in exile and only once each turn.",
             "flavor_text": "[i]\u201cWe all know the underground has problems, but we smile anyway.\u201d[/i]",
-            "pt": "4/5",
+            "pt": "1/3",
             "special_text": "",
             "shape": "transform double faced",
             "set": "UDT",
@@ -2422,6 +2547,8 @@
             "loyalty2": "",
             "artist2": "ZandraArt (Tumblr)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2442,6 +2569,7 @@
             "artist": "Depresso_espresso9 (Reddit)",
             "alias": "",
             "position": "112",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2462,6 +2590,7 @@
             "artist": "The_M0thman (Twitter)",
             "alias": "",
             "position": "113",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2482,6 +2611,7 @@
             "artist": "ArchaicNigthfall (Tumblr)",
             "alias": "",
             "position": "114",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2502,6 +2632,7 @@
             "artist": "Tamita-sama (DeviantArt)",
             "alias": "",
             "position": "115",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2512,7 +2643,7 @@
             "number": 164,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nTarget creature you control gets +3/+1 until end of turn.",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nTarget creature you control gets +3/+1 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2522,6 +2653,7 @@
             "artist": "Sa-Dui (FurAffinity)",
             "alias": "",
             "position": "116",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2542,6 +2674,7 @@
             "artist": "Kompy (DeviantArt)",
             "alias": "",
             "position": "117",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2551,10 +2684,10 @@
             "type": "Legendary Creature \u2014 Elemental",
             "number": 147,
             "color_identity": "R",
-            "cost": "{R}",
+            "cost": "{1}{R}",
             "rules_text": "At the beginning of combat on your turn, if you control another legendary creature, Heats Flamesman gets +1/+1 and gains haste until end of turn.",
             "flavor_text": "[i]\u201cI'm Heats Flamesman. Remember my name!\u201d[/i]",
-            "pt": "1/1",
+            "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "UDT",
@@ -2562,6 +2695,7 @@
             "artist": "ToastieMan (DeviantArt)",
             "alias": "",
             "position": "118",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2582,6 +2716,7 @@
             "artist": "KoshaVinka (Twitter)",
             "alias": "",
             "position": "119",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2602,6 +2737,7 @@
             "artist": "Cocoa_ando (Tumblr)",
             "alias": "",
             "position": "120",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2622,6 +2758,7 @@
             "artist": "Luna-The-white-wolf (DeviantArt)",
             "alias": "",
             "position": "121",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2642,6 +2779,7 @@
             "artist": "Pinesphinx (Tumblr)",
             "alias": "",
             "position": "122",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2662,6 +2800,7 @@
             "artist": "Temmie (Temmie)",
             "alias": "",
             "position": "123",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2669,12 +2808,12 @@
             "color": "G",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Dog Soldier",
-            "number": 176,
+            "number": 175,
             "color_identity": "G",
-            "cost": "{3}{G}",
-            "rules_text": "Trample\nWhenever Dogamy and Dogaressa attack, if you control a token or another Dog, put a +1/+1 counter on Dogamy and Dogaressa.",
+            "cost": "{4}{G}{G}",
+            "rules_text": "Vigilance\nWhenever Dogamy and Dogaressa attack, you may pay {1}{G}. If you do, create a 2/2 white Dog Soldier creature token with \u201cThis creature can't block non-Human creatures.\u201d",
             "flavor_text": "[i]\u201cIf you're a smell...\u201d \n\u201c...identify yoursmellf!\u201d[/i]",
-            "pt": "4/3",
+            "pt": "6/6",
             "special_text": "",
             "shape": "normal",
             "set": "UDT",
@@ -2682,6 +2821,7 @@
             "artist": "Kennythemesht (Amino)",
             "alias": "",
             "position": "124",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2689,12 +2829,12 @@
             "color": "G",
             "rarity": "common",
             "type": "Legendary Creature \u2014 Dog Soldier",
-            "number": 177,
+            "number": 176,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Vigilance\n{1}{G}: Doggo gains deathtouch until end of turn.",
+            "rules_text": "Defender\n{4}{G}{G}, Exile this card from your graveyard: Create two 2/2 white Dog Soldier creature tokens with \u201cThis creature can't block non-Human creatures.\u201d",
             "flavor_text": "[i]Easily excited by movement.[/i]",
-            "pt": "1/1",
+            "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "UDT",
@@ -2702,6 +2842,7 @@
             "artist": "Wata_Lemon03 (Twiter)",
             "alias": "",
             "position": "125",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2711,8 +2852,8 @@
             "type": "Artifact \u2014 Equipment",
             "number": 198,
             "color_identity": "G",
-            "cost": "{1}{G}",
-            "rules_text": "When this Equipment enters, create a 1/1 colorless Human creature token, then attach this Equipment to it.\nEquipped creature has \u201cWhenever this creature attacks, put a +1/+1 counter on it.\u201d\nEquip {3}",
+            "cost": "{3}{G}",
+            "rules_text": "When this Equipment enters, create a 1/1 colorless Human creature token, then attach this Equipment to it.\nEquipped creature gets +3/+2 and has \u201cWhenever equipped creature attacks, creatures you control gain trample until end of turn.\u201d\nEquip {6}",
             "flavor_text": "[i]It has seen some wear. [/i]",
             "pt": "",
             "special_text": "",
@@ -2722,6 +2863,7 @@
             "artist": "Kiwispoons (Twitter)",
             "alias": "",
             "position": "126",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2729,7 +2871,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Cat Citizen",
-            "number": 178,
+            "number": 177,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "When this creature enters, create a Food token.\n{2}{G}: Transform this creature. Activate only if this creature is untapped and as a sorcery.",
@@ -2746,13 +2888,15 @@
             "color2": "G",
             "type2": "Enchantment",
             "cost2": "",
-            "rules_text2": "As long as you control a Food, Treasure, or Clue, creatures you control get +1/+1.",
+            "rules_text2": "As long as you control a token, creatures you control get +1/+1.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Mamenoeblog (Archived, Tumblr)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2773,6 +2917,7 @@
             "artist": "Wata_Lemon03 (Twitter)",
             "alias": "",
             "position": "128",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2793,6 +2938,7 @@
             "artist": "Koloquials (DeviantArt)",
             "alias": "",
             "position": "129",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2800,7 +2946,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 182,
+            "number": 181,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "You may play an additional land this turn.\nDraw a card.",
@@ -2813,6 +2959,7 @@
             "artist": "ZandraArt (Tumblr)",
             "alias": "",
             "position": "130",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2833,6 +2980,7 @@
             "artist": "RandomOmelette (Reddit)",
             "alias": "",
             "position": "131",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2853,6 +3001,7 @@
             "artist": "Kiwispoons (Twitter)",
             "alias": "",
             "position": "132",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2860,7 +3009,7 @@
             "color": "WU",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Equipment",
-            "number": 222,
+            "number": 223,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
             "rules_text": "When this Equipment enters, create a 1/1 colorless Human creature token, then attach this Equipment to it.\nEquipped creature gets +1/+1 for each Aura and Equipment you control.\nEquip {3}",
@@ -2873,6 +3022,7 @@
             "artist": "Kiwispoons (Twitter)",
             "alias": "",
             "position": "133",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2880,7 +3030,7 @@
             "color": "UB",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Octopus",
-            "number": 244,
+            "number": 245,
             "color_identity": "UB",
             "cost": "{6}{U}{B}",
             "rules_text": "This spell costs {1} less to cast for each noncreature, nonland card in your graveyard.\nWhenever Onionsan enters or attacks, surveil 1, then draw a card.",
@@ -2893,6 +3043,7 @@
             "artist": "Kyouichi-s (DeviantArt)",
             "alias": "",
             "position": "134",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2913,6 +3064,7 @@
             "artist": "Kiwispoons (Twitter)",
             "alias": "",
             "position": "135",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2923,7 +3075,7 @@
             "number": 83,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Counter target spell unless its controller pays {2}. When they do, target creature you control phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]",
+            "rules_text": "Counter target spell unless its controller pays {2}. When they do, up to one target creature you control phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]",
             "flavor_text": "[i]\u201cwhat? you think i'm just gonna stand there and take it?\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -2933,6 +3085,7 @@
             "artist": "AngyLuffy (DeviantArt)",
             "alias": "",
             "position": "136",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2953,6 +3106,7 @@
             "artist": "Gray_sylph_art (Twitter)",
             "alias": "",
             "position": "137",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2984,17 +3138,19 @@
             "loyalty2": "",
             "artist2": "Pinesphinx (Tumblr)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
             "card_name": "Patience Magic",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Enchantment",
+            "type": "Enchantment \u2014 Aura",
             "number": 69,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "At the beginning of your upkeep, if you removed a stun counter from a creature you control this turn, draw a card. Otherwise, tap up to one target creature you control and put a stun counter on it.",
+            "rules_text": "Enchant player\nWhenever enchanted player removes a stun counter from a creature they control, you draw a card. This ability triggers only once each turn.",
             "flavor_text": "[i]\u201csimple, right? when fighting, think about blue stop signs.\u201d -Sans[/i]",
             "pt": "",
             "special_text": "",
@@ -3004,6 +3160,7 @@
             "artist": "Octigone (Twitter)",
             "alias": "",
             "position": "139",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3014,9 +3171,9 @@
             "number": 101,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nWhen this Encounter enters, create a Food token.",
+            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nAt the beginning of your upkeep, you gain 1 life.",
             "flavor_text": "[i][/i]",
-            "pt": "3",
+            "pt": "4",
             "special_text": "",
             "shape": "double faced",
             "set": "UDT",
@@ -3030,11 +3187,13 @@
             "cost2": "",
             "rules_text2": "Reach\nWhen this creature enters, each player loses 3 life.",
             "flavor_text2": "[i][/i]",
-            "pt2": "3/2",
+            "pt2": "3/3",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "WasteButterscotch810 (Reddit)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3055,6 +3214,7 @@
             "artist": "Angelyn Delmo (ArtStation)",
             "alias": "",
             "position": "141",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3075,6 +3235,7 @@
             "artist": "Uzeil21 (DeviantArt)",
             "alias": "",
             "position": "142",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3084,8 +3245,8 @@
             "type": "Battle \u2014 Encounter",
             "number": 102,
             "color_identity": "B",
-            "cost": "{3}{B}",
-            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nWhenever a player attacks this Encounter with one or more creatures, they exile the top card of their library. Then you draw a card and lose 1 life.",
+            "cost": "{2}{B}",
+            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nAt the beginning of your upkeep, look at the top card of your library. You may exile it.",
             "flavor_text": "[i][/i]",
             "pt": "4",
             "special_text": "",
@@ -3099,13 +3260,15 @@
             "color2": "B",
             "type2": "Sorcery",
             "cost2": "",
-            "rules_text2": "Target creature gets -X/-X until end of turn, where X is the number of cards you own in exile. If that creature would die that turn, exile it instead.",
+            "rules_text2": "Target creature gets -X/-X until end of turn, where X is the number of cards in exile. If that creature would die that turn, exile it instead.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Pinesphinx (Tumblr)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3126,6 +3289,7 @@
             "artist": "Shrineart (Tuimblr)",
             "alias": "",
             "position": "144",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3136,7 +3300,7 @@
             "number": 156,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "At the beginning of combat on your turn, up to one target noncreature artifact becomes a 2/2 Robot artifact creature and gains haste. Sacrifice it at the beginning of the next end step.",
+            "rules_text": "At the beginning of combat on your turn, up to one target noncreature artifact you control becomes a 2/2 Robot artifact creature and gains haste. Sacrifice it at the beginning of the next end step.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -3146,6 +3310,7 @@
             "artist": "Plagedark (Newgrounds)",
             "alias": "",
             "position": "145",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3166,6 +3331,7 @@
             "artist": "Kiwispoons (Twitter)",
             "alias": "",
             "position": "146",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3173,12 +3339,12 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Battle \u2014 Encounter",
-            "number": 139,
+            "number": 140,
             "color_identity": "R",
             "cost": "{4}{R}",
-            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nWhen this Encounter enters, choose one\u2014\n\u2022 Encounter deals 6 damage to up to one target creature.\n\u2022 Exile target artifact. This Encounter deals 2 damage to its controller.",
+            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nWhen this Encounter enters, choose one\u2014\n\u2022 This Encounter deals 6 damage to up to one target creature.\n\u2022 Exile target artifact. This Encounter deals 2 damage to its controller.",
             "flavor_text": "[i][/i]",
-            "pt": "7",
+            "pt": "6",
             "special_text": "",
             "shape": "double faced",
             "set": "UDT",
@@ -3190,13 +3356,15 @@
             "color2": "R",
             "type2": "Enchantment",
             "cost2": "",
-            "rules_text2": "At the beginning of combat on your turn, up to one target creature gets +1/+0 and gains first strike until end of turn.",
+            "rules_text2": "At the beginning of combat on your turn, up to one target creature gets +1/+0 and gains haste until end of turn.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Pdubbsquared (DeviantArt)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3217,6 +3385,7 @@
             "artist": "GoldenFreddy15 (DeviantArt)",
             "alias": "",
             "position": "148",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3226,10 +3395,10 @@
             "type": "Battle \u2014 Encounter",
             "number": 11,
             "color_identity": "W",
-            "cost": "{2}{W}",
-            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)\n[/i]When this Encounter enters, create a 2/2 white Dog Soldier creature token.",
+            "cost": "{4}{W}",
+            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)\n[/i]At the beginning of your end step, create a 2/2 white Dog Soldier creature token with \u201cThis creature can't block non-Human creatures.\u201d",
             "flavor_text": "[i][/i]",
-            "pt": "6",
+            "pt": "3",
             "special_text": "",
             "shape": "double faced",
             "set": "UDT",
@@ -3237,7 +3406,7 @@
             "artist": "Cubesona (DeviantArt)",
             "alias": "",
             "position": "149",
-            "card_name2": "Throwing Stick\nThrowing Stick",
+            "card_name2": "Throwing Stick",
             "color2": "W",
             "type2": "Artifact \u2014 Equipment",
             "cost2": "",
@@ -3248,6 +3417,8 @@
             "loyalty2": "",
             "artist2": "TheSketchDen (Tumblr)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3255,7 +3426,7 @@
             "color": "UG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Wolf Citizen",
-            "number": 235,
+            "number": 236,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
             "rules_text": "Whenever this creature attacks, put a stun counter on it.\n{G}{U}: Move a counter from target creature you control onto another target creature you control. Activate only as a sorcery.",
@@ -3268,6 +3439,7 @@
             "artist": "Gemhunter178 (DeviantArt)",
             "alias": "",
             "position": "150",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3288,6 +3460,7 @@
             "artist": "Le-Poofe (Tumblr)",
             "alias": "",
             "position": "151",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3295,7 +3468,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Fish Soldier",
-            "number": 211,
+            "number": 212,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Vigilance, trample\nWhen Undyne enters, create a 1/1 white Soldier token.",
@@ -3308,6 +3481,7 @@
             "artist": "JewelMaiden (DeviantArt)",
             "alias": "",
             "position": "152",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3317,8 +3491,8 @@
             "type": "Battle \u2014 Encounter",
             "number": 10,
             "color_identity": "W",
-            "cost": "{3}{W}{W}",
-            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nWhen this Encounter enters, return target creature, artifact, or enchantment card from your graveyard to the battlefield.",
+            "cost": "{2}{W}{W}",
+            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nWhenever a creature you control with power 2 or less enters, draw a card. This ability triggers only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "5",
             "special_text": "",
@@ -3328,17 +3502,19 @@
             "artist": "Cocoa-ando (Tumblr)",
             "alias": "",
             "position": "153",
-            "card_name2": "Solemn Sympathies",
+            "card_name2": "Habitual Caretaking",
             "color2": "W",
             "type2": "Enchantment",
             "cost2": "",
-            "rules_text2": "At the beginning of each opponent's upkeep, that player may pay {2}. If they don't, they can't cast noncreature spells this turn.",
+            "rules_text2": "If an ability of a creature you control with power 2 or less triggers, that ability triggers an additional time.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Wata_Lemon03 (Twitter)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3359,6 +3535,7 @@
             "artist": "Wata_Lemon03 (Twitter)",
             "alias": "",
             "position": "154",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3371,7 +3548,7 @@
             "cost": "{2}{U}",
             "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nWhenever one or more creatures you control deal combat damage to this Encounter, draw a card.",
             "flavor_text": "[i][/i]",
-            "pt": "5",
+            "pt": "6",
             "special_text": "",
             "shape": "double faced",
             "set": "UDT",
@@ -3383,13 +3560,15 @@
             "color2": "U",
             "type2": "Sorcery",
             "cost2": "",
-            "rules_text2": "Surveil 2.",
+            "rules_text2": "Surveil number.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Pinesphinx (Tumblr)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3410,6 +3589,7 @@
             "artist": "Ash Szymanik",
             "alias": "",
             "position": "156",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3430,6 +3610,7 @@
             "artist": "Kwinorc (Reddit)",
             "alias": "",
             "position": "157",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3440,7 +3621,7 @@
             "number": 127,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "Other non-human creatures get +1/+1.\nHuman creatures get -1/-1.\n{3}{B}{B}: Exile target non-Human creature if its controller also controls a Human.",
+            "rules_text": "Other non-Human creatures get +1/+1.\nHuman creatures get -1/-1.\n{3}{B}{B}: Exile target non-Human creature if its controller also controls a Human.",
             "flavor_text": "[i][/i]",
             "pt": "5/3",
             "special_text": "",
@@ -3450,6 +3631,7 @@
             "artist": "Corvusam (DeviantArt)",
             "alias": "",
             "position": "158",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3460,7 +3642,7 @@
             "number": 115,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nEnchant creature\nEnchanted creature gets +X/+X and each other creature you control gets -X/-X, where X is your LV.",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nEnchant creature\nEnchanted creature gets +X/+X and each other creature you control gets -X/-X, where X is your LV.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3470,6 +3652,7 @@
             "artist": "Wata_Lemon03 (Twitter)",
             "alias": "",
             "position": "159",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3479,8 +3662,8 @@
             "type": "Battle \u2014 Encounter",
             "number": 100,
             "color_identity": "B",
-            "cost": "{3}{B}{B}",
-            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nAt the beginning of your upkeep, surveil 1.\nIf a card or token would be put into a graveyard from anywhere, exile it instead with a void counter on it.",
+            "cost": "{4}{B}{B}",
+            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nWhenever you cast a spell, exile that spell and up to one target creature with a void counter on each of them.",
             "flavor_text": "[i][/i]",
             "pt": "6",
             "special_text": "",
@@ -3494,13 +3677,15 @@
             "color2": "B",
             "type2": "Legendary Artifact",
             "cost2": "",
-            "rules_text2": "{B}, {T}: Choose an exiled card with a void counter on it. You may play it this turn by paying life equal to its mana value rather than paying its mana cost. Activate only as a sorcery.",
+            "rules_text2": "{3}, {T}: Choose an exiled card with a void counter on it. You may play it this turn by paying life equal to its mana value rather than paying its mana cost. Activate only as a sorcery.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Meanpersona_art (Twitter)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3521,6 +3706,7 @@
             "artist": "Loopy-Lupe (Tumblr)",
             "alias": "",
             "position": "161",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3552,6 +3738,8 @@
             "loyalty2": "",
             "artist2": "A-Zelene (DeviantArt)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3559,10 +3747,10 @@
             "color": "G",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human",
-            "number": 185,
+            "number": 184,
             "color_identity": "G",
-            "cost": "{4}{G}{G}",
-            "rules_text": "Affinity for legendary creatures [i](This spell costs {1} less to cast for each legendary creature you control.)[/i]\nWhen Frisk enters, reveal the top six cards of your library. Put all non-human legendary creature cards from among them into your hand and the rest on the bottom of your library in a random order.",
+            "cost": "{4}{G}",
+            "rules_text": "Affinity for legendary creatures [i](This spell costs {1} less to cast for each legendary creature you control.)[/i]\nWhen Frisk enters, reveal the top six cards of your library. Put all non-Human legendary creature cards from among them into your hand and the rest on the bottom of your library in a random order.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3572,6 +3760,7 @@
             "artist": "Moofrog (Tumblr)",
             "alias": "",
             "position": "163",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3592,6 +3781,7 @@
             "artist": "Sunny-D-Lite (DeviantArt)",
             "alias": "",
             "position": "164",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3612,6 +3802,7 @@
             "artist": "Skya_mint (Reddit)",
             "alias": "",
             "position": "165",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3622,7 +3813,7 @@
             "number": 151,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nIf a source you control would deal damage to a permanent or player, it deals that much damage plus 1 instead. If your LV is 9 or greater, it deals double instead. If your LV is 19 or greater, it deals triple instead.",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nIf a source you control would deal damage to a permanent or player, it deals that much damage plus 1 instead. If your LV is 5 or greater, it deals double instead. If your LV is 9 or greater, it deals triple instead. If your LV is 19 or greater, that player or that permanent's controller loses the game.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3632,6 +3823,7 @@
             "artist": "WalkingMelonsAAA (DeviantArt)",
             "alias": "",
             "position": "166",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3652,6 +3844,7 @@
             "artist": "Undertale Tarot",
             "alias": "",
             "position": "167",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3659,7 +3852,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature \u2014 Cat Citizen",
-            "number": 208,
+            "number": 209,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "[i]Keen Business Sense\u2014[/i]If you would create one or more non-Treasure tokens, instead create those tokens plus an additional Treasure token.",
@@ -3672,6 +3865,7 @@
             "artist": "Dissapointingshadow (Reddit)",
             "alias": "",
             "position": "168",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3679,10 +3873,10 @@
             "color": "G",
             "rarity": "rare",
             "type": "Battle \u2014 Encounter",
-            "number": 179,
+            "number": 178,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
-            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nWhen this Encounter enters, look at the top five cards of your library. You may put a creature card from among them onto the battlefield and the rest on the bottom of your library in any order.",
+            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nAt the beginning of your upkeep, look at the top two cards of your library. You may put a creature card from among them onto the battlefield and the rest on the bottom of your library in any order.",
             "flavor_text": "[i][/i]",
             "pt": "6",
             "special_text": "",
@@ -3703,6 +3897,8 @@
             "loyalty2": "",
             "artist2": "Hdtrere (Reddit)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3710,7 +3906,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Artifact Creature \u2014 Food Beast",
-            "number": 212,
+            "number": 213,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "[i]Extra Nutritious \u2014 [/i]Other foods you control have \u201c{3}, {T}, Sacrifice this artifact: You gain 5 life.\u201d\n{2}, {T}, Sacrifice this artifact: You gain 3 life.",
@@ -3723,6 +3919,7 @@
             "artist": "Shimmershy (Tumblr)",
             "alias": "",
             "position": "170",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3733,7 +3930,7 @@
             "number": 39,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
-            "rules_text": "Vigilance\n[i]Sanctuary\u2014 {T}:[/i] Exile Toriel and any number of other target creatures you control. Return them to the battlefield tapped under their owners' control at the beginning of your next upkeep.",
+            "rules_text": "Vigilance\n[i]Sanctuary \u2014 {T}:[/i] Exile Toriel and any number of other target creatures you control. Return them to the battlefield tapped under their owners' control at the beginning of your next upkeep.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -3743,6 +3940,7 @@
             "artist": "SkreeBatt (DeviantArt)",
             "alias": "",
             "position": "171",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3763,6 +3961,7 @@
             "artist": "Pinesphinx (Tumblr)",
             "alias": "",
             "position": "172",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3783,26 +3982,28 @@
             "artist": "ItzAngelDraws (DrviantArt)",
             "alias": "",
             "position": "173",
+            "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "Sans, Time-Space Prankster",
+            "card_name": "Self-Sustaining Trashnado",
             "color": "U",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Skeleton",
+            "type": "Creature \u2014 Elemental",
             "number": 75,
             "color_identity": "U",
-            "cost": "{U}",
-            "rules_text": "At the beginning of your end step, choose a card name that isn't a basic land, then exile the bottom card of target opponent's library. If the exiled card has the chosen name, draw three cards.",
-            "flavor_text": "[i]\u201cnot only is that completely infantile... but it's also my secret codeword.\u201d[/i]",
-            "pt": "1/1",
+            "cost": "{1}{U}",
+            "rules_text": "Flying\nAt the beginning of combat on your turn, put a +1/+1 counter on this creature, then return target nonland permanent with mana value equal to this creature's power to its owner's hand.",
+            "flavor_text": "[i][/i]",
+            "pt": "0/2",
             "special_text": "",
             "shape": "normal",
             "set": "UDT",
             "loyalty": "",
-            "artist": "TsaoShin (DeviantArt)",
+            "artist": "umeco_feb (Twitter)",
             "alias": "",
             "position": "174",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3813,7 +4014,7 @@
             "number": 104,
             "color_identity": "WUBRG",
             "cost": "{B}",
-            "rules_text": "Deathtouch\nAt the beginning of your upkeep, you may pay {2}{W}{U}{B}{R}{G}. If you do, transform Flowey.\nEscape\u2014{1}{B}, Exile five other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
+            "rules_text": "Deathtouch\nAt the beginning of your upkeep, you may pay {2}{W}{U}{B}{R}{G}. If you do, transform Flowey.\nEscape\u2014{3}{B}, Exile five other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
             "flavor_text": "[i]\u201cWhat if I told you I knew some way to get you\na better ending?\u201d[/i]",
             "pt": "1/2",
             "special_text": "",
@@ -3834,6 +4035,8 @@
             "loyalty2": "",
             "artist2": "FriedUnicornStudio (Etsy)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3854,6 +4057,7 @@
             "artist": "TNTVale (DeviantArt)",
             "alias": "",
             "position": "176",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3874,6 +4078,7 @@
             "artist": "Mozer (ARTstreet)",
             "alias": "",
             "position": "177",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3881,10 +4086,10 @@
             "color": "G",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 186,
+            "number": 185,
             "color_identity": "G",
-            "cost": "{2}{G}",
-            "rules_text": "Whenever a legendary creature you control enters or attacks, surveil 1. \nWhenever two legendary creatures you control attack together, transform this enchantment.",
+            "cost": "{1}{G}",
+            "rules_text": "Whenever a legendary creature you control enters, surveil 2. \nWhenever two legendary creatures you control attack together, you may transform this enchantment.",
             "flavor_text": "[i]\u201cI c-can't let her see me on a date with you!\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -3898,13 +4103,15 @@
             "color2": "G",
             "type2": "Enchantment",
             "cost2": "",
-            "rules_text2": "Creature spells you control that are one or more colors have delve. [i](Each card you exile from your graveyard while casting them pays for {1} of that spell's mana cost.) [/i]",
+            "rules_text2": "Whenever a legendary creature you control enters or attacks, mill two cards.\nWhenever a creature card leaves your graveyard, you gain life equal to its power.",
             "flavor_text2": "[i]\u201cI HAVE ONLY GOOD FEELINGS ABOUT THIS. GOODBYE.\u201d \u2014Papyrus[/i]",
             "pt2": "",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Wata_Lemon03 (Twitter)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3925,6 +4132,7 @@
             "artist": "Mahaneh (DeviantArt)",
             "alias": "",
             "position": "179",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3932,7 +4140,7 @@
             "color": "RG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Beast",
-            "number": 241,
+            "number": 242,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
             "rules_text": "Other legendary creature spells you cast cost {1} less to cast.\nWhenever you cast a legendary creature spell, Monster Kid deals 1 damage to each opponent.",
@@ -3945,6 +4153,7 @@
             "artist": "Wata_Lemon03 (Twitter)",
             "alias": "",
             "position": "180",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3952,7 +4161,7 @@
             "color": "UR",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 236,
+            "number": 237,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
             "rules_text": "At the beginning of your upkeep, surveil 1.\nWhenever you cast a noncreature spell during your turn, target creature you control gains flying until end of turn.",
@@ -3965,6 +4174,7 @@
             "artist": "Allyssinian (Tumblr)",
             "alias": "",
             "position": "181",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3972,10 +4182,10 @@
             "color": "WU",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Spirit",
-            "number": 243,
+            "number": 244,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
-            "rules_text": "Flying\nYou may cast artifact and enchantment spells as though they had flash.\nWhenever an artifact or enchantment you control enters, up to one target creature you control phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]",
+            "rules_text": "Flying\nYou may cast artifact and enchantment spells as though they had flash.\nWhenever a nontoken artifact or enchantment you control enters, up to one target creature you control phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -3985,6 +4195,7 @@
             "artist": "RandomOmelette (Reddit, Deleted)",
             "alias": "",
             "position": "182",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3992,7 +4203,7 @@
             "color": "UB",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 257,
+            "number": 258,
             "color_identity": "UB",
             "cost": "{3}{U}{B}",
             "rules_text": "At the beginning of your upkeep, each player mills two cards. Draw a card for each noncreature, nonland card milled this way.",
@@ -4005,6 +4216,7 @@
             "artist": "Loona Savage (Amino)",
             "alias": "",
             "position": "183",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4012,7 +4224,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Skeleton Scout",
-            "number": 245,
+            "number": 246,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
             "rules_text": "Vigilance\nWhen Papyrus enters, each opponent may search their library for a land or Plant card and put it onto the battlefield. Then each player who searched their library this way shuffles.",
@@ -4025,6 +4237,7 @@
             "artist": "Mihtya (Twitter)",
             "alias": "",
             "position": "184",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4032,7 +4245,7 @@
             "color": "WB",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 231,
+            "number": 232,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
             "rules_text": "As an additional cost to cast this spell, exile a nonland permanent you control.\nYou draw cards and gain life equal to the number of cards you own in exile.",
@@ -4045,6 +4258,7 @@
             "artist": "Paradise-paradise (Tumblr)",
             "alias": "",
             "position": "185",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4052,7 +4266,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 267,
+            "number": 268,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "When this Equipment enters, create a 1/1 colorless Human creature token, then attach this Equipment to it.\nEquipped creature gets +2/+0.\nEquip {3}",
@@ -4065,6 +4279,7 @@
             "artist": "Tamita-sama (DeviantArt)",
             "alias": "",
             "position": "186",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4072,7 +4287,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 262,
+            "number": 263,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "{1}, {T}, Sacrifice this artifact: Search your library for a basic land card, reveal it, and put it into your hand.\n{6}, {T}, Sacrifice this artifact: Draw two cards.",
@@ -4085,6 +4300,7 @@
             "artist": "W-E-Z (DeviantArt)",
             "alias": "",
             "position": "187",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4092,7 +4308,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Equipment",
-            "number": 259,
+            "number": 260,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "When this Equipment enters, create a 1/1 colorless Human creature token, then attach this Equipment to it.\nEquipped creature gets +2/+2 and has defender.\nEquip {2}",
@@ -4105,6 +4321,7 @@
             "artist": "Kiwispoons (Twitter)",
             "alias": "",
             "position": "188",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4112,7 +4329,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact",
-            "number": 266,
+            "number": 267,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "{1}, {T}: Exile target card from a graveyard. If it was a creature card, you gain 1 life.\n{2}, {T}, Sacrifice this artifact: Exile all graveyards. Draw a card.",
@@ -4125,6 +4342,7 @@
             "artist": "Staticevent (DeviantArt)",
             "alias": "",
             "position": "189",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4132,7 +4350,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact \u2014 Equipment",
-            "number": 268,
+            "number": 269,
             "color_identity": "C",
             "cost": "{4}",
             "rules_text": "Equipped creature gets +2/+2 and has vigilance and trample.\nEquip {3}\nEquip legendary creature {1}",
@@ -4145,6 +4363,7 @@
             "artist": "Acedetective07 (DeviantArt)",
             "alias": "",
             "position": "190",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4152,7 +4371,7 @@
             "color": "WR",
             "rarity": "rare",
             "type": "Legendary Artifact Creature \u2014 Robot",
-            "number": 239,
+            "number": 240,
             "color_identity": "WR",
             "cost": "{3}{R}{W}",
             "rules_text": "Flying\nWhenever Mettaton NEO attacks, you may sacrifice an artifact. If you do, exile the top card of your library. If it has mana value lesser than or equal to the sacrificed artifact, you may cast it without paying its mana cost. Otherwise, you may cast it.",
@@ -4165,6 +4384,7 @@
             "artist": "WalkingMelonsAAA (DeviantArt)",
             "alias": "",
             "position": "191",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4185,6 +4405,7 @@
             "artist": "Lavendett (Twitter)",
             "alias": "",
             "position": "192",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4205,6 +4426,7 @@
             "artist": "Onimiere (Newgrounds)",
             "alias": "",
             "position": "193",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4212,10 +4434,10 @@
             "color": "BR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human",
-            "number": 230,
+            "number": 231,
             "color_identity": "BR",
-            "cost": "{1}{B}{R}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nIf your LV is 3 or higher, Frisk gets +1/+1 and has menace.\nIf your LV is 9 or higher, Frisk gets +3/+3 and has double strike.",
+            "cost": "{B}{R}",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nAs long as your LV is 3 or higher, Frisk gets +1/+1 and has menace. \nAs long as your LV is 9 or higher, Frisk gets an additional +1/+1 and has double strike.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4225,6 +4447,7 @@
             "artist": "Ozumii (DeviantArt)",
             "alias": "",
             "position": "194",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4235,7 +4458,7 @@
             "number": 108,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nAs long as your LV is 5 or greater, this creature gets +1/+1 and has menace.",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nAs long as your LV is 3 or greater, this creature gets +1/+1 and has menace.",
             "flavor_text": "[i]Everyone knows Jerry.[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -4245,6 +4468,7 @@
             "artist": "ARTymon (Newgrounds)",
             "alias": "",
             "position": "195",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4252,7 +4476,7 @@
             "color": "UB",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 251,
+            "number": 252,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
             "rules_text": "Choose one\u2014\n\u2022 Return target creature card from your graveyard to your hand, then draw a card.\n\u2022 Destroy target creature. Mill three cards.",
@@ -4265,6 +4489,7 @@
             "artist": "SoSadCoffee (Tumblr)",
             "alias": "",
             "position": "196",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4272,10 +4497,10 @@
             "color": "UG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Dog Ooze Horror",
-            "number": 226,
+            "number": 227,
             "color_identity": "UG",
             "cost": "{X}{G}{U}",
-            "rules_text": "This creature enters with X +1/+1 counters on it.\nCreatures you control get +1/+1 for each type of counter on them.",
+            "rules_text": "Trample, ward {2}\nThis creature enters with X +1/+1 counters on it.\nCreatures you control get +1/+1 for each type of counter on them.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4285,6 +4510,7 @@
             "artist": "RinaLagartija (Twitter)",
             "alias": "",
             "position": "197",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4292,7 +4518,7 @@
             "color": "WB",
             "rarity": "uncommon",
             "type": "Creature \u2014 Knight",
-            "number": 237,
+            "number": 238,
             "color_identity": "WB",
             "cost": "{4}{W}{B}",
             "rules_text": "Flying\nWhen this creature enters, you gain 1 life for each card you own in exile.\nWhen this creature leaves the battlefield, each opponent loses 1 life for each card you own in exile.",
@@ -4305,6 +4531,7 @@
             "artist": "FleshQB (DeviantArt)",
             "alias": "",
             "position": "198",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4312,10 +4539,10 @@
             "color": "WR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Skeleton Scout",
-            "number": 246,
+            "number": 247,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
-            "rules_text": "Haste\nWhenever Papyrus attacks, you may create an artifact token named Bone.\n{2}, {T}, Sacrifice an artifact: Exile the top card of your library. You may play it this turn.",
+            "rules_text": "Haste\nWhenever Papyrus attacks, you may sacrifice an artifact. If you do, exile the top card of your library. You may play that card this turn.\n{2}, {T}: Create an artifact token named Bone.",
             "flavor_text": "[i]\u201cNYEH HEH HEH!!!\u201d[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -4325,6 +4552,7 @@
             "artist": "yulpen (DeviantArt)",
             "alias": "",
             "position": "199",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4332,7 +4560,7 @@
             "color": "WG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Soldier",
-            "number": 250,
+            "number": 251,
             "color_identity": "WG",
             "cost": "{3}{G}{W}",
             "rules_text": "Vigilance\n[i]Shine Armor\u2014[/i]If one or more noncreature tokens would be created under your control, those tokens plus a 1/1 white Soldier creature token are created instead.\n[i]Team Attack\u2014[/i]Creature tokens you control get +1/+1.",
@@ -4345,6 +4573,7 @@
             "artist": "Glaucablitz (FurAffinity)",
             "alias": "",
             "position": "200",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4365,17 +4594,18 @@
             "artist": "IsabellaGraceS (Amino)",
             "alias": "",
             "position": "201",
+            "rotated": false,
             "notes": ""
         },
         {
             "card_name": "Papyrus, Puzzlemaster",
-            "color": "UR",
+            "color": "WU",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Skeleton",
-            "number": 247,
-            "color_identity": "UR",
-            "cost": "{U}{R}",
-            "rules_text": "Prowess\nWhenever Papyrus deals combat damage to a player or battle, look at the top two cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+            "number": 248,
+            "color_identity": "WU",
+            "cost": "{W}{U}",
+            "rules_text": "Whenever Papyrus deals combat damage to a player or battle, look at that many cards from the top your library. You may reveal an Aura or Equipment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -4385,6 +4615,7 @@
             "artist": "Mewpet (Tumblr)",
             "alias": "",
             "position": "202",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4392,7 +4623,7 @@
             "color": "RG",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 234,
+            "number": 235,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
             "rules_text": "Whenever a legendary creature you control enters, put a +1/+1 counter on it and create a Food token.",
@@ -4405,6 +4636,7 @@
             "artist": "SteelEmissary (DeviantArt)",
             "alias": "",
             "position": "203",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4425,6 +4657,7 @@
             "artist": "HyperionNova (DeviantArt)",
             "alias": "",
             "position": "204",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4435,7 +4668,7 @@
             "number": 199,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
-            "rules_text": "When this creature enters, mill three cards. Put X +1/+1 counters on this creature, where X is the number of creature cards milled this way.",
+            "rules_text": "Trample\nWhen this creature enters, mill three cards. Put X +1/+1 counters on this creature, where X is the number of creature cards milled this way.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4445,6 +4678,7 @@
             "artist": "Lunarian2001 (DeviantArt)",
             "alias": "",
             "position": "205",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4455,7 +4689,7 @@
             "number": 193,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nTarget creature you control gets +X/+X until end of turn, where X is your LV. It fights target creature you don't control.",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nTarget creature you control gets +X/+X until end of turn, where X is your LV. It fights target creature you don't control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4465,6 +4699,7 @@
             "artist": "A-Zelene (DeviantArt)",
             "alias": "",
             "position": "206",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4485,6 +4720,7 @@
             "artist": "Bakenius (DeviantArt)",
             "alias": "",
             "position": "207",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4492,7 +4728,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Instant",
-            "number": 174,
+            "number": 173,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "Creatures you control gain indestructible and hexproof until end of turn.\nLook at the top four cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.",
@@ -4505,6 +4741,7 @@
             "artist": "RandomOmellette (Reddit)",
             "alias": "",
             "position": "208",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4515,7 +4752,7 @@
             "number": 130,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nThis spell costs {1} less to cast if your LV is 9 or greater.\nGain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nThis spell costs {1} less to cast if your LV is 5 or greater.\nGain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.",
             "flavor_text": "[i]\u201cYou think you are above consequences.\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -4525,6 +4762,7 @@
             "artist": "Marshberri (Twitter)",
             "alias": "",
             "position": "209",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4545,6 +4783,7 @@
             "artist": "RobynRot-Art (DeviantArt)",
             "alias": "",
             "position": "210",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4555,7 +4794,7 @@
             "number": 137,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nWhen this enchantment enters, it deals 3 damage to any target.\n{R}, Discard a card: Your LV increases. Activate only once each turn.",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nWhen this enchantment enters, it deals 3 damage to any target.\nAt the beginning of your end step, if your LV is 5 or greater, this enchantment deals 1 damage to each player.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4565,6 +4804,7 @@
             "artist": "Maricaripan (DeviantArt)",
             "alias": "",
             "position": "211",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4585,6 +4825,7 @@
             "artist": "Lui421 (Reddit)",
             "alias": "",
             "position": "212",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4592,10 +4833,10 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 213,
+            "number": 214,
             "color_identity": "G",
-            "cost": "{3}{G}",
-            "rules_text": "At the beginning of your upkeep, you may mill two cards. [i](You may put the top two cards of your library into your graveyard.)[/i]\nWhenever one or more creature cards are put into exile from your graveyard during your turn, create a 2/1 black Spider creature token with reach.",
+            "cost": "{2}{G}",
+            "rules_text": "At the beginning of your upkeep, you may mill two cards. [i](You may put the top two cards of your library into your graveyard.)[/i]\nWhenever one or more creature cards leave your graveyard, create a 2/1 black Spider creature token with reach.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4605,6 +4846,7 @@
             "artist": "Clivef Poire (ArtStation)",
             "alias": "",
             "position": "213",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4625,6 +4867,7 @@
             "artist": "Wata_Lemon03 *(Twitter)",
             "alias": "",
             "position": "214",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4645,6 +4888,7 @@
             "artist": "Karkatraejepsen (Tumblr)",
             "alias": "",
             "position": "215",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4652,12 +4896,12 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Battle \u2014 Encounter",
-            "number": 138,
+            "number": 139,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\n[i]Pointless Rebellion \u2014 [/i]When this Encounter enters, create a 2/2 green Citizen token. Then each creature you control deals 1 damage to you.",
+            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\n[i]Pointless Rebellion \u2014 [/i]At the beginning of each opponent's end step, if that player didn't attack this turn, exile this Encounter. You may cast it transformed.",
             "flavor_text": "[i][/i]",
-            "pt": "6",
+            "pt": "4",
             "special_text": "",
             "shape": "double faced",
             "set": "UDT",
@@ -4669,13 +4913,15 @@
             "color2": "R",
             "type2": "Sorcery",
             "cost2": "",
-            "rules_text2": "Exile the top two cards of your library. You may play them until the end of your next turn.",
+            "rules_text2": "Exile the top three cards of your library. You may play them until the end of your next turn.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Wachtelspinat (Tumblr)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4685,7 +4931,7 @@
             "type": "Enchantment",
             "number": 121,
             "color_identity": "B",
-            "cost": "{4}{B}",
+            "cost": "{3}{B}",
             "rules_text": "When this enchantment enters, exile target creature an opponent controls.\n{1}{B}: Exile target creature card from a graveyard. Activate only as a sorcery.\n{3}{B}{B}: Transform this enchantment. Activate only if seven or more cards are exiled with this enchantment.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -4707,6 +4953,8 @@
             "loyalty2": "",
             "artist2": "Azany (DeviantArt)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4727,6 +4975,7 @@
             "artist": "HarmonyTRE (DeviantArt)",
             "alias": "",
             "position": "218",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4747,6 +4996,7 @@
             "artist": "WalkingMelonsAAA (DeviantArt)",
             "alias": "",
             "position": "219",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4767,6 +5017,7 @@
             "artist": "AtAtochirio (Twitter)",
             "alias": "",
             "position": "220",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4777,7 +5028,7 @@
             "number": 90,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nEnchant creature\nEnchanted creature has flying and gets +1/+0 for each LV you have.",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nEnchant creature\nEnchanted creature gets +1/+0 and has flying. \nAs long as your LV is 3 or greater, enchanted creature gets an additional +2/-1.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4787,6 +5038,7 @@
             "artist": "Huecycles (Tumblr)",
             "alias": "",
             "position": "221",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4807,6 +5059,7 @@
             "artist": "Pinesphinx (Tumblr)",
             "alias": "",
             "position": "222",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4817,7 +5070,7 @@
             "number": 56,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nAt the beginning of your end step, if your LV is 1, target creature an opponent controls gets -3/-0 until your next turn.",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nAt the beginning of your end step, if your LV is 1, each creature your opponents control get -2/-0 until your next turn.",
             "flavor_text": "[i]\u201cPlease, use MERCY, human.\u201d[/i]",
             "pt": "3/4",
             "special_text": "",
@@ -4827,6 +5080,7 @@
             "artist": "Cous16 (DeviantArt)",
             "alias": "",
             "position": "223",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4847,6 +5101,7 @@
             "artist": "Hofudlaus (Tumblr)",
             "alias": "",
             "position": "224",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4867,6 +5122,7 @@
             "artist": "Wawako-awa (Tumblr)",
             "alias": "",
             "position": "225",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4874,7 +5130,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 173,
+            "number": 172,
             "color_identity": "G",
             "cost": "{4}{G}",
             "rules_text": "Affinity for legendary creatures [i](This spell costs {1} less to cast for each legendary creature you control.)[/i]\nPut a +1/+1 counter on each creature you control. Creatures you control gain vigilance until end of turn.\nEscape\u2014{4}{G}, Exile five other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
@@ -4887,6 +5143,7 @@
             "artist": "ZilvenArt (twitter)",
             "alias": "",
             "position": "226",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4897,9 +5154,9 @@
             "number": 53,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nWhen this Encounter enters, draw three cards, then discard a card.",
+            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nAt the beginning of your end step, draw a card, then discard a card. Up to one target creature gets -2/-0 until your next turn.",
             "flavor_text": "[i][/i]",
-            "pt": "6",
+            "pt": "3",
             "special_text": "",
             "shape": "double faced",
             "set": "UDT",
@@ -4918,6 +5175,8 @@
             "loyalty2": "",
             "artist2": "Riccardo Colombo (ArtStation)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4927,8 +5186,8 @@
             "type": "Enchantment",
             "number": 28,
             "color_identity": "W",
-            "cost": "{1}{W}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nAt the beginning of your upkeep, if your LV is 1, you draw a card and gain 1 life. Otherwise, sacrifice this enchantment.",
+            "cost": "{W}{W}",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nWhenever your LV increases, sacrifice this enchantment.\nAt the beginning of your upkeep, if your LV is 1, you draw a card and gain 1 life. Then if you control seven or more legendary creatures, you win the game.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4938,6 +5197,7 @@
             "artist": "Mathias Ball",
             "alias": "",
             "position": "228",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4958,6 +5218,7 @@
             "artist": "Tsaoshin (FurAffinity)",
             "alias": "",
             "position": "229",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4978,6 +5239,7 @@
             "artist": "Chocolatewoosh (DeviantArt)",
             "alias": "",
             "position": "230",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4985,12 +5247,12 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Battle \u2014 Encounter",
-            "number": 180,
+            "number": 179,
             "color_identity": "G",
-            "cost": "{1}{G}{G}",
-            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nWhen this Encounter enters, create a 2/2 green Citizen creature token, a Treasure token, and a Food token.",
+            "cost": "{3}{G}{G}",
+            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nAt the beginning of your upkeep, create your choice of a 2/2 green Citizen creature token, a Treasure token, or a Food token.",
             "flavor_text": "[i][/i]",
-            "pt": "7",
+            "pt": "4",
             "special_text": "",
             "shape": "double faced",
             "set": "UDT",
@@ -5009,6 +5271,8 @@
             "loyalty2": "",
             "artist2": "FiniKux (reddit)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5016,7 +5280,7 @@
             "color": "WG",
             "rarity": "uncommon",
             "type": "Sorcery",
-            "number": 233,
+            "number": 234,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
             "rules_text": "Create a 1/1 colorless Human creature token. Put X +1/+1 counters on it, where X is the number of tokens you control.",
@@ -5029,6 +5293,7 @@
             "artist": "Wata_Lemon03 (Tumblr)",
             "alias": "",
             "position": "232",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5049,6 +5314,7 @@
             "artist": "JeffaPegas (DeviantArt)",
             "alias": "",
             "position": "233",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5069,6 +5335,7 @@
             "artist": "Blorp_o (Reddit)",
             "alias": "",
             "position": "234",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5076,10 +5343,10 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Battle \u2014 Encounter",
-            "number": 181,
+            "number": 180,
             "color_identity": "G",
-            "cost": "{2}{G}{G}",
-            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nWhen this Encounter enters, choose one:\n- Create a 2/2 green Citizen creature token and a 1/1 colorless Human creature token.\n- Destroy target artifact, enchantment, or battle an opponent controls.",
+            "cost": "{1}{G}",
+            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nWhen this Encounter enters, destroy target artifact, enchantment, or battle an opponent controls.",
             "flavor_text": "[i][/i]",
             "pt": "5",
             "special_text": "",
@@ -5100,6 +5367,8 @@
             "loyalty2": "",
             "artist2": "ThatBluefire (DeviantArt)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5120,6 +5389,7 @@
             "artist": "Afterartist (Tumblr)",
             "alias": "",
             "position": "236",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5130,7 +5400,7 @@
             "number": 144,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
-            "rules_text": "Flying, haste\nWhenever this creature deals combat damage to an opponent, you may search your library for a card named Shock, reveal it, put it into your hand, then shuffle.",
+            "rules_text": "Flying, haste\nWhenever this creature attacks, you may search your library for a card named Shock, reveal it, put it into your hand, then shuffle.",
             "flavor_text": "[i]\u201chuh. always wondered why people never use their strongest attack first.\u201d \u2014 Sans[/i]",
             "pt": "5/4",
             "special_text": "",
@@ -5140,6 +5410,7 @@
             "artist": "Dragoreon (DeviantArt)",
             "alias": "",
             "position": "237",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5150,7 +5421,7 @@
             "number": 162,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Menace\nWhenever Papyrus attacks an opponent, they create a Food token.",
+            "rules_text": "Whenever Papyrus becomes blocked, defending player creates a Food token.",
             "flavor_text": "[i]\u201cTHIS AIN'T ANY PLAIN OL' PASTA! THIS IS AN ARTISAN'S WORK!\u201d[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -5160,6 +5431,7 @@
             "artist": "Sl4ughtermelon (DeviantArt)",
             "alias": "",
             "position": "238",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5180,6 +5452,7 @@
             "artist": "Wata_Lemon03 (Twitter)",
             "alias": "",
             "position": "239",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5187,7 +5460,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Plant",
-            "number": 229,
+            "number": 230,
             "color_identity": "BG",
             "cost": "{B}{G}",
             "rules_text": "Deathtouch\nWhenever Flowey attacks, surveil 2.\nEscape\u2014{B}{G}, Exile five other cards from your graveyard.",
@@ -5200,6 +5473,7 @@
             "artist": "Benituli (Tumblr)",
             "alias": "",
             "position": "240",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5207,7 +5481,7 @@
             "color": "BG",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 252,
+            "number": 253,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
             "rules_text": "Destroy target nonland permanent.\nEscape\u2014{B}{G}, Exile seven other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
@@ -5220,6 +5494,7 @@
             "artist": "Moofrog (Tumblr)",
             "alias": "",
             "position": "241",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5240,6 +5515,7 @@
             "artist": "Hnwt82yf (Twitter)",
             "alias": "",
             "position": "242",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5260,14 +5536,15 @@
             "artist": "Wata_Lemon03 *(Twitter)",
             "alias": "",
             "position": "243",
+            "rotated": false,
             "notes": ""
         },
         {
             "card_name": "Trapped Arachnids",
             "color": "G",
-            "rarity": "common",
+            "rarity": "uncommon",
             "type": "Creature \u2014 Spider",
-            "number": 210,
+            "number": 211,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "Reach\nWhen this creature enters, if it was cast from a graveyard, create a 2/1 black Spider creature token with reach.\nEscape\u2014{4}{G}{G}, Exile four other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]",
@@ -5280,6 +5557,7 @@
             "artist": "Dragonith (DeviantArt)",
             "alias": "",
             "position": "244",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5300,6 +5578,7 @@
             "artist": "Loika",
             "alias": "",
             "position": "245",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5320,6 +5599,7 @@
             "artist": "Chacochilla (Reddit)",
             "alias": "",
             "position": "246",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5340,6 +5620,7 @@
             "artist": "Faaangz (Tumblr)",
             "alias": "",
             "position": "247",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5360,6 +5641,7 @@
             "artist": "Crystallized_Cheese (Reddit)",
             "alias": "",
             "position": "248",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5367,7 +5649,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 172,
+            "number": 171,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Destroy target artifact, enchantment, or creature with flying.",
@@ -5380,17 +5662,18 @@
             "artist": "Wata_Lemon03 (Twitter)",
             "alias": "",
             "position": "249",
+            "rotated": false,
             "notes": ""
         },
         {
             "card_name": "Hardened Cheese",
             "color": "W",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Artifact \u2014 Food",
             "number": 12,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "When this artifact enters, draw a card and create a 1/1 white Mouse creature token.\nWhen this artifact is put into a graveyard from the battlefield, you gain 3 life.",
+            "rules_text": "When this artifact enters, create a 1/1 white Mouse creature token.\nWhen this artifact is put into a graveyard from the battlefield, you gain 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5400,6 +5683,7 @@
             "artist": "IDontDrawHumans (Tumblr)",
             "alias": "",
             "position": "250",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5420,17 +5704,18 @@
             "artist": "MUNAKATA_N (Twitter)",
             "alias": "",
             "position": "251",
+            "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "Encounter the Monster King",
+            "card_name": "Encounter a Tormented King",
             "color": "R",
             "rarity": "rare",
             "type": "Battle \u2014 Encounter",
-            "number": 140,
+            "number": 138,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
-            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nWhen this Encounter enters, untap all creatures that attacked this turn. After this phase, there is an additional combat phase.\nIf there are two or more defense counters on this Encounter, damage that would reduce its defense to less than 1 reduces it to 1 instead.",
+            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nWhenever a creature deals combat damage to you, gain control of it until your next end step.",
             "flavor_text": "[i][/i]",
             "pt": "8",
             "special_text": "",
@@ -5451,6 +5736,8 @@
             "loyalty2": "",
             "artist2": "WalkingMelonsAAA (DeviantArt)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5461,9 +5748,9 @@
             "number": 54,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\n[i]Bundle Up \u2014 [/i]Aura and Equipment spells you cast cost {1} less to cast.",
+            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\n[i]Bundle Up \u2014 [/i]Whenever a creature you control becomes the target of a spell or ability you control, draw a card. This ability triggers only once each turn.",
             "flavor_text": "[i][/i]",
-            "pt": "10",
+            "pt": "5",
             "special_text": "",
             "shape": "double faced",
             "set": "UDT",
@@ -5475,13 +5762,15 @@
             "color2": "U",
             "type2": "Enchantment",
             "cost2": "",
-            "rules_text2": "At the beginning of combat on your turn, choose up to one target enchanted or equipped creature. It can't be blocked until end of turn.",
+            "rules_text2": "At the beginning of combat on your turn, choose up to one target modified creature. It can't be blocked until end of turn. [i](Equipment, Auras you control, and counters are modifications.)[/i]",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Wawako-awa (Tumblr)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5492,9 +5781,9 @@
             "number": 9,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nWhen this Encounter enters, surveil 2.",
+            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nWhenever a creature you control enters, surveil 1. This ability triggers only once each turn.",
             "flavor_text": "[i][/i]",
-            "pt": "3",
+            "pt": "4",
             "special_text": "",
             "shape": "double faced",
             "set": "UDT",
@@ -5513,10 +5802,12 @@
             "loyalty2": "",
             "artist2": "Rosywing (Twitter)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "Swamp",
+            "card_name": "Swamp_1",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
@@ -5533,10 +5824,11 @@
             "artist": "Wolf-NaKomis (DeviantArt)",
             "alias": "",
             "position": "255",
-            "notes": ""
+            "rotated": false,
+            "notes": "!exportname Swamp_1"
         },
         {
-            "card_name": "Island",
+            "card_name": "Island_1",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
@@ -5553,10 +5845,11 @@
             "artist": "OskolokCat (DeviantArt)",
             "alias": "",
             "position": "256",
-            "notes": ""
+            "rotated": false,
+            "notes": "!exportname Island_1"
         },
         {
-            "card_name": "Mountain",
+            "card_name": "Mountain_1",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
@@ -5573,10 +5866,11 @@
             "artist": "NTexcwl72358 (Twitter)",
             "alias": "",
             "position": "257",
-            "notes": ""
+            "rotated": false,
+            "notes": "!exportname Mountain_1"
         },
         {
-            "card_name": "Plains",
+            "card_name": "Plains_1",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
@@ -5593,10 +5887,11 @@
             "artist": "Bentejam (Instagram)",
             "alias": "",
             "position": "258",
-            "notes": ""
+            "rotated": false,
+            "notes": "!exportname Plains_1"
         },
         {
-            "card_name": "Island.1",
+            "card_name": "Island_2",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
@@ -5613,10 +5908,11 @@
             "artist": "Deleted User (Reddit)",
             "alias": "",
             "position": "259",
-            "notes": ""
+            "rotated": false,
+            "notes": "!exportname Island_2"
         },
         {
-            "card_name": "Mountain.1",
+            "card_name": "Mountain_2",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
@@ -5633,14 +5929,15 @@
             "artist": "Burnsides (Tumblr)",
             "alias": "",
             "position": "260",
-            "notes": ""
+            "rotated": false,
+            "notes": "!exportname Mountain_2"
         },
         {
-            "card_name": "Forest",
+            "card_name": "Forest_1",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 183,
+            "number": 182,
             "color_identity": "GB",
             "cost": "",
             "rules_text": "",
@@ -5653,10 +5950,11 @@
             "artist": "Wolf-NaKomis (DeviantArt)",
             "alias": "",
             "position": "261",
-            "notes": ""
+            "rotated": false,
+            "notes": "!exportname Forest_1"
         },
         {
-            "card_name": "Plains.1",
+            "card_name": "Plains_2",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
@@ -5673,10 +5971,11 @@
             "artist": "Cocoa-ando (Tumblr)",
             "alias": "",
             "position": "262",
-            "notes": ""
+            "rotated": false,
+            "notes": "!exportname Plains_2"
         },
         {
-            "card_name": "Swamp.1",
+            "card_name": "Swamp_2",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
@@ -5693,14 +5992,15 @@
             "artist": "Vanishonichka (DeviantArt)",
             "alias": "",
             "position": "263",
-            "notes": ""
+            "rotated": false,
+            "notes": "!exportname Swamp_2"
         },
         {
-            "card_name": "Forest.1",
+            "card_name": "Forest_2",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 184,
+            "number": 183,
             "color_identity": "GB",
             "cost": "",
             "rules_text": "",
@@ -5713,7 +6013,8 @@
             "artist": "Feredir (Tumblr)",
             "alias": "",
             "position": "264",
-            "notes": ""
+            "rotated": false,
+            "notes": "!exportname Forest_2"
         },
         {
             "card_name": "Leap",
@@ -5733,6 +6034,7 @@
             "artist": "Cocoa_Ando (Tumblr)",
             "alias": "",
             "position": "265",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5753,6 +6055,7 @@
             "artist": "Chibigere (ARTstreet)",
             "alias": "",
             "position": "266",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5762,10 +6065,10 @@
             "type": "Legendary Artifact Creature \u2014 Robot",
             "number": 113,
             "color_identity": "B",
-            "cost": "{4}{B}",
-            "rules_text": "Flying\nWhenever Mettaton attacks, if you own five or more cards in exile, he gains deathtouch until end of turn.",
+            "cost": "{5}{B}",
+            "rules_text": "Flying\nWhenever Mettaton enters or attacks, if you own five or more cards in exile, each opponent loses 2 life and you gain 2 life.",
             "flavor_text": "[i][/i]",
-            "pt": "3/3",
+            "pt": "4/4",
             "special_text": "",
             "shape": "normal",
             "set": "UDT",
@@ -5773,6 +6076,7 @@
             "artist": "Zinrius (DeviantArt)",
             "alias": "",
             "position": "267",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5793,6 +6097,7 @@
             "artist": "Staticevent (DeviantArt)",
             "alias": "",
             "position": "268",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5800,10 +6105,10 @@
             "color": "WB",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Goat Noble",
-            "number": 216,
+            "number": 217,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
-            "rules_text": "Whenever a creature that Asgore dealt damage to this turn dies, exile it with a SOUL counter on it.\nAt the beginning of your end step, if there are seven cards in exile with SOUL counters on them, you win the game.",
+            "rules_text": "Whenever a creature dies, if a creature you control dealt damage to it this turn, exile it with a SOUL counter on it.\nAt the beginning of your end step, if there are seven cards in exile with SOUL counters on them, you win the game.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -5813,6 +6118,7 @@
             "artist": "Wickwheat (Tumblr)",
             "alias": "",
             "position": "269",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5820,10 +6126,10 @@
             "color": "BR",
             "rarity": "rare",
             "type": "Battle \u2014 Encounter",
-            "number": 220,
+            "number": 221,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
-            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nJudgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nAt the beginning of combat on each turn, target creature you control gets +X/+X, where X is your LV.",
+            "rules_text": "[i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]\nJudgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nAt the beginning of combat on each turn, target creature you control gets +X/+X, where X is your LV.",
             "flavor_text": "[i][/i]",
             "pt": "9",
             "special_text": "",
@@ -5837,13 +6143,15 @@
             "color2": "BR",
             "type2": "Legendary Creature \u2014 Human Demon",
             "cost2": "",
-            "rules_text2": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nAt the beginning of each player's upkeep, that player sacrifices X creatures, where X is your LV.",
+            "rules_text2": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nAt the beginning of each player's upkeep, that player sacrifices X creatures, where X is your LV.",
             "flavor_text2": "[i]The demon that comes when you call its name.[/i]",
             "pt2": "3/3",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Huecycles (ArtStation)",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5851,7 +6159,7 @@
             "color": "WU",
             "rarity": "rare",
             "type": "Legendary Enchantment \u2014 Aura Rune",
-            "number": 223,
+            "number": 224,
             "color_identity": "WU",
             "cost": "{3}{W}{U}",
             "rules_text": "Enchant permanent\nWhen this Aura enters, draw two cards.\nAs long as enchanted permanent is a creature, it gets +1/+1 and has flying and lifelink.\nAs long as enchanted permanent is an Equipment, it has \u201cEquipped creature gets +1/+1 and has flying and lifelink.\u201d",
@@ -5864,6 +6172,7 @@
             "artist": "Haasio (Reddit)",
             "alias": "",
             "position": "271",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5871,7 +6180,7 @@
             "color": "WR",
             "rarity": "rare",
             "type": "Artifact",
-            "number": 248,
+            "number": 249,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
             "rules_text": "S[i]chadenfreude \u2014 [/i]Whenever a creature you control is dealt damage, you gain that much life.\n{R}, {T}: This artifact deals 1 damage to target creature you control.",
@@ -5884,6 +6193,7 @@
             "artist": "Jeffanime (DeviantArt)",
             "alias": "",
             "position": "272",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5891,7 +6201,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Spider",
-            "number": 242,
+            "number": 243,
             "color_identity": "BG",
             "cost": "{4}{B}{G}",
             "rules_text": "Affinity for Food and Spiders [i](This spell costs {1} less to cast for each Food and Spider you control.)[/i]\nReach\nNoncreature foods you control are 2/1 Spider creatures in addition to their other types, and they have reach.",
@@ -5904,6 +6214,7 @@
             "artist": "Yawarakasoft (ZeroChan)",
             "alias": "",
             "position": "273",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5911,7 +6222,7 @@
             "color": "UG",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 253,
+            "number": 254,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
             "rules_text": "Draw a card for each kind of counter among permanents you control.",
@@ -5924,6 +6235,7 @@
             "artist": "MewtwoWarrior (Tumblr)",
             "alias": "",
             "position": "274",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5931,7 +6243,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Enchantment \u2014 Aura",
-            "number": 224,
+            "number": 225,
             "color_identity": "WG",
             "cost": "{G}{W}",
             "rules_text": "Enchant creature\n...[i]It's Still You. \u2014 [/i]Enchanted creature gets +1/+1 for each other creature and token you control.",
@@ -5944,6 +6256,7 @@
             "artist": "MewtwoWarrior (Tumblr)",
             "alias": "",
             "position": "275",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5951,7 +6264,7 @@
             "color": "RG",
             "rarity": "rare",
             "type": "Creature \u2014 Citizen",
-            "number": 221,
+            "number": 222,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
             "rules_text": "Whenever a legendary creature you control enters or attacks, create a 2/2 green Citizen creature token.",
@@ -5964,6 +6277,7 @@
             "artist": "Wata_Lemon03 (Twitter)",
             "alias": "",
             "position": "276",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5971,7 +6285,7 @@
             "color": "UB",
             "rarity": "rare",
             "type": "Instant",
-            "number": 256,
+            "number": 257,
             "color_identity": "UB",
             "cost": "{U}{U}{B}{B}",
             "rules_text": "Choose two: \n\u2022 Return target nonland, noncreature permanent to its owner's hand.\n\u2022 Counter target creature spell.\n\u2022 Destroy target creature with power 3 or less.\n\u2022 You draw a card and lose 1 life.",
@@ -5984,6 +6298,7 @@
             "artist": "MewtwoWarrior (Tumblr)",
             "alias": "",
             "position": "277",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5991,7 +6306,7 @@
             "color": "BR",
             "rarity": "rare",
             "type": "Legendary Artifact Creature \u2014 Robot Noble",
-            "number": 238,
+            "number": 239,
             "color_identity": "BR",
             "cost": "{7}{B}{R}",
             "rules_text": "Menace\nWhenever Mettaton deals combat damage to a player, exile the top card of that player's library. If it's a land card, Mettaton deals 3 damage to defending player. Otherwise, you may cast it without paying its mana cost.\nWhenever you cast a spell you don't own, draw cards equal to its mana value.",
@@ -6004,6 +6319,7 @@
             "artist": "Smarties-Art (Tumblr)",
             "alias": "",
             "position": "278",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6011,12 +6327,12 @@
             "color": "UR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Lizard Noble",
-            "number": 249,
+            "number": 250,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
-            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature you control deals combat damage to an opponent or a creature an opponent controls dies.)[/i]\nWhenever you cast a noncreature spell, if your LV is 9 or higher, Queen Alphys deals 4 damage to each opponent.",
+            "rules_text": "Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nWhenever you cast a noncreature spell, if your LV is 5 or higher, Queen Alphys deals 2 damage to each opponent. If your LV is 9 or higher, she deals damage equal to her power instead.",
             "flavor_text": "[i]\u201cI really should have killed you when I had the chance.\u201d[/i]",
-            "pt": "3/4",
+            "pt": "4/4",
             "special_text": "",
             "shape": "normal",
             "set": "UDT",
@@ -6024,6 +6340,7 @@
             "artist": "Selkiemoonssss (Tumblr)",
             "alias": "",
             "position": "279",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6044,6 +6361,7 @@
             "artist": "Shimmershy (Tumblr)",
             "alias": "",
             "position": "280",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6054,7 +6372,7 @@
             "number": 50,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Mill four cards. If a creature card was milled this way, create a 1/1 white Spirit creature token with flying. If a noncreature, nonland card was milled this way, draw a card.",
+            "rules_text": "Mill three cards. If a creature card was milled this way, create a 1/1 white Spirit creature token with flying. If a noncreature, nonland card was milled this way, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6064,6 +6382,28 @@
             "artist": "Barbie\u2014art (DeviantArt)",
             "alias": "",
             "position": "281",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Gerson, Hammer of Justice",
+            "color": "G",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Turtle Soldier",
+            "number": 186,
+            "color_identity": "G",
+            "cost": "{3}{G}{G}",
+            "rules_text": "Trample, haste\nJudgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]\nAs long as you have LV 3 or less, Gerson has hexproof.",
+            "flavor_text": "[i][/i]",
+            "pt": "5/5",
+            "special_text": "",
+            "shape": "normal",
+            "set": "UDT",
+            "loyalty": "",
+            "artist": "FlarinthK (Newgrounds)",
+            "alias": "",
+            "position": "282",
+            "rotated": false,
             "notes": ""
         }
     ]
