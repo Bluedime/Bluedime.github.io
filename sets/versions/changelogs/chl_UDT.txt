@@ -1,4 +1,279 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Root Through Trash added.
+Merciless added.
+
+Dig Through the Dump removed.
+Undyne's Command removed.
+
+Worn Dagger
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Equipped creature gets +3/+0 and “If your LV would increase, it increases by twice that much instead.”
+At the beginning of your end step, if your LV is 19 or greater, transform this artifact.
+Equip {2} => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+Equipped creature gets +3/+0 and “If your LV would increase, it increases by twice that much instead.”
+At the beginning of your end step, if your LV is 19 or greater, transform this artifact.
+Equip {2}
+
+Heart Locket
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Equipped creature has ward {2} and “If your LV would increase, it increases by twice that much instead.”
+At the beginning of your end step, if your LV is 19 or greater, transform this artifact.
+Equip {1} => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+Equipped creature has ward {2} and “If your LV would increase, it increases by twice that much instead.”
+At the beginning of your end step, if your LV is 19 or greater, transform this artifact.
+Equip {1}
+
+Dust the Monster
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Destroy target creature. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+Destroy target creature.
+
+Doomed to Death of KARMA!
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+At the beginning of your end step, you draw cards and lose life equal to half your LV, rounded up. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+At the beginning of your end step, you draw cards and lose life equal to half your LV, rounded up.
+
+Flowey, Brutal Guide
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Flowey enters with X +1/+1 counters on him, where X is your LV.
+Escape—{1}{B}{B}, Exile five other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+Flowey enters with X +1/+1 counters on him, where X is your LV.
+Escape—{2}{B}{B}, Exile five other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Muffet, Vindictive Baker
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+When Muffet enters, destroy target creature if it was dealt damage this turn or if your LV is 5 or greater. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+When Muffet enters, destroy target creature if it was dealt damage this turn or if your LV is 5 or greater.
+
+Pyrope
+pt: 2/4 => 3/3
+
+Last Corridor
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+{T}: Add {C}.
+{4}, {T}: Add five mana in any combination of colors. Activate only if your LV is 1.
+{W}{U}{B}, {T}: If your LV is 19 or greater, exile this
+card and return it to the battlefield transformed. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+{T}: Add {C}.
+{4}, {T}: Add five mana in any combination of colors. Activate only if your LV is 1.
+{W}{U}{B}, {T}: If your LV is 19 or greater, exile this
+card and return it to the battlefield transformed.
+
+Cruel Guidance
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+When this enchantment enters, destroy up to one target non-Human creature.
+If your LV would increase, it increases by twice that much instead. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+When this enchantment enters, destroy up to one target non-Human creature.
+Whenever your LV increases for the first time each turn, it increases again.
+
+Megalovania
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+You draw two cards and lose 2 life. If your LV is 5 or higher, instead you draw three cards and lose 3 life. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+You draw two cards and lose 2 life. If your LV is 5 or higher, instead you draw three cards and lose 3 life.
+
+Flower Patch
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+
+In My Way.
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Up to one target creature gets -X/-X until end of turn, where X is your LV. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+Up to one target creature gets -X/-X until end of turn, where X is your LV.
+
+Barrier Breach
+rules_text: This land enters tapped.
+Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+{T}: Add {B} or {R}.
+{1}{B}{R}, {T}, Sacrifice this land: Destroy target creature. Activate only if your LV is 9 or greater. => This land enters tapped.
+Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+{T}: Add {B} or {R}.
+{1}{B}{R}, {T}, Sacrifice this land: Destroy target creature. Activate only if your LV is 9 or greater.
+
+True Pacifism
+type: Enchantment => Enchantment — Aura
+cost: {2}{W}{W} => {5}{W}{W}
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Creatures can't attack you unless their controller sacrifices a permanent for each creature they control that's attacking you.
+When your LV is above 1, sacrifice this enchantment. => Enchant player
+When this Aura enters, if enchanted player doesn't have any LV, their LV becomes 1. [i](A player's LV increases whenever a creature controlled by one of their opponents dies.)[/i]
+If a source enchanted player controls would deal damage to one of their opponents or a permanent they control, prevent that damage and both players draw that many cards.
+Whenever enchanted player's LV increases, sacrifice this enchantment.
+
+Lonely Snowman
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Defender
+{6}, {T}: If your LV is 3 or below, exile Lonely Snowman and create three 2/2 green Citizen creature tokens. Otherwise, transform it. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+Defender
+{6}, {T}: If your LV is 3 or below, exile Lonely Snowman and create three 2/2 green Citizen creature tokens. Otherwise, transform it.
+
+Meet Judgment
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Exile the top card of your library. You may play it this turn. If your LV is 2 or higher, exile this card.
+Escape—{1}{R}, Exile two cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+Exile the top card of your library. You may play it this turn. If your LV is 2 or higher, exile this card.
+Escape—{1}{R}, Exile two cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Demonic Optimist
+rules_text: {4}{B}: Draw a card, then transform this creature. Activate only if you own four or more cards in exile and only once each turn. => {4}{B}: Draw a card, then transform this creature. Activate only if you own three or more cards in exile and only once each turn.
+
+Drunk Bun
+rules_text: When this creature dies, you may exile it. If you do, surveil 1. => When this creature enters, if you own three or more cards in exile, each opponent loses 2 life and you gain 2 life.
+
+Prove Yourself
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Target creature you control gets +3/+1 until end of turn. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+Target creature you control gets +3/+1 until end of turn.
+
+Onionsan
+rules_text: This spell costs {1} less to cast for each noncreature, nonland card in your graveyard.
+Whenever Onionsan enters or attacks, surveil 1, then draw a card. => Ward {3}
+This spell costs {1} less to cast for each noncreature, nonland card in your graveyard and that you own in exile.
+Whenever Onionsan enters or attacks, surveil 1, then draw a card.
+
+Power of LOVE
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Enchant creature
+Enchanted creature gets +X/+X and each other creature you control gets -X/-X, where X is your LV. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+Enchant creature
+Enchanted creature gets +X/+X and each other creature you control gets -X/-X, where X is your LV.
+
+Killing Spree
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+If a source you control would deal damage to a permanent or player, it deals that much damage plus 1 instead. If your LV is 5 or greater, it deals double instead. If your LV is 9 or greater, it deals triple instead. If your LV is 19 or greater, that player or that permanent's controller loses the game. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+If a creature you control would deal damage to a permanent or player, it deals that much damage plus 1 instead. If your LV is 5 or greater, it deals double instead. If your LV is 9 or greater, it deals triple instead. If your LV is 19 or greater, instead that player or that permanent's controller loses the game.
+
+Gerson, Storied Archaeologist
+rules_text: Ward {3}
+Whenever you cast a legendary spell, draw a card. => Ward {2}
+Whenever you cast a legendary spell, draw a card.
+
+Garbage Date
+
+Frisk, Feared Human
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+As long as your LV is 3 or higher, Frisk gets +1/+1 and has menace. 
+As long as your LV is 9 or higher, Frisk gets an additional +1/+1 and has double strike. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+As long as your LV is 3 or higher, Frisk gets +1/+1 and has menace. 
+As long as your LV is 9 or higher, Frisk gets an additional +1/+1 and has double strike.
+
+Jerry
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+As long as your LV is 3 or greater, this creature gets +1/+1 and has menace. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+As long as your LV is 3 or greater, this creature gets +1/+1 and has menace.
+
+Spend Time at the Dump
+cost: {2}{U}{B} => {1}{B}{B}
+rules_text: Choose one—
+• Return target creature card from your graveyard to your hand, then draw a card.
+• Destroy target creature. Mill three cards. => Choose one—
+• Return target creature card from your graveyard to your hand, then draw a card.
+• Target player sacrifices a creature. You mill three cards.
+
+Madjick
+cost: {3}{B} => {2}{U}{B}
+rules_text: Flying
+As long as three or more noncreature, nonland cards are in your graveyard or in exile, this creature gets +1/+1 and has deathtouch. => Flying
+Whenever you cast a noncreature spell, surveil 1.
+Whenever one or more noncreature, nonland cards leave your graveyard, this creature gains vigilance and deathtouch until end of turn.
+pt: 2/2 => 3/2
+
+Kill or Be Killed
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Target creature you control gets +X/+X until end of turn, where X is your LV. It fights target creature you don't control. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+Target creature you control gets +X/+X until end of turn, where X is your LV. It fights target creature you don't control.
+
+Bartered SOUL
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+This spell costs {1} less to cast if your LV is 5 or greater.
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+This spell costs {1} less to cast if your LV is 5 or greater.
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+
+Alphys, Anime Enthusiast
+cost: {2}{R}{R} => {1}{R}
+pt: 2/3 => 0/3
+
+Determined Disregard
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+When this enchantment enters, it deals 3 damage to any target.
+At the beginning of your end step, if your LV is 5 or greater, this enchantment deals 1 damage to each player. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+When this enchantment enters, it deals 3 damage to any target.
+At the beginning of your end step, if your LV is 5 or greater, this enchantment deals 1 damage to each player.
+
+Encounter Aimless Teens
+pt: 4 => 5
+
+Creepy Look
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Enchant creature
+Enchanted creature gets +1/+0 and has flying. 
+As long as your LV is 3 or greater, enchanted creature gets an additional +2/-1. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+Enchant creature
+Enchanted creature gets +1/+0 and has flying. 
+As long as your LV is 3 or greater, enchanted creature gets an additional +2/-1.
+
+Friendly Froggit Guide
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+At the beginning of your end step, if your LV is 1, each creature your opponents control get -2/-0 until your next turn. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+At the beginning of your end step, if your LV is 1, each creature your opponents control get -2/-0 until your next turn.
+
+Encounter an Amalgamate
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+At the beginning of your end step, draw a card, then discard a card. Up to one target creature gets -2/-0 until your next turn. => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+At the beginning of your end step, up to one target creature gets -2/-0 until your next turn.
+
+Power of Mercy
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Whenever your LV increases, sacrifice this enchantment.
+At the beginning of your upkeep, if your LV is 1, you draw a card and gain 1 life. Then if you control seven or more legendary creatures, you win the game. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+Whenever your LV increases, sacrifice this enchantment.
+At the beginning of your upkeep, if your LV is 1, you draw a card and gain 1 life. Then if you control seven or more legendary creatures, you win the game.
+
+Steal Away Hope
+rules_text: Destroy target nonland permanent.
+Escape—{B}{G}, Exile seven other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Destroy target nonland permanent.
+Escape—{1}{B}{G}, Exile seven other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+But Nobody Came.
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+At the beginning of combat on each turn, target creature you control gets +X/+X, where X is your LV. => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+At the beginning of combat on each turn, target creature you control gets +X/+X, where X is your LV.
+
+Muffet, Vicious Chef
+rules_text: Affinity for Food and Spiders [i](This spell costs {1} less to cast for each Food and Spider you control.)[/i]
+Reach
+Noncreature foods you control are 2/1 Spider creatures in addition to their other types, and they have reach. => Affinity for Food and Spiders [i](This spell costs {1} less to cast for each Food and Spider you control.)[/i]
+Reach
+Noncreature Foods you control are 2/1 Spider creatures in addition to their other types, and they have reach.
+Whenever you sacrifice a nonartifact Spider, cre
+
+Strange Sculpting
+rules_text: Draw a card for each kind of counter among permanents you control. => Draw X cards, where X is 1 plus the number of different kinds of counters among permanents you control.
+
+Mettaton, Arisen Despot
+cost: {7}{B}{R} => {6}{B}{R}
+
+Queen Alphys
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+Whenever you cast a noncreature spell, if your LV is 5 or higher, Queen Alphys deals 2 damage to each opponent. If your LV is 9 or higher, she deals damage equal to her power instead. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+Whenever you cast a noncreature spell, if your LV is 5 or higher, Queen Alphys deals 2 damage to each opponent. If your LV is 9 or higher, she deals damage equal to her power instead.
+
+Gerson, Hammer of Justice
+rules_text: Trample, haste
+Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent control dies.)[/i]
+As long as you have LV 3 or less, Gerson has hexproof. => Trample, haste
+Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+As long as you have LV 3 or less, Gerson has hexproof.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Snowdrake, Teen Comedian added.

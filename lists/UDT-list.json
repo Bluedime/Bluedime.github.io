@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Flowey the Flower",
-        "number": 104,
+        "number": 103,
         "shape": "transform double faced",
         "set": "UDT",
         "rotated": false,
@@ -57,7 +57,7 @@
     },
     {
         "card_name": "Flowey's Command",
-        "number": 105,
+        "number": 104,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
@@ -97,7 +97,7 @@
     },
     {
         "card_name": "Doomed to Death of KARMA!",
-        "number": 95,
+        "number": 94,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
@@ -137,7 +137,7 @@
     },
     {
         "card_name": "Encounter a Faded Devotee",
-        "number": 100,
+        "number": 99,
         "shape": "double faced split",
         "set": "UDT",
         "rotated": false,
@@ -177,7 +177,7 @@
     },
     {
         "card_name": "Power of LOVE",
-        "number": 115,
+        "number": 113,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
@@ -217,7 +217,7 @@
     },
     {
         "card_name": "Put You in the Dungeon",
-        "number": 116,
+        "number": 114,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
@@ -424,12 +424,12 @@
         "position": "219"
     },
     {
-        "card_name": "Bartered SOUL",
-        "number": 130,
+        "card_name": "Bomb Report",
+        "number": 131,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "209"
+        "position": "81"
     },
     {
         "card_name": "Celebrate an Ending",
@@ -464,12 +464,12 @@
         "position": "221"
     },
     {
-        "card_name": "Bomb Report",
-        "number": 131,
+        "card_name": "Bravery Magic",
+        "number": 132,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "81"
+        "position": "148"
     },
     {
         "card_name": "Encounter Strange Vendors",
@@ -504,12 +504,12 @@
         "position": "141"
     },
     {
-        "card_name": "Bravery Magic",
-        "number": 132,
+        "card_name": "Determined Disregard",
+        "number": 137,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "148"
+        "position": "211"
     },
     {
         "card_name": "Encounter Waterfall Residents",
@@ -537,19 +537,19 @@
     },
     {
         "card_name": "Encounter a Spider Bake Sale",
-        "number": 101,
+        "number": 100,
         "shape": "double faced split",
         "set": "UDT",
         "rotated": false,
         "position": "140"
     },
     {
-        "card_name": "Determined Disregard",
-        "number": 137,
-        "shape": "normal",
+        "card_name": "Encounter Aimless Teens",
+        "number": 139,
+        "shape": "double faced split",
         "set": "UDT",
         "rotated": false,
-        "position": "211"
+        "position": "216"
     },
     {
         "card_name": "Gerson, Junk Vendor",
@@ -577,19 +577,19 @@
     },
     {
         "card_name": "Encounter RUINS Denizens",
-        "number": 102,
+        "number": 101,
         "shape": "double faced split",
         "set": "UDT",
         "rotated": false,
         "position": "143"
     },
     {
-        "card_name": "Encounter Aimless Teens",
-        "number": 139,
+        "card_name": "Encounter CORE Mercenaries",
+        "number": 140,
         "shape": "double faced split",
         "set": "UDT",
         "rotated": false,
-        "position": "216"
+        "position": "147"
     },
     {
         "card_name": "Kill or Be Killed",
@@ -617,19 +617,19 @@
     },
     {
         "card_name": "Flowey, Brutal Guide",
-        "number": 103,
+        "number": 102,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
         "position": "15"
     },
     {
-        "card_name": "Encounter CORE Mercenaries",
-        "number": 140,
-        "shape": "double faced split",
+        "card_name": "The Final Human",
+        "number": 141,
+        "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "147"
+        "position": "23"
     },
     {
         "card_name": "Kindness Magic",
@@ -657,19 +657,19 @@
     },
     {
         "card_name": "Lost SOUL",
-        "number": 110,
+        "number": 109,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
         "position": "144"
     },
     {
-        "card_name": "The Final Human",
-        "number": 141,
+        "card_name": "Flirt",
+        "number": 142,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "23"
+        "position": "215"
     },
     {
         "card_name": "King Asgore, Gardener",
@@ -696,20 +696,20 @@
         "position": "139"
     },
     {
-        "card_name": "Madjick",
+        "card_name": "Mettaton, Killer Host",
         "number": 111,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "204"
+        "position": "267"
     },
     {
-        "card_name": "Flirt",
-        "number": 142,
+        "card_name": "Mad Dummy, Recluse",
+        "number": 154,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "215"
+        "position": "38"
     },
     {
         "card_name": "Manly Bandana",
@@ -736,20 +736,20 @@
         "position": "18"
     },
     {
-        "card_name": "Mettaton, Killer Host",
-        "number": 113,
+        "card_name": "Muffet, Vindictive Baker",
+        "number": 112,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "267"
+        "position": "36"
     },
     {
-        "card_name": "Mad Dummy, Recluse",
-        "number": 154,
+        "card_name": "Mettaton, Rogue Robot",
+        "number": 156,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "38"
+        "position": "145"
     },
     {
         "card_name": "Moldessa",
@@ -776,20 +776,20 @@
         "position": "44"
     },
     {
-        "card_name": "Muffet, Vindictive Baker",
-        "number": 114,
+        "card_name": "Reaper Bird",
+        "number": 115,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "36"
+        "position": "201"
     },
     {
-        "card_name": "Mettaton, Rogue Robot",
-        "number": 156,
+        "card_name": "Oh! One True Love!",
+        "number": 160,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "145"
+        "position": "214"
     },
     {
         "card_name": "Muffet's Pet",
@@ -816,20 +816,20 @@
         "position": "224"
     },
     {
-        "card_name": "Reaper Bird",
-        "number": 117,
-        "shape": "normal",
+        "card_name": "SOUL Containment",
+        "number": 120,
+        "shape": "transform double faced",
         "set": "UDT",
         "rotated": false,
-        "position": "201"
+        "position": "217"
     },
     {
-        "card_name": "Oh! One True Love!",
-        "number": 160,
+        "card_name": "Old Tutu",
+        "number": 161,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "214"
+        "position": "146"
     },
     {
         "card_name": "Ruins Recluse",
@@ -856,20 +856,20 @@
         "position": "225"
     },
     {
-        "card_name": "SOUL Containment",
+        "card_name": "SOULless Ressurection",
         "number": 121,
-        "shape": "transform double faced",
-        "set": "UDT",
-        "rotated": false,
-        "position": "217"
-    },
-    {
-        "card_name": "Old Tutu",
-        "number": 161,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "146"
+        "position": "80"
+    },
+    {
+        "card_name": "Papyrus, Spaghettore",
+        "number": 162,
+        "shape": "normal",
+        "set": "UDT",
+        "rotated": false,
+        "position": "238"
     },
     {
         "card_name": "Shyren, Pensive Performer",
@@ -896,20 +896,20 @@
         "position": "136"
     },
     {
-        "card_name": "SOULless Ressurection",
+        "card_name": "SOULs' Revenge",
         "number": 122,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "80"
+        "position": "220"
     },
     {
-        "card_name": "Papyrus, Spaghettore",
-        "number": 162,
+        "card_name": "Pyrope",
+        "number": 165,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "238"
+        "position": "42"
     },
     {
         "card_name": "Thunderous Snail",
@@ -936,12 +936,12 @@
         "position": "101"
     },
     {
-        "card_name": "SOULs' Revenge",
+        "card_name": "Spend Time at the Dump",
         "number": 123,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "220"
+        "position": "196"
     },
     {
         "card_name": "Tsunderplane",
@@ -1024,12 +1024,12 @@
         "position": "50"
     },
     {
-        "card_name": "Burnt Pan",
-        "number": 133,
+        "card_name": "Bartered SOUL",
+        "number": 130,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "115"
+        "position": "209"
     },
     {
         "card_name": "Vineridden Ruins",
@@ -1064,12 +1064,12 @@
         "position": "111"
     },
     {
-        "card_name": "Demand Answers",
-        "number": 136,
+        "card_name": "Burnt Pan",
+        "number": 133,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "84"
+        "position": "115"
     },
     {
         "card_name": "Broken Wings",
@@ -1096,20 +1096,20 @@
         "position": "79"
     },
     {
-        "card_name": "Dig Through the Dump",
-        "number": 94,
+        "card_name": "Drunk Bun",
+        "number": 95,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "243"
+        "position": "114"
     },
     {
-        "card_name": "Grillby, Stoic Bartender",
-        "number": 146,
-        "shape": "transform double faced",
+        "card_name": "Demand Answers",
+        "number": 136,
+        "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "40"
+        "position": "84"
     },
     {
         "card_name": "Dog Marriage",
@@ -1136,20 +1136,20 @@
         "position": "1"
     },
     {
-        "card_name": "Drunk Bun",
+        "card_name": "Dust the Monster",
         "number": 96,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "114"
+        "position": "8"
     },
     {
-        "card_name": "Heats Flamesman",
-        "number": 147,
-        "shape": "normal",
+        "card_name": "Grillby, Stoic Bartender",
+        "number": 146,
+        "shape": "transform double faced",
         "set": "UDT",
         "rotated": false,
-        "position": "118"
+        "position": "40"
     },
     {
         "card_name": "Dogamy and Dogaressa",
@@ -1176,20 +1176,20 @@
         "position": "142"
     },
     {
-        "card_name": "Dust the Monster",
+        "card_name": "Elder Puzzler",
         "number": 97,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "8"
+        "position": "248"
     },
     {
-        "card_name": "Hotdog Harpy",
-        "number": 148,
+        "card_name": "Heats Flamesman",
+        "number": 147,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "119"
+        "position": "118"
     },
     {
         "card_name": "Doggo, Stout Sentry",
@@ -1216,20 +1216,20 @@
         "position": "57"
     },
     {
-        "card_name": "Elder Puzzler",
+        "card_name": "Empty Gun",
         "number": 98,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "248"
+        "position": "92"
     },
     {
-        "card_name": "Impassioned Speech",
-        "number": 149,
+        "card_name": "Hotdog Harpy",
+        "number": 148,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "122"
+        "position": "119"
     },
     {
         "card_name": "Donut Neophyte",
@@ -1256,20 +1256,20 @@
         "position": "105"
     },
     {
-        "card_name": "Empty Gun",
-        "number": 99,
+        "card_name": "Flowey's Flattery",
+        "number": 105,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "92"
+        "position": "112"
     },
     {
-        "card_name": "Incendiary Student",
-        "number": 150,
+        "card_name": "Impassioned Speech",
+        "number": 149,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "121"
+        "position": "122"
     },
     {
         "card_name": "Explore",
@@ -1296,20 +1296,20 @@
         "position": "19"
     },
     {
-        "card_name": "Flowey's Flattery",
+        "card_name": "In My Way.",
         "number": 106,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "112"
+        "position": "64"
     },
     {
-        "card_name": "Laser Puzzle",
-        "number": 152,
+        "card_name": "Incendiary Student",
+        "number": 150,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "123"
+        "position": "121"
     },
     {
         "card_name": "Grapple with the Past",
@@ -1336,20 +1336,20 @@
         "position": "265"
     },
     {
-        "card_name": "In My Way.",
+        "card_name": "Jerry",
         "number": 107,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "64"
+        "position": "195"
     },
     {
-        "card_name": "Meet Judgment",
-        "number": 155,
+        "card_name": "Laser Puzzle",
+        "number": 152,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "110"
+        "position": "123"
     },
     {
         "card_name": "Greater Dog",
@@ -1376,20 +1376,20 @@
         "position": "55"
     },
     {
-        "card_name": "Jerry",
+        "card_name": "Loox",
         "number": 108,
-        "shape": "normal",
-        "set": "UDT",
-        "rotated": false,
-        "position": "195"
-    },
-    {
-        "card_name": "Migosp",
-        "number": 157,
         "shape": "transform double faced",
         "set": "UDT",
         "rotated": false,
-        "position": "3"
+        "position": "2"
+    },
+    {
+        "card_name": "Meet Judgment",
+        "number": 155,
+        "shape": "normal",
+        "set": "UDT",
+        "rotated": false,
+        "position": "110"
     },
     {
         "card_name": "Gyftrot",
@@ -1416,20 +1416,20 @@
         "position": "75"
     },
     {
-        "card_name": "Loox",
-        "number": 109,
-        "shape": "transform double faced",
-        "set": "UDT",
-        "rotated": false,
-        "position": "2"
-    },
-    {
-        "card_name": "Pasta Accident",
-        "number": 163,
+        "card_name": "Megalovania",
+        "number": 110,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "120"
+        "position": "56"
+    },
+    {
+        "card_name": "Migosp",
+        "number": 157,
+        "shape": "transform double faced",
+        "set": "UDT",
+        "rotated": false,
+        "position": "3"
     },
     {
         "card_name": "Heroic Brawl",
@@ -1456,20 +1456,20 @@
         "position": "12"
     },
     {
-        "card_name": "Megalovania",
-        "number": 112,
+        "card_name": "Root Through Trash",
+        "number": 116,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "56"
+        "position": "243"
     },
     {
-        "card_name": "Prove Yourself",
-        "number": 164,
+        "card_name": "Pasta Accident",
+        "number": 163,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "116"
+        "position": "120"
     },
     {
         "card_name": "Lesser Dog",
@@ -1497,19 +1497,19 @@
     },
     {
         "card_name": "Rooted Shroom",
-        "number": 118,
+        "number": 117,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
         "position": "106"
     },
     {
-        "card_name": "Pyrope",
-        "number": 165,
+        "card_name": "Prove Yourself",
+        "number": 164,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "42"
+        "position": "116"
     },
     {
         "card_name": "Moldsmal",
@@ -1537,7 +1537,7 @@
     },
     {
         "card_name": "Shambling Mass",
-        "number": 119,
+        "number": 118,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
@@ -1577,7 +1577,7 @@
     },
     {
         "card_name": "Snail Family",
-        "number": 120,
+        "number": 119,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
@@ -1671,12 +1671,12 @@
         "position": "271"
     },
     {
-        "card_name": "Undyne's Command",
-        "number": 257,
+        "card_name": "Onionsan",
+        "number": 247,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "277"
+        "position": "134"
     },
     {
         "card_name": "But Nobody Came.",
@@ -1704,7 +1704,7 @@
     },
     {
         "card_name": "Napstablook, Ghostly DJ",
-        "number": 244,
+        "number": 246,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
@@ -1720,7 +1720,7 @@
     },
     {
         "card_name": "Mettaton, Arisen Despot",
-        "number": 239,
+        "number": 241,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
@@ -1728,7 +1728,7 @@
     },
     {
         "card_name": "Undyne, Spear of Justice",
-        "number": 256,
+        "number": 257,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
@@ -1736,7 +1736,7 @@
     },
     {
         "card_name": "Papyrus, Friend to Flowers",
-        "number": 246,
+        "number": 248,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
@@ -1751,12 +1751,12 @@
         "position": "133"
     },
     {
-        "card_name": "Onionsan",
-        "number": 245,
+        "card_name": "Madjick",
+        "number": 239,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "134"
+        "position": "204"
     },
     {
         "card_name": "The First Human",
@@ -1784,19 +1784,19 @@
     },
     {
         "card_name": "Papyrus, Puzzlemaster",
-        "number": 248,
+        "number": 250,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
         "position": "202"
     },
     {
-        "card_name": "Spend Time at the Dump",
-        "number": 252,
+        "card_name": "Merciless",
+        "number": 240,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
-        "position": "196"
+        "position": "277"
     },
     {
         "card_name": "Frisk, Feared Human",
@@ -1808,7 +1808,7 @@
     },
     {
         "card_name": "Monster Kid, Undyne's Fan",
-        "number": 242,
+        "number": 244,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
@@ -1816,7 +1816,7 @@
     },
     {
         "card_name": "Royal Guard Squad",
-        "number": 251,
+        "number": 253,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
@@ -1847,7 +1847,7 @@
     },
     {
         "card_name": "Mettaton, Robot Entertainer",
-        "number": 241,
+        "number": 243,
         "shape": "transform double faced",
         "set": "UDT",
         "rotated": false,
@@ -1887,7 +1887,7 @@
     },
     {
         "card_name": "Queen Alphys",
-        "number": 250,
+        "number": 252,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
@@ -1895,7 +1895,7 @@
     },
     {
         "card_name": "Muffet, Vicious Chef",
-        "number": 243,
+        "number": 245,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
@@ -1903,7 +1903,7 @@
     },
     {
         "card_name": "Mettaton NEO",
-        "number": 240,
+        "number": 242,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
@@ -1911,7 +1911,7 @@
     },
     {
         "card_name": "Strange Sculpting",
-        "number": 254,
+        "number": 255,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
@@ -1943,7 +1943,7 @@
     },
     {
         "card_name": "Prank Telescope",
-        "number": 249,
+        "number": 251,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
@@ -1959,7 +1959,7 @@
     },
     {
         "card_name": "Toriel, Mourning Mother",
-        "number": 255,
+        "number": 256,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
@@ -1975,7 +1975,7 @@
     },
     {
         "card_name": "Steal Away Hope",
-        "number": 253,
+        "number": 254,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
@@ -2008,7 +2008,7 @@
     },
     {
         "card_name": "Papyrus, Jovial Sentry",
-        "number": 247,
+        "number": 249,
         "shape": "normal",
         "set": "UDT",
         "rotated": false,
