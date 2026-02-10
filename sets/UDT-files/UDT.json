@@ -6281,7 +6281,7 @@
             "notes": ""
         },
         {
-            "card_name": "Merciless",
+            "card_name": "Merciless Rejection",
             "color": "UB",
             "rarity": "uncommon",
             "type": "Instant",
@@ -6407,5 +6407,5 @@
             "notes": ""
         }
     ],
-    "version": 3
+    "version": 4
 }

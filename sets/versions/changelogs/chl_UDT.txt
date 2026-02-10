@@ -1,4 +1,12 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Merciless Rejection added.
+
+Merciless removed.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Root Through Trash added.

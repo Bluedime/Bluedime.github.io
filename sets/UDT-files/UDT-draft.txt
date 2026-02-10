@@ -3037,7 +3037,7 @@
 			}
 		},
 		{
-			"name": "Merciless",
+			"name": "Merciless Rejection",
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Instant",
@@ -3282,7 +3282,7 @@
 	4 Encounter Snowdin Locals
 	4 Encounter a Training Dummy
 	4 Mettaton, Killer Host
-	4 Merciless
+	4 Merciless Rejection
 	4 Commune with Trash
 [common(6)]
 	8 Whimsun
@@ -3729,7 +3729,7 @@
 	2 Strange Sculpting
 	2 Despite Everything...
 	2 Clamoring Fans
-	6 Merciless
+	6 Merciless Rejection
 	2 Mettaton, Arisen Despot
 	2 Queen Alphys
 	2 Chara, the Fallen Human
@@ -4002,7 +4002,7 @@
 	7 Strange Sculpting
 	7 Despite Everything...
 	7 Clamoring Fans
-	15 Merciless
+	15 Merciless Rejection
 	7 Mettaton, Arisen Despot
 	7 Queen Alphys
 	7 Chara, the Fallen Human
