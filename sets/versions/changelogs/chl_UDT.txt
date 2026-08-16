@@ -1,4 +1,18 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Undyne, Heroine
+rules_text: Vigilance, trample
+When Undyne enters, choose one—
+• Put a +1/+1 counter on Undyne. => Vigilance, trample
+When Undyne enters, choose one—
+• Put a +1/+1 counter on Undyne.
+• Create a 1/1 white Soldier creature token.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Instant Noodles added.

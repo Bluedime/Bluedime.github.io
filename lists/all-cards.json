@@ -3768,7 +3768,7 @@
             "number": 202,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Vigilance, trample\nWhen Undyne enters, choose one\u2013\n\u2022 Put a +1/+1 counter on Undyne.",
+            "rules_text": "Vigilance, trample\nWhen Undyne enters, choose one\u2013\n\u2022 Put a +1/+1 counter on Undyne.\n\u2022 Create a 1/1 white Soldier creature token.",
             "flavor_text": "[i]\u201cKilling you now is an act of mercy!\u201d[/i]",
             "pt": "3/2",
             "special_text": "",
