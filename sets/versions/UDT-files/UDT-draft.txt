@@ -39,7 +39,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Beast",
-			"collector_number": "109",
+			"collector_number": "108",
 			"back": {
 				"name": "",
 				"type": "",
@@ -134,7 +134,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "97",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/8.png"
 			}
@@ -144,7 +144,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "95",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/9.png"
 			}
@@ -204,7 +204,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Creature — Plant",
-			"collector_number": "103",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/15.png"
 			}
@@ -358,7 +358,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Artifact Creature — Robot Performer",
-			"collector_number": "241",
+			"collector_number": "243",
 			"back": {
 				"name": "",
 				"type": "",
@@ -435,7 +435,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Spider",
-			"collector_number": "114",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/36.png"
 			}
@@ -499,7 +499,7 @@
 		},
 		{
 			"name": "Pyrope",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Elemental",
 			"collector_number": "165",
@@ -656,7 +656,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "112",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/56.png"
 			}
@@ -736,7 +736,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "107",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/64.png"
 			}
@@ -766,7 +766,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Fish Soldier",
-			"collector_number": "256",
+			"collector_number": "257",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/67.png"
 			}
@@ -784,8 +784,8 @@
 		{
 			"name": "True Pacifism",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Enchantment",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Enchantment — Aura",
 			"collector_number": "41",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/69.png"
@@ -903,7 +903,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "122",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/80.png"
 			}
@@ -983,7 +983,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Goat Noble",
-			"collector_number": "255",
+			"collector_number": "256",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/88.png"
 			}
@@ -1023,7 +1023,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "99",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/92.png"
 			}
@@ -1170,7 +1170,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Fungus",
-			"collector_number": "118",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/106.png"
 			}
@@ -1180,7 +1180,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Ooze",
-			"collector_number": "119",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/107.png"
 			}
@@ -1190,7 +1190,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Snail",
-			"collector_number": "120",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/108.png"
 			}
@@ -1237,7 +1237,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "106",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/112.png"
 			}
@@ -1257,7 +1257,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Rabbit Citizen",
-			"collector_number": "96",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/114.png"
 			}
@@ -1461,10 +1461,10 @@
 		},
 		{
 			"name": "Onionsan",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "{6}{U}{B}",
 			"type": "Legendary Creature — Octopus",
-			"collector_number": "245",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/134.png"
 			}
@@ -1531,7 +1531,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Battle — Encounter",
-			"collector_number": "101",
+			"collector_number": "100",
 			"back": {
 				"name": "",
 				"type": "",
@@ -1568,7 +1568,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Battle — Encounter",
-			"collector_number": "102",
+			"collector_number": "101",
 			"back": {
 				"name": "",
 				"type": "",
@@ -1585,7 +1585,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Spirit",
-			"collector_number": "110",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/144.png"
 			}
@@ -1763,7 +1763,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "115",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/159.png"
 			}
@@ -1773,7 +1773,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Battle — Encounter",
-			"collector_number": "100",
+			"collector_number": "99",
 			"back": {
 				"name": "",
 				"type": "",
@@ -1790,7 +1790,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "116",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/161.png"
 			}
@@ -1944,7 +1944,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}",
 			"type": "Legendary Creature — Plant",
-			"collector_number": "104",
+			"collector_number": "103",
 			"back": {
 				"name": "",
 				"type": "",
@@ -1961,7 +1961,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "105",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/176.png"
 			}
@@ -2008,7 +2008,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Creature — Beast",
-			"collector_number": "242",
+			"collector_number": "244",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/180.png"
 			}
@@ -2028,7 +2028,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "244",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/182.png"
 			}
@@ -2048,7 +2048,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Skeleton Scout",
-			"collector_number": "246",
+			"collector_number": "248",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/184.png"
 			}
@@ -2118,7 +2118,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Artifact Creature — Robot",
-			"collector_number": "240",
+			"collector_number": "242",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/191.png"
 			}
@@ -2158,7 +2158,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Beast",
-			"collector_number": "108",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/195.png"
 			}
@@ -2166,9 +2166,9 @@
 		{
 			"name": "Spend Time at the Dump",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}{B}",
+			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "252",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/196.png"
 			}
@@ -2198,7 +2198,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Skeleton Scout",
-			"collector_number": "247",
+			"collector_number": "249",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/199.png"
 			}
@@ -2208,7 +2208,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Creature — Soldier",
-			"collector_number": "251",
+			"collector_number": "253",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/200.png"
 			}
@@ -2218,7 +2218,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Legendary Creature — Frog Bird Horror",
-			"collector_number": "117",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/201.png"
 			}
@@ -2228,7 +2228,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Skeleton",
-			"collector_number": "248",
+			"collector_number": "250",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/202.png"
 			}
@@ -2246,9 +2246,9 @@
 		{
 			"name": "Madjick",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{B}",
+			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Wizard",
-			"collector_number": "111",
+			"collector_number": "239",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/204.png"
 			}
@@ -2295,7 +2295,7 @@
 		},
 		{
 			"name": "Bartered SOUL",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
 			"collector_number": "130",
@@ -2306,7 +2306,7 @@
 		{
 			"name": "Alphys, Anime Enthusiast",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Lizard Scientist",
 			"collector_number": "128",
 			"image_uris": {
@@ -2385,7 +2385,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment",
-			"collector_number": "121",
+			"collector_number": "120",
 			"back": {
 				"name": "",
 				"type": "",
@@ -2422,7 +2422,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "123",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/220.png"
 			}
@@ -2653,7 +2653,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Instant",
-			"collector_number": "253",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/241.png"
 			}
@@ -2669,11 +2669,11 @@
 			}
 		},
 		{
-			"name": "Dig Through the Dump",
+			"name": "Root Through Trash",
 			"rarity": "common",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{3}{B}",
 			"type": "Instant",
-			"collector_number": "94",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/243.png"
 			}
@@ -2723,7 +2723,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Fungus Beast",
-			"collector_number": "98",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/248.png"
 			}
@@ -2934,7 +2934,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{B}",
 			"type": "Legendary Artifact Creature — Robot",
-			"collector_number": "113",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/267.png"
 			}
@@ -2991,7 +2991,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Artifact",
-			"collector_number": "249",
+			"collector_number": "251",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/272.png"
 			}
@@ -3001,7 +3001,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{G}",
 			"type": "Legendary Creature — Spider",
-			"collector_number": "243",
+			"collector_number": "245",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/273.png"
 			}
@@ -3011,7 +3011,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "254",
+			"collector_number": "255",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/274.png"
 			}
@@ -3037,11 +3037,11 @@
 			}
 		},
 		{
-			"name": "Undyne's Command",
-			"rarity": "rare",
-			"mana_cost": "{U}{U}{B}{B}",
+			"name": "Merciless Rejection",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
 			"type": "Instant",
-			"collector_number": "257",
+			"collector_number": "240",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/277.png"
 			}
@@ -3049,9 +3049,9 @@
 		{
 			"name": "Mettaton, Arisen Despot",
 			"rarity": "rare",
-			"mana_cost": "{7}{B}{R}",
+			"mana_cost": "{6}{B}{R}",
 			"type": "Legendary Artifact Creature — Robot Noble",
-			"collector_number": "239",
+			"collector_number": "241",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/278.png"
 			}
@@ -3061,7 +3061,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Lizard Noble",
-			"collector_number": "250",
+			"collector_number": "252",
 			"image_uris": {
 				"en": "https://Bluedime.github.io/sets/UDT-files/img/279.png"
 			}
@@ -3116,6 +3116,7 @@
 	2 True Pacifism
 	1 Battle Against a True Hero
 	2 Temmie Armor
+	2 Onionsan
 	2 Encounter an Empty Home
 	2 Goner Kid
 	2 Encounter a Stunning Cavern
@@ -3166,7 +3167,6 @@
 	2 Strange Sculpting
 	2 Despite Everything...
 	2 Clamoring Fans
-	2 Undyne's Command
 	2 Mettaton, Arisen Despot
 	2 Queen Alphys
 	2 Chara, the Fallen Human
@@ -3187,6 +3187,7 @@
 	4 Ruins Recluse
 	4 Mad Dummy, Recluse
 	4 Bird that Carries You...
+	4 Pyrope
 	4 Tsunderplane
 	4 Snowdrake's Mother
 	4 Memoryhead
@@ -3217,7 +3218,6 @@
 	4 Manly Bandana
 	4 Stained Apron
 	4 Cowboy Hat
-	4 Onionsan
 	4 Cloudy Glasses
 	4 Unfair Dodge
 	4 Patience Magic
@@ -3250,7 +3250,6 @@
 	4 Moldessa
 	4 Kill or Be Killed
 	4 King Asgore, Gardener
-	4 Bartered SOUL
 	4 Alphys, Anime Enthusiast
 	4 Determined Disregard
 	4 Muffet's Pet
@@ -3283,6 +3282,7 @@
 	4 Encounter Snowdin Locals
 	4 Encounter a Training Dummy
 	4 Mettaton, Killer Host
+	4 Merciless Rejection
 	4 Commune with Trash
 [common(6)]
 	8 Whimsun
@@ -3301,7 +3301,6 @@
 	8 Greater Dog
 	8 Grillby, Stoic Bartender
 	8 Vulkin
-	8 Pyrope
 	8 Instant Ramen
 	8 Cruel Guidance
 	8 Shock
@@ -3362,10 +3361,11 @@
 	8 Toy Knife
 	8 Map of the Underground
 	8 Jerry
+	8 Bartered SOUL
 	8 Unsettling Prank
 	8 Politics Bear
 	8 Studious Librarbian
-	8 Dig Through the Dump
+	8 Root Through Trash
 	8 Doleful Banishment
 	8 Elder Puzzler
 	8 Broken Wings
@@ -3390,7 +3390,6 @@
 	8 Greater Dog
 	8 Grillby, Stoic Bartender
 	8 Vulkin
-	8 Pyrope
 	8 Instant Ramen
 	8 Cruel Guidance
 	8 Shock
@@ -3451,10 +3450,11 @@
 	8 Toy Knife
 	8 Map of the Underground
 	8 Jerry
+	8 Bartered SOUL
 	8 Unsettling Prank
 	8 Politics Bear
 	8 Studious Librarbian
-	8 Dig Through the Dump
+	8 Root Through Trash
 	8 Doleful Banishment
 	8 Elder Puzzler
 	8 Broken Wings
@@ -3505,7 +3505,7 @@
 	6 Bird that Carries You...
 	12 Grillby, Stoic Bartender
 	12 Vulkin
-	12 Pyrope
+	6 Pyrope
 	6 Tsunderplane
 	6 Snowdrake's Mother
 	6 Memoryhead
@@ -3596,7 +3596,7 @@
 	12 Heroic Brawl
 	6 Stained Apron
 	6 Cowboy Hat
-	6 Onionsan
+	2 Onionsan
 	6 Cloudy Glasses
 	6 Unfair Dodge
 	12 Clam Girl
@@ -3671,7 +3671,7 @@
 	6 Kill or Be Killed
 	6 King Asgore, Gardener
 	2 Defend the Underground
-	6 Bartered SOUL
+	12 Bartered SOUL
 	6 Alphys, Anime Enthusiast
 	6 Determined Disregard
 	6 Muffet's Pet
@@ -3705,7 +3705,7 @@
 	2 Flowey, Timeline's Tormentor
 	6 Steal Away Hope
 	12 Studious Librarbian
-	12 Dig Through the Dump
+	12 Root Through Trash
 	6 Trapped Arachnids
 	6 Battle Mastery
 	6 Dress Lion
@@ -3729,7 +3729,7 @@
 	2 Strange Sculpting
 	2 Despite Everything...
 	2 Clamoring Fans
-	2 Undyne's Command
+	6 Merciless Rejection
 	2 Mettaton, Arisen Despot
 	2 Queen Alphys
 	2 Chara, the Fallen Human
@@ -3778,7 +3778,7 @@
 	15 Bird that Carries You...
 	6 Grillby, Stoic Bartender
 	6 Vulkin
-	6 Pyrope
+	15 Pyrope
 	15 Tsunderplane
 	15 Snowdrake's Mother
 	15 Memoryhead
@@ -3869,7 +3869,7 @@
 	6 Heroic Brawl
 	15 Stained Apron
 	15 Cowboy Hat
-	15 Onionsan
+	7 Onionsan
 	15 Cloudy Glasses
 	15 Unfair Dodge
 	6 Clam Girl
@@ -3944,7 +3944,7 @@
 	15 Kill or Be Killed
 	15 King Asgore, Gardener
 	7 Defend the Underground
-	15 Bartered SOUL
+	6 Bartered SOUL
 	15 Alphys, Anime Enthusiast
 	15 Determined Disregard
 	15 Muffet's Pet
@@ -3978,7 +3978,7 @@
 	7 Flowey, Timeline's Tormentor
 	15 Steal Away Hope
 	6 Studious Librarbian
-	6 Dig Through the Dump
+	6 Root Through Trash
 	15 Trapped Arachnids
 	15 Battle Mastery
 	15 Dress Lion
@@ -4002,7 +4002,7 @@
 	7 Strange Sculpting
 	7 Despite Everything...
 	7 Clamoring Fans
-	7 Undyne's Command
+	15 Merciless Rejection
 	7 Mettaton, Arisen Despot
 	7 Queen Alphys
 	7 Chara, the Fallen Human

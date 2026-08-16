@@ -5,7 +5,7 @@
 			<name>UDT</name>
 			<longname>Undertale</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-09</releasedate>
+			<releasedate>2026-02-10</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -97,7 +97,7 @@ At the beginning of your upkeep, you may pay {2}{U}{U}. If you do, transform thi
 Whenever this creature becomes blocked, you may pay {3}{B}{B}. If you do, transform it.
 ---
 (Back): Astigmatism</text>
-			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/2_front.png" num="109a">UDT</set>
+			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/2_front.png" num="108a">UDT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -117,7 +117,7 @@ Whenever this creature becomes blocked, you may pay {3}{B}{B}. If you do, transf
 			<text>Menace
 ---
 (Front): Loox</text>
-			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/2_back.png" num="109b">UDT</set>
+			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/2_back.png" num="108b">UDT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -216,7 +216,7 @@ Whenever this creature and at least two other creatures attack, you may pay {R}.
 		</card>
 		<card>
 			<name>Worn Dagger</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 Equipped creature gets +3/+0 and &quot;If your LV would increase, it increases by twice that much instead.&quot;
 At the beginning of your end step, if your LV is 19 or greater, transform this artifact.
 Equip {2}
@@ -254,7 +254,7 @@ Equip {3}
 		</card>
 		<card>
 			<name>Heart Locket</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 Equipped creature has ward {2} and &quot;If your LV would increase, it increases by twice that much instead.&quot;
 At the beginning of your end step, if your LV is 19 or greater, transform this artifact.
 Equip {1}
@@ -308,9 +308,9 @@ Equip {0}
 		</card>
 		<card>
 			<name>Dust the Monster</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 Destroy target creature.</text>
-			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/8.png" num="97">UDT</set>
+			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/8.png" num="96">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -325,9 +325,9 @@ Destroy target creature.</text>
 		</card>
 		<card>
 			<name>Doomed to Death of KARMA!</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 At the beginning of your end step, you draw cards and lose life equal to half your LV, rounded up.</text>
-			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/9.png" num="95">UDT</set>
+			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/9.png" num="94">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -431,10 +431,10 @@ Exile target creature.</text>
 		</card>
 		<card>
 			<name>Flowey, Brutal Guide</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 Flowey enters with X +1/+1 counters on him, where X is your LV.
-Escape—{1}{B}{B}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/15.png" num="103">UDT</set>
+Escape—{2}{B}{B}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/15.png" num="102">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -737,7 +737,7 @@ Whenever a creature an opponent controls dies, its controller loses 2 life.
 Flip His Switch— {3}: Transform Mettaton. Any player may activate this ability.
 ---
 (Back): Mettaton EX</text>
-			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/29_front.png" num="241a">UDT</set>
+			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/29_front.png" num="243a">UDT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -758,7 +758,7 @@ Flip His Switch— {3}: Transform Mettaton. Any player may activate this ability
 Whenever you cast a creature spell, if you&apos;ve cast three or more noncreature spells this turn, copy that spell.
 ---
 (Front): Mettaton, Robot Entertainer</text>
-			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/29_back.png" num="241b">UDT</set>
+			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/29_back.png" num="243b">UDT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -881,9 +881,9 @@ Bonetrousle—Activated abilities of attacking creatures you control cost {3} le
 		</card>
 		<card>
 			<name>Muffet, Vindictive Baker</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 When Muffet enters, destroy target creature if it was dealt damage this turn or if your LV is 5 or greater.</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/36.png" num="114">UDT</set>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/36.png" num="112">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1012,7 +1012,7 @@ Whenever an artifact you control enters, this creature gets +1/+1 until end of t
 		<card>
 			<name>Pyrope</name>
 			<text>When Pyrope enters, create a colorless artifact token named Munitions with &quot;When this token leaves the battlefield, it deals 2 damage to any target.&quot;</text>
-			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/42.png" num="165">UDT</set>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/42.png" num="165">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1022,7 +1022,7 @@ Whenever an artifact you control enters, this creature gets +1/+1 until end of t
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1138,7 +1138,7 @@ When this artifact enters, draw a card.
 		</card>
 		<card>
 			<name>Last Corridor</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 {T}: Add {C}.
 {4}, {T}: Add five mana in any combination of colors. Activate only if your LV is 1.
 {W}{U}{B}, {T}: If your LV is 19 or greater, exile this
@@ -1198,9 +1198,9 @@ You may cast noncreature, nonland spells from the top of your library by tapping
 		</card>
 		<card>
 			<name>Cruel Guidance</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 When this enchantment enters, destroy up to one target non-Human creature.
-If your LV would increase, it increases by twice that much instead.</text>
+Whenever your LV increases for the first time each turn, it increases again.</text>
 			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/50.png" num="91">UDT</set>
 			<prop>
 				<layout>normal</layout>
@@ -1300,9 +1300,9 @@ Enchanted creature gets -2/-0. As long as it&apos;s attacking a battle, it gets 
 		</card>
 		<card>
 			<name>Megalovania</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 You draw two cards and lose 2 life. If your LV is 5 or higher, instead you draw three cards and lose 3 life.</text>
-			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/56.png" num="112">UDT</set>
+			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/56.png" num="110">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1423,7 +1423,7 @@ You draw two cards and lose 2 life. If your LV is 5 or higher, instead you draw 
 		</card>
 		<card>
 			<name>Flower Patch</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 {T}: Add {C}.
 {1}, {T}: Add one mana of any color.</text>
 			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/63.png" num="273">UDT</set>
@@ -1439,9 +1439,9 @@ You draw two cards and lose 2 life. If your LV is 5 or higher, instead you draw 
 		</card>
 		<card>
 			<name>In My Way.</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 Up to one target creature gets -X/-X until end of turn, where X is your LV.</text>
-			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/64.png" num="107">UDT</set>
+			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/64.png" num="106">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1457,7 +1457,7 @@ Up to one target creature gets -X/-X until end of turn, where X is your LV.</tex
 		<card>
 			<name>Barrier Breach</name>
 			<text>This land enters tapped.
-Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 {T}: Add {B} or {R}.
 {1}{B}{R}, {T}, Sacrifice this land: Destroy target creature. Activate only if your LV is 9 or greater.</text>
 			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/65.png" num="271">UDT</set>
@@ -1495,7 +1495,7 @@ Judgment. (Your LV starts at 1. It increases whenever a creature an opponent con
 			<name>Undyne, Spear of Justice</name>
 			<text>First strike
 Whenever you attack, Undyne fights up to one other target creature. (Each deals damage equal to their power to the other.)</text>
-			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/67.png" num="256">UDT</set>
+			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/67.png" num="257">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1529,17 +1529,18 @@ Whenever you attack, Undyne fights up to one other target creature. (Each deals 
 		</card>
 		<card>
 			<name>True Pacifism</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
-Creatures can&apos;t attack you unless their controller sacrifices a permanent for each creature they control that&apos;s attacking you.
-When your LV is above 1, sacrifice this enchantment.</text>
+			<text>Enchant player
+When this Aura enters, if enchanted player doesn&apos;t have any LV, their LV becomes 1. (A player&apos;s LV increases whenever a creature controlled by one of their opponents dies.)
+If a source enchanted player controls would deal damage to one of their opponents or a permanent they control, prevent that damage and both players draw that many cards.
+Whenever enchanted player&apos;s LV increases, sacrifice this enchantment.</text>
 			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/69.png" num="41">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment</type>
+				<type>Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2WW</manacost>
-				<cmc>4</cmc>
+				<manacost>5WW</manacost>
+				<cmc>7</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -1749,7 +1750,7 @@ Equip {2}</text>
 		<card>
 			<name>SOULless Ressurection</name>
 			<text>Return target creature card from your graveyard to the battlefield. It&apos;s a Plant in addition to its other types and has no abilities.</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/80.png" num="122">UDT</set>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/80.png" num="121">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1886,7 +1887,7 @@ Draw two cards.</text>
 			<name>Toriel, Mourning Mother</name>
 			<text>Whenever Toriel enters or attacks, surveil 1.
 {1}{B}: Exile target card from a graveyard. If it was a creature card, you gain 1 life and each opponent loses 1 life.</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/88.png" num="255">UDT</set>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/88.png" num="256">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1959,7 +1960,7 @@ At the beginning of your upkeep, another target creature you control gains prowe
 			<text>When this Equipment enters, create a 1/1 colorless Human creature token, then attach this Equipment to it.
 Equipped creature gets +3/+3 and has &quot;Whenever this creature attacks, you may mill three cards.&quot;
 Equip {5}</text>
-			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/92.png" num="99">UDT</set>
+			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/92.png" num="98">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2044,7 +2045,7 @@ Enchanted creature gets +1/+1, has lifelink and flying, and is an Angel in addit
 		</card>
 		<card>
 			<name>Lonely Snowman</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 Defender
 {6}, {T}: If your LV is 3 or below, exile Lonely Snowman and create three 2/2 green Citizen creature tokens. Otherwise, transform it.
 ---
@@ -2224,7 +2225,7 @@ Escape—{4}{U}{U}, Exile four other cards from your graveyard. (You may cast th
 		<card>
 			<name>Rooted Shroom</name>
 			<text>When this creature enters, mill three cards.</text>
-			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/106.png" num="118">UDT</set>
+			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/106.png" num="117">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2241,7 +2242,7 @@ Escape—{4}{U}{U}, Exile four other cards from your graveyard. (You may cast th
 		<card>
 			<name>Shambling Mass</name>
 			<text>{1}{B}, Exile a card from your graveyard: Tap this creature. It gains indestructible until end of turn.</text>
-			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/107.png" num="119">UDT</set>
+			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/107.png" num="118">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2259,7 +2260,7 @@ Escape—{4}{U}{U}, Exile four other cards from your graveyard. (You may cast th
 			<name>Snail Family</name>
 			<text>Whenever this creature attacks, mill a card.
 Escape—{2}{B}, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
-			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/108.png" num="120">UDT</set>
+			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/108.png" num="119">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2292,7 +2293,7 @@ Escape—{2}{B}, Exile four other cards from your graveyard. (You may cast this 
 		</card>
 		<card>
 			<name>Meet Judgment</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 Exile the top card of your library. You may play it this turn. If your LV is 2 or higher, exile this card.
 Escape—{1}{R}, Exile two cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
 			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/110.png" num="155">UDT</set>
@@ -2310,7 +2311,7 @@ Escape—{1}{R}, Exile two cards from your graveyard. (You may cast this card fr
 		</card>
 		<card>
 			<name>Demonic Optimist</name>
-			<text>{4}{B}: Draw a card, then transform this creature. Activate only if you own four or more cards in exile and only once each turn.
+			<text>{4}{B}: Draw a card, then transform this creature. Activate only if you own three or more cards in exile and only once each turn.
 ---
 (Back): Tragic Optimism</text>
 			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/111_front.png" num="92a">UDT</set>
@@ -2350,7 +2351,7 @@ Escape—{1}{R}, Exile two cards from your graveyard. (You may cast this card fr
 		<card>
 			<name>Flowey&apos;s Flattery</name>
 			<text>Target opponent discards two cards. You mill two cards.</text>
-			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/112.png" num="106">UDT</set>
+			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/112.png" num="105">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2381,8 +2382,8 @@ Escape—{1}{R}, Exile two cards from your graveyard. (You may cast this card fr
 		</card>
 		<card>
 			<name>Drunk Bun</name>
-			<text>When this creature dies, you may exile it. If you do, surveil 1.</text>
-			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/114.png" num="96">UDT</set>
+			<text>When this creature enters, if you own three or more cards in exile, each opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/114.png" num="95">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2416,7 +2417,7 @@ Equip {4}</text>
 		</card>
 		<card>
 			<name>Prove Yourself</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 Target creature you control gets +3/+1 until end of turn.</text>
 			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/116.png" num="164">UDT</set>
 			<prop>
@@ -2752,9 +2753,10 @@ Equip {3}</text>
 		</card>
 		<card>
 			<name>Onionsan</name>
-			<text>This spell costs {1} less to cast for each noncreature, nonland card in your graveyard.
+			<text>Ward {3}
+This spell costs {1} less to cast for each noncreature, nonland card in your graveyard and that you own in exile.
 Whenever Onionsan enters or attacks, surveil 1, then draw a card.</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/134.png" num="245">UDT</set>
+			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/134.png" num="247">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2882,7 +2884,7 @@ Whenever enchanted player removes a stun counter from a creature they control, y
 At the beginning of your upkeep, you gain 1 life.
 ---
 (Back): Antagonized Cluster</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/140_front.png" num="101a">UDT</set>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/140_front.png" num="100a">UDT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -2903,7 +2905,7 @@ At the beginning of your upkeep, you gain 1 life.
 When this creature enters, each player loses 3 life.
 ---
 (Front): Encounter a Spider Bake Sale</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/140_back.png" num="101b">UDT</set>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/140_back.png" num="100b">UDT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -2958,7 +2960,7 @@ Escape—{4}{U}{U}, Exile five other cards from your graveyard. (You may cast th
 At the beginning of your upkeep, look at the top card of your library. You may exile it.
 ---
 (Back): Seal the Door</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/143_front.png" num="102a">UDT</set>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/143_front.png" num="101a">UDT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -2978,7 +2980,7 @@ At the beginning of your upkeep, look at the top card of your library. You may e
 			<text>Target creature gets -X/-X until end of turn, where X is the number of cards in exile. If that creature would die that turn, exile it instead.
 ---
 (Front): Encounter RUINS Denizens</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/143_back.png" num="102b">UDT</set>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/143_back.png" num="101b">UDT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -2997,7 +2999,7 @@ At the beginning of your upkeep, look at the top card of your library. You may e
 			<text>Flying
 Whenever this creature attacks, surveil 1.
 {1}{B}, Exile this creature: Target creature card in your graveyard gains escape until end of turn. The escape cost is equal to its mana cost plus exile three other cards from your graveyard.</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/144.png" num="110">UDT</set>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/144.png" num="109">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3352,10 +3354,10 @@ Human creatures get -1/-1.
 		</card>
 		<card>
 			<name>Power of LOVE</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 Enchant creature
 Enchanted creature gets +X/+X and each other creature you control gets -X/-X, where X is your LV.</text>
-			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/159.png" num="115">UDT</set>
+			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/159.png" num="113">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3374,7 +3376,7 @@ Enchanted creature gets +X/+X and each other creature you control gets -X/-X, wh
 Whenever you cast a spell, exile that spell and up to one target creature with a void counter on each of them.
 ---
 (Back): The Grey Room</text>
-			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/160_front.png" num="100a">UDT</set>
+			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/160_front.png" num="99a">UDT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3394,7 +3396,7 @@ Whenever you cast a spell, exile that spell and up to one target creature with a
 			<text>{3}, {T}: Choose an exiled card with a void counter on it. You may play it this turn by paying life equal to its mana value rather than paying its mana cost. Activate only as a sorcery.
 ---
 (Front): Encounter a Faded Devotee</text>
-			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/160_back.png" num="100b">UDT</set>
+			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/160_back.png" num="99b">UDT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3414,7 +3416,7 @@ Whenever you cast a spell, exile that spell and up to one target creature with a
 • Exile target Human creature.
 • Exile target creature with mana value 3 or less.
 • Exile target player&apos;s graveyard.</text>
-			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/161.png" num="116">UDT</set>
+			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/161.png" num="114">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3522,8 +3524,8 @@ Sacrifice three Treasures: Double target creature&apos;s power until end of turn
 		</card>
 		<card>
 			<name>Killing Spree</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
-If a source you control would deal damage to a permanent or player, it deals that much damage plus 1 instead. If your LV is 5 or greater, it deals double instead. If your LV is 9 or greater, it deals triple instead. If your LV is 19 or greater, that player or that permanent&apos;s controller loses the game.</text>
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
+If a creature you control would deal damage to a permanent or player, it deals that much damage plus 1 instead. If your LV is 5 or greater, it deals double instead. If your LV is 9 or greater, it deals triple instead. If your LV is 19 or greater, instead that player or that permanent&apos;s controller loses the game.</text>
 			<set rarity="mythic" picurl="https://Bluedime.github.io/sets/UDT-files/img/166.png" num="151">UDT</set>
 			<prop>
 				<layout>normal</layout>
@@ -3539,7 +3541,7 @@ If a source you control would deal damage to a permanent or player, it deals tha
 		</card>
 		<card>
 			<name>Gerson, Storied Archaeologist</name>
-			<text>Ward {3}
+			<text>Ward {2}
 Whenever you cast a legendary spell, draw a card.</text>
 			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/167.png" num="188">UDT</set>
 			<prop>
@@ -3708,7 +3710,7 @@ At the beginning of your upkeep, you may pay {2}{W}{U}{B}{R}{G}. If you do, tran
 Escape—{3}{B}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)
 ---
 (Back): Asriel Dreemurr, God of Hyperdeath</text>
-			<set rarity="mythic" picurl="https://Bluedime.github.io/sets/UDT-files/img/175_front.png" num="104a">UDT</set>
+			<set rarity="mythic" picurl="https://Bluedime.github.io/sets/UDT-files/img/175_front.png" num="103a">UDT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -3730,7 +3732,7 @@ Ward—Pay 7 life.
 Whenever Asriel deals combat damage to an opponent, until end of turn, rather than pay the mana cost for a spell, you may discard a card that shares a color with that spell.
 ---
 (Front): Flowey the Flower</text>
-			<set rarity="mythic" picurl="https://Bluedime.github.io/sets/UDT-files/img/175_back.png" num="104b">UDT</set>
+			<set rarity="mythic" picurl="https://Bluedime.github.io/sets/UDT-files/img/175_back.png" num="103b">UDT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -3751,7 +3753,7 @@ Whenever Asriel deals combat damage to an opponent, until end of turn, rather th
 • ACT — Destroy target enchantment.
 • LOAD — Target opponent discards a card.
 • RESET — Target player&apos;s life total becomes 13.</text>
-			<set rarity="mythic" picurl="https://Bluedime.github.io/sets/UDT-files/img/176.png" num="105">UDT</set>
+			<set rarity="mythic" picurl="https://Bluedime.github.io/sets/UDT-files/img/176.png" num="104">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3803,7 +3805,7 @@ Whenever two legendary creatures you control attack together, you may transform 
 		<card>
 			<name>Suspicious Rendevous</name>
 			<text>Whenever a legendary creature you control enters or attacks, mill two cards.
-Whenever a creature card leaves your graveyard, you gain life equal to its power.
+Whenever a creature card leaves your graveyard, target creature you control gains indestructible until end of turn.
 ---
 (Front): Garbage Date</text>
 			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/178_back.png" num="185b">UDT</set>
@@ -3840,7 +3842,7 @@ Whenever a creature card leaves your graveyard, you gain life equal to its power
 			<name>Monster Kid, Undyne&apos;s Fan</name>
 			<text>Other legendary creature spells you cast cost {1} less to cast.
 Whenever you cast a legendary creature spell, Monster Kid deals 1 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/180.png" num="242">UDT</set>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/180.png" num="244">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3876,7 +3878,7 @@ Whenever you cast a noncreature spell during your turn, target creature you cont
 			<text>Flying
 You may cast artifact and enchantment spells as though they had flash.
 Whenever a nontoken artifact or enchantment you control enters, up to one target creature you control phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
-			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/182.png" num="244">UDT</set>
+			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/182.png" num="246">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3910,7 +3912,7 @@ Whenever a nontoken artifact or enchantment you control enters, up to one target
 			<name>Papyrus, Friend to Flowers</name>
 			<text>Vigilance
 When Papyrus enters, each opponent may search their library for a land or Plant card and put it onto the battlefield. Then each player who searched their library this way shuffles.</text>
-			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/184.png" num="246">UDT</set>
+			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/184.png" num="248">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4023,7 +4025,7 @@ Equip legendary creature {1}</text>
 			<name>Mettaton NEO</name>
 			<text>Flying
 Whenever Mettaton NEO attacks, you may sacrifice an artifact. If you do, exile the top card of your library. If it has mana value lesser than or equal to the sacrificed artifact, you may cast it without paying its mana cost. Otherwise, you may cast it.</text>
-			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/191.png" num="240">UDT</set>
+			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/191.png" num="242">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4074,7 +4076,7 @@ Whenever you cast a noncreature spell, draw a card, then discard a card. This ab
 		</card>
 		<card>
 			<name>Frisk, Feared Human</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 As long as your LV is 3 or higher, Frisk gets +1/+1 and has menace. 
 As long as your LV is 9 or higher, Frisk gets an additional +1/+1 and has double strike.</text>
 			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/194.png" num="231">UDT</set>
@@ -4093,9 +4095,9 @@ As long as your LV is 9 or higher, Frisk gets an additional +1/+1 and has double
 		</card>
 		<card>
 			<name>Jerry</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 As long as your LV is 3 or greater, this creature gets +1/+1 and has menace.</text>
-			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/195.png" num="108">UDT</set>
+			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/195.png" num="107">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4113,17 +4115,17 @@ As long as your LV is 3 or greater, this creature gets +1/+1 and has menace.</te
 			<name>Spend Time at the Dump</name>
 			<text>Choose one—
 • Return target creature card from your graveyard to your hand, then draw a card.
-• Destroy target creature. Mill three cards.</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/196.png" num="252">UDT</set>
+• Target player sacrifices a creature. You mill three cards.</text>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/196.png" num="123">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>2UB</manacost>
-				<cmc>4</cmc>
-				<colors>UB</colors>
-				<coloridentity>UB</coloridentity>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
 		</card>
@@ -4170,7 +4172,7 @@ When this creature leaves the battlefield, each opponent loses 1 life for each c
 			<text>Haste
 Whenever Papyrus attacks, you may sacrifice an artifact. If you do, exile the top card of your library. You may play that card this turn.
 {2}, {T}: Create an artifact token named Bone.</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/199.png" num="247">UDT</set>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/199.png" num="249">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4189,7 +4191,7 @@ Whenever Papyrus attacks, you may sacrifice an artifact. If you do, exile the to
 			<text>Vigilance
 Shine Armor—If one or more noncreature tokens would be created under your control, those tokens plus a 1/1 white Soldier creature token are created instead.
 Team Attack—Creature tokens you control get +1/+1.</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/200.png" num="251">UDT</set>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/200.png" num="253">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4207,7 +4209,7 @@ Team Attack—Creature tokens you control get +1/+1.</text>
 			<name>Reaper Bird</name>
 			<text>Flying
 When Reaper Bird enters, up to one target creature gets -X/-X until end of turn, where X is the number of noncreature, nonland cards in your graveyard and that you own in exile.</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/201.png" num="117">UDT</set>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/201.png" num="115">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4224,7 +4226,7 @@ When Reaper Bird enters, up to one target creature gets -X/-X until end of turn,
 		<card>
 			<name>Papyrus, Puzzlemaster</name>
 			<text>Whenever Papyrus deals combat damage to a player or battle, look at that many cards from the top your library. You may reveal an Aura or Equipment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/202.png" num="248">UDT</set>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/202.png" num="250">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4257,18 +4259,19 @@ When Reaper Bird enters, up to one target creature gets -X/-X until end of turn,
 		<card>
 			<name>Madjick</name>
 			<text>Flying
-As long as three or more noncreature, nonland cards are in your graveyard or in exile, this creature gets +1/+1 and has deathtouch.</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/204.png" num="111">UDT</set>
+Whenever you cast a noncreature spell, surveil 1.
+Whenever one or more noncreature, nonland cards leave your graveyard, this creature gains vigilance and deathtouch until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/204.png" num="239">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Wizard</type>
 				<maintype>Creature</maintype>
-				<manacost>3B</manacost>
+				<manacost>2UB</manacost>
 				<cmc>4</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>2/2</pt>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4292,7 +4295,7 @@ When this creature enters, mill three cards. Put X +1/+1 counters on this creatu
 		</card>
 		<card>
 			<name>Kill or Be Killed</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 Target creature you control gets +X/+X until end of turn, where X is your LV. It fights target creature you don&apos;t control.</text>
 			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/206.png" num="193">UDT</set>
 			<prop>
@@ -4344,10 +4347,10 @@ Look at the top four cards of your library. You may reveal any number of creatur
 		</card>
 		<card>
 			<name>Bartered SOUL</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 This spell costs {1} less to cast if your LV is 5 or greater.
 Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/209.png" num="130">UDT</set>
+			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/209.png" num="130">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4370,17 +4373,17 @@ Strong Opinions—Whenever you cast a noncreature spell, Alphys deals 1 damage t
 				<side>front</side>
 				<type>Legendary Creature — Lizard Scientist</type>
 				<maintype>Creature</maintype>
-				<manacost>2RR</manacost>
-				<cmc>4</cmc>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/3</pt>
+				<pt>0/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Determined Disregard</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 When this enchantment enters, it deals 3 damage to any target.
 At the beginning of your end step, if your LV is 5 or greater, this enchantment deals 1 damage to each player.</text>
 			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/211.png" num="137">UDT</set>
@@ -4482,14 +4485,14 @@ Pointless Rebellion — At the beginning of each opponent&apos;s end step, if th
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>4</pt>
+				<pt>5</pt>
 			</prop>
 			<tablerow>1</tablerow>
 			<related attach="transform">Earn Teens&apos; Respect</related>
 		</card>
 		<card>
 			<name>Earn Teens&apos; Respect</name>
-			<text>Exile the top three cards of your library. You may play them until the end of your next turn.
+			<text>Exile the top three cards of your library. You may play two of them until the end of your next turn.
 ---
 (Front): Encounter Aimless Teens</text>
 			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/216_back.png" num="139b">UDT</set>
@@ -4513,7 +4516,7 @@ Pointless Rebellion — At the beginning of each opponent&apos;s end step, if th
 {3}{B}{B}: Transform this enchantment. Activate only if seven or more cards are exiled with this enchantment.
 ---
 (Back): Solemn Duty</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/217_front.png" num="121a">UDT</set>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/217_front.png" num="120a">UDT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4532,7 +4535,7 @@ Pointless Rebellion — At the beginning of each opponent&apos;s end step, if th
 			<text>Whenever one or more creature cards are put into exile from anywhere, you gain 2 life and each opponent loses 2 life.
 ---
 (Front): SOUL Containment</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/217_back.png" num="121b">UDT</set>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/217_back.png" num="120b">UDT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4583,7 +4586,7 @@ Escape—{3}{B}, Exile five other cards from your graveyard. (You may cast this 
 		<card>
 			<name>SOULs&apos; Revenge</name>
 			<text>Create X 1/1 colorless Human creature tokens, where X is the number of card types among cards you own in exile. Each opponent loses X life.</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/220.png" num="123">UDT</set>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/220.png" num="122">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4598,7 +4601,7 @@ Escape—{3}{B}, Exile five other cards from your graveyard. (You may cast this 
 		</card>
 		<card>
 			<name>Creepy Look</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 Enchant creature
 Enchanted creature gets +1/+0 and has flying. 
 As long as your LV is 3 or greater, enchanted creature gets an additional +2/-1.</text>
@@ -4634,7 +4637,7 @@ Surveil 1. (Look at the top card of your library. You may put it into your grave
 		</card>
 		<card>
 			<name>Friendly Froggit Guide</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 At the beginning of your end step, if your LV is 1, each creature your opponents control get -2/-0 until your next turn.</text>
 			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/223.png" num="56">UDT</set>
 			<prop>
@@ -4706,7 +4709,7 @@ Escape—{4}{G}, Exile five other cards from your graveyard. (You may cast this 
 		<card>
 			<name>Encounter an Amalgamate</name>
 			<text>(All players can attack this Encounter, but only your creatures can block other players&apos; attacks. The player who defeats it exiles it, then casts it transformed.)
-At the beginning of your end step, draw a card, then discard a card. Up to one target creature gets -2/-0 until your next turn.
+At the beginning of your end step, up to one target creature gets -2/-0 until your next turn.
 ---
 (Back): Laboratory Key</text>
 			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/227_front.png" num="53a">UDT</set>
@@ -4746,7 +4749,7 @@ Equip {1}
 		</card>
 		<card>
 			<name>Power of Mercy</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 Whenever your LV increases, sacrifice this enchantment.
 At the beginning of your upkeep, if your LV is 1, you draw a card and gain 1 life. Then if you control seven or more legendary creatures, you win the game.</text>
 			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/228.png" num="28">UDT</set>
@@ -5019,8 +5022,8 @@ Escape—{B}{G}, Exile five other cards from your graveyard.</text>
 		<card>
 			<name>Steal Away Hope</name>
 			<text>Destroy target nonland permanent.
-Escape—{B}{G}, Exile seven other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/241.png" num="253">UDT</set>
+Escape—{1}{B}{G}, Exile seven other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/241.png" num="254">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5052,16 +5055,16 @@ This creature has vigilance as long as it&apos;s modified. (Equipment, Auras you
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Dig Through the Dump</name>
-			<text>You may mill three cards. Then return up to two creature cards from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/243.png" num="94">UDT</set>
+			<name>Root Through Trash</name>
+			<text>Look at the top four cards of your library. You may put two of them into your hand and the rest into your graveyard. Then you lose 3 life unless you own three or more cards in exile.</text>
+			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/243.png" num="116">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>2B</manacost>
-				<cmc>3</cmc>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -5140,7 +5143,7 @@ Equip abilities that target this creature cost {2} less to activate.</text>
 		<card>
 			<name>Elder Puzzler</name>
 			<text>When this creature enters, surveil 1, then draw a card. You lose 2 life.</text>
-			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/248.png" num="98">UDT</set>
+			<set rarity="common" picurl="https://Bluedime.github.io/sets/UDT-files/img/248.png" num="97">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5515,7 +5518,7 @@ When this creature enters, create a 2/2 green Citizen creature token.</text>
 			<name>Mettaton, Killer Host</name>
 			<text>Flying
 Whenever Mettaton enters or attacks, if you own five or more cards in exile, each opponent loses 2 life and you gain 2 life.</text>
-			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/267.png" num="113">UDT</set>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/267.png" num="111">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5567,7 +5570,7 @@ At the beginning of your end step, if there are seven cards in exile with SOUL c
 		<card>
 			<name>But Nobody Came.</name>
 			<text>(All players can attack this Encounter, but only your creatures can block other players&apos; attacks. The player who defeats it exiles it, then casts it transformed.)
-Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 At the beginning of combat on each turn, target creature you control gets +X/+X, where X is your LV.
 ---
 (Back): Chara, LV Incarnate</text>
@@ -5588,7 +5591,7 @@ At the beginning of combat on each turn, target creature you control gets +X/+X,
 		</card>
 		<card>
 			<name>Chara, LV Incarnate</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 At the beginning of each player&apos;s upkeep, that player sacrifices X creatures, where X is your LV.
 ---
 (Front): But Nobody Came.</text>
@@ -5630,7 +5633,7 @@ As long as enchanted permanent is an Equipment, it has &quot;Equipped creature g
 			<name>Prank Telescope</name>
 			<text>Schadenfreude — Whenever a creature you control is dealt damage, you gain that much life.
 {R}, {T}: This artifact deals 1 damage to target creature you control.</text>
-			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/272.png" num="249">UDT</set>
+			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/272.png" num="251">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5647,8 +5650,9 @@ As long as enchanted permanent is an Equipment, it has &quot;Equipped creature g
 			<name>Muffet, Vicious Chef</name>
 			<text>Affinity for Food and Spiders (This spell costs {1} less to cast for each Food and Spider you control.)
 Reach
-Noncreature foods you control are 2/1 Spider creatures in addition to their other types, and they have reach.</text>
-			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/273.png" num="243">UDT</set>
+Noncreature Foods you control are 2/1 Spider creatures in addition to their other types, and they have reach.
+Whenever you sacrifice a nonartifact Spider, cre</text>
+			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/273.png" num="245">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5664,8 +5668,8 @@ Noncreature foods you control are 2/1 Spider creatures in addition to their othe
 		</card>
 		<card>
 			<name>Strange Sculpting</name>
-			<text>Draw a card for each kind of counter among permanents you control.</text>
-			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/274.png" num="254">UDT</set>
+			<text>Draw X cards, where X is 1 plus the number of different kinds of counters among permanents you control.</text>
+			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/274.png" num="255">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5713,20 +5717,18 @@ Noncreature foods you control are 2/1 Spider creatures in addition to their othe
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Undyne&apos;s Command</name>
-			<text>Choose two: 
-• Return target nonland, noncreature permanent to its owner&apos;s hand.
-• Counter target creature spell.
-• Destroy target creature with power 3 or less.
-• You draw a card and lose 1 life.</text>
-			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/277.png" num="257">UDT</set>
+			<name>Merciless Rejection</name>
+			<text>Choose one:
+• Counter target noncreature spell unless its controller pays {3}.
+• Target creature gets -3/-3 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Bluedime.github.io/sets/UDT-files/img/277.png" num="240">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>UUBB</manacost>
-				<cmc>4</cmc>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
 			</prop>
@@ -5737,14 +5739,14 @@ Noncreature foods you control are 2/1 Spider creatures in addition to their othe
 			<text>Menace
 Whenever Mettaton deals combat damage to a player, exile the top card of that player&apos;s library. If it&apos;s a land card, Mettaton deals 3 damage to defending player. Otherwise, you may cast it without paying its mana cost.
 Whenever you cast a spell you don&apos;t own, draw cards equal to its mana value.</text>
-			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/278.png" num="239">UDT</set>
+			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/278.png" num="241">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Artifact Creature — Robot Noble</type>
 				<maintype>Creature</maintype>
-				<manacost>7BR</manacost>
-				<cmc>9</cmc>
+				<manacost>6BR</manacost>
+				<cmc>8</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
 				<pt>6/6</pt>
@@ -5753,9 +5755,9 @@ Whenever you cast a spell you don&apos;t own, draw cards equal to its mana value
 		</card>
 		<card>
 			<name>Queen Alphys</name>
-			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+			<text>Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 Whenever you cast a noncreature spell, if your LV is 5 or higher, Queen Alphys deals 2 damage to each opponent. If your LV is 9 or higher, she deals damage equal to her power instead.</text>
-			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/279.png" num="250">UDT</set>
+			<set rarity="rare" picurl="https://Bluedime.github.io/sets/UDT-files/img/279.png" num="252">UDT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5807,7 +5809,7 @@ Whenever Chara attacks, they deal 3 damage to target Human. (If Chara is the onl
 		<card>
 			<name>Gerson, Hammer of Justice</name>
 			<text>Trample, haste
-Judgment. (Your LV starts at 1. It increases whenever a creature an opponent control dies.)
+Judgment. (Your LV starts at 1. It increases whenever a creature an opponent controls dies.)
 As long as you have LV 3 or less, Gerson has hexproof.</text>
 			<set rarity="mythic" picurl="https://Bluedime.github.io/sets/UDT-files/img/282.png" num="186">UDT</set>
 			<prop>

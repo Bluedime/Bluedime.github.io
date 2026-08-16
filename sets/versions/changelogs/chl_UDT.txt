@@ -1,4 +1,364 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Instant Noodles added.
+Awaken from Dust added.
+Lovestruck Guard added.
+Shattered Wings added.
+Undyne's Charm added.
+
+Instant Ramen removed.
+SOULless Ressurection removed.
+Lovestruck Guards removed.
+Broken Wings removed.
+Merciless Rejection removed.
+
+Froggit
+cost: {1}{U} => {2}{U}
+rules_text: Vigilance
+At the beginning of your upkeep, you may pay {2}{U}{U}. If you do, transform this creature. => Vigilance
+At the beginning of your upkeep, you may pay {3}{U}{U}. If you do, transform this creature.
+pt: 1/3 => 2/3
+
+Lesser Dog
+pt: 2/2 => 2/3
+
+Snowdrake, Teen Comedian
+cost: {1}{U} => {2}{U}
+rules_text: Flying
+[i]Bad Joke—[/i]Whenever this creature attacks, you may put a stun counter on another tapped creature you control. If you do, put a stun counter on target creature you don't control. => Flying
+[i]Bad Joke—[/i]When this creature enters, tap target creature an opponent controls and put a stun counter on it.
+pt: 1/2 => 2/2
+
+Ice Cap
+rules_text: As long as you control an Equipment or Aura, this creature gets +1/+1. => This creature has lifelink and gets +0/+1 as long as it's modified. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Undyne, Chief of the Guard
+cost: {5}{R} => {4}{R}
+pt: 4/4 => 3/3
+
+Sans, Lazybones
+rules_text: Whenever a counter is removed from Sans, you may draw a card. If you do, discard a card.
+{1}, {T}, Put a stun counter on Sans: Tap another target creature. => Whenever a stun counter is removed from a creature, you may draw a card. If you do, discard a card. 
+{1}, {T}, Put a stun counter on Sans: Tap another target creature.
+
+Integrity Magic
+cost: {2}{U}{U} => {3}{U}
+
+Napstablook, Sad Ghost
+cost: {2}{W}{W} => {3}{W}{W}
+pt: 2/4 => 3/5
+
+Mettabot
+
+Greater Dog
+rules_text: Vigilance
+When Greater Dog enters, you may have it fight up to one target creature. => When Greater Dog enters, choose one. If there are two or more types of counters among creatures you control, choose one or more instead.
+• Put a +1/+1 counter on target creature.
+• Put a vigilance counter on target creature.
+• Put a trample counter on target creature.
+pt: 4/3 => 5/4
+
+Alphys, Scientist with Secrets
+rules_text: Non-Human creature cards in your graveyard have escape. Their escape cost is equal to their mana cost plus exile three other cards from your graveyard. 
+Whenever a creature card leaves your graveyard, you lose life equal to its mana value. => Non-Human creature cards in your graveyard have escape. Their escape cost is equal to their mana cost plus exile three other cards from your graveyard. 
+Whenever a creature card leaves your graveyard, you lose 2 life.
+
+Muffet, Vindictive Baker
+cost: {2}{B}{B} => {3}{B}
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+When Muffet enters, destroy target creature if it was dealt damage this turn or if your LV is 5 or greater. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+Reach
+When Muffet enters, destroy target creature if it was dealt damage this turn or if your LV is 5 or greater.
+
+Sans, Serendipitous Diner
+rules_text: You may look at the top your library any time.
+You may cast noncreature, nonland spells from the top of your library by tapping an untapped creature you control and putting a stun counter on it in addition to paying that spell's other costs. => You may look at the top your library any time.
+You may cast noncreature spells from the top of your library by tapping an untapped creature you control and putting a stun counter on it in addition to paying that spell's other costs.
+
+Cruel Guidance
+cost: {3}{B}{B} => {1}{B}
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+When this enchantment enters, destroy up to one target non-Human creature.
+Whenever your LV increases for the first time each turn, it increases again. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+When this enchantment enters, up to one target non-Human creature gets -3/-3 until end of turn.
+Whenever your LV increases for the first time each turn, it increases again.
+
+Hot Dog Stacking
+rules_text: Target player draws two cards. Then put your choice of a +1/+1 counter or a stun counter on up to one target creature. => Target player draws two cards. 
+Put your choice of a +1/+1 counter or a stun counter on up to one target creature.
+
+Gerson, Junk Vendor
+rules_text: {T}: Add {G}.
+{2}{G}, {T}: Surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => {T}: Add {G}.
+{2}{G}, {T}: Surveil 1. 
+{3}{G}{G}, {T}: Surveil 3.
+
+Battle Against a True Hero
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+Flash
+When this Encounter enters, choose up to one target creature. It gains hexproof and indestructible until end of turn. => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+Flash
+When this Encounter enters, creatures you control gain hexproof and indestructible until end of turn. Untap them.
+pt: 6 => 
+loyalty:  => 6
+
+Burgerpants
+cost: {2}{B} => {1}{B}
+pt: 3/2 => 2/2
+
+Bratty and Catty
+cost: {3}{W} => {2}{W}
+pt: 3/3 => 3/2
+
+Empty Gun
+cost: {4}{B} => {1}{B}
+rules_text: When this Equipment enters, create a 1/1 colorless Human creature token, then attach this Equipment to it.
+Equipped creature gets +3/+3 and has “Whenever this creature attacks, you may mill three cards.”
+Equip {5} => When this Equipment enters, create a 1/1 colorless Human creature token, then attach this Equipment to it.
+Equipped creature gets +1/+0 and has “Whenever this creature attacks, surveil 2.”
+Equip {3}
+
+Pacify the Monster
+cost: {2}{W} => {1}{W}
+
+Ballet Shoes
+cost: {2}{U} => {3}{U}
+rules_text: When this Equipment enters, create a 1/1 colorless Human creature token, then attach this Equipment to it.
+Equipped creature gets +1/+1 and has flying.
+Equip {6} => When this Equipment enters, create a 1/1 colorless Human creature token, then attach this Equipment to it.
+Equipped creature gets +2/+1.
+As long as it's your turn, equipped creature has flying.
+Equip {4}
+
+Chilldrake
+cost: {2}{U} => {3}{U}
+rules_text: Flying, prowess
+As long as you control another Bird, this creature gets +1/+1. => As long as you control another Bird, this spell costs {2} less to cast.
+Flying, prowess
+pt: 2/1 => 2/2
+
+Flowey's Flattery
+
+Drunk Bun
+cost: {B} => {1}{B}
+rules_text: When this creature enters, if you own three or more cards in exile, each opponent loses 2 life and you gain 2 life. => Whenever this creature attacks, if you own three or more cards in exile, each opponent loses 2 life and you gain 2 life.
+pt: 1/2 => 2/2
+
+Laser Puzzle
+cost: {6}{R} => {5}{R}
+
+Cowboy Hat
+rules_text: When this Equipment enters, create a 1/1 colorless Human creature token, then attach this Equipment to it.
+Equipped creature gets +1/+1 for each Aura and Equipment you control.
+Equip {3} => When this Equipment enters, create a 1/1 colorless Human creature token, then attach this Equipment to it.
+Equipped creature gets +2/+2 for each Aura and Equipment you control.
+Equip {4}
+
+Onionsan
+rules_text: Ward {3}
+This spell costs {1} less to cast for each noncreature, nonland card in your graveyard and that you own in exile.
+Whenever Onionsan enters or attacks, surveil 1, then draw a card. => This spell costs {1} less to cast for each noncreature, nonland card in your graveyard and that you own in exile.
+Whenever Onionsan enters or attacks, surveil 1, then draw a card.
+
+Patience Magic
+cost: {1}{U} => {2}{U}
+rules_text: Enchant player
+Whenever enchanted player removes a stun counter from a creature they control, you draw a card. This ability triggers only once each turn. => Enchant creature
+At the beginning of your upkeep, put a +1/+1 counter and a stun counter on enchanted creature.
+{2}{U}, Sacrifice this Aura: Move any number of counters from enchanted creature onto other creatures.
+
+Encounter a Spider Bake Sale
+pt: 4 => 
+loyalty:  => 4
+
+Glyde
+type: Creature — Whale => Legendary Creature — Whale
+rules_text: Flying, prowess
+Escape—{4}{U}{U}, Exile five other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Flying, vigilance
+Boast — {3}: Put a +1/+1 counter on Glyde. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+pt: 3/4 => 3/5
+
+Encounter RUINS Denizens
+pt: 4 => 
+loyalty:  => 4
+
+Encounter CORE Mercenaries
+pt: 6 => 
+loyalty:  => 6
+
+Encounter the Canine Unit
+cost: {4}{W} => {3}{W}
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)
+[/i]At the beginning of your end step, create a 2/2 white Dog Soldier creature token with “This creature can't block non-Human creatures.” => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)
+[/i]When this Encounter enters, create two 2/2 white Dog Soldier creature tokens with “This creature can't block non-Human creatures.”
+pt: 3 => 
+loyalty:  => 4
+
+Ice Wolf
+cost: {2}{G}{U} => {1}{G}{U}
+rules_text: Whenever this creature attacks, put a stun counter on it.
+{G}{U}: Move a counter from target creature you control onto another target creature you control. Activate only as a sorcery. => Whenever this creature attacks, put a stun counter on it.
+{1}{G}{U}: Move a counter from target creature you control onto another target creature you control. Activate only as a sorcery.
+
+Undyne, Heroine
+rules_text: Vigilance, trample
+When Undyne enters, create a 1/1 white Soldier token. => Vigilance, trample
+When Undyne enters, choose one—
+• Put a +1/+1 counter on Undyne.
+
+Encounter an Empty Home
+pt: 5 => 
+loyalty:  => 5
+
+Encounter a Stunning Cavern
+pt: 6 => 
+loyalty:  => 6
+
+Raining Somewhere Else
+
+Encounter a Faded Devotee
+cost: {4}{B}{B} => {2}{B}{B}
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+Whenever you cast a spell, exile that spell and up to one target creature with a void counter on each of them. => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+Whenever another card is put into a graveyard, exile it with a void counter on it.
+pt: 6 => 
+loyalty:  => 6
+
+Arson's Aftermath
+rules_text: Destroy target land. Arson's Aftermath deals 4 damage to each creature, planeswalker, and battle. If a creature dealt damage this way would die this turn, exile it instead. => Destroy up to one target land. 
+Arson's Aftermath deals 4 damage to each creature, planeswalker, and battle. If a creature dealt damage this way would die this turn, exile it instead.
+
+Encounter an Annoying Dog
+pt: 6 => 
+loyalty:  => 6
+
+Return to Your SAVE
+rules_text: Return all nonland permanents to their owners' hands. Your LV becomes 1.
+Shuffle this card into its owner's library. => Return all nonland permanents to their owners' hands. Your LV becomes 1. 
+Shuffle this card into its owner's library.
+
+Well-Worn Sweater
+cost: {4} => {2}
+rules_text: Equipped creature gets +2/+2 and has vigilance and trample.
+Equip {3}
+Equip legendary creature {1} => Equipped creature gets +2/+2 and has vigilance and trample.
+Equip {4}
+Equip legendary creature {2}
+
+Moldessa
+rules_text: Trample
+When this creature enters, mill three cards. Put X +1/+1 counters on this creature, where X is the number of creature cards milled this way. => When this creature enters, mill three cards. Put X +1/+1 counters on this creature, where X is the number of creature cards milled this way.
+Remove a counter from a creature you control: This creature gains hexproof until end of turn.
+
+Defend the Underground
+type: Instant => Sorcery
+rules_text: Creatures you control gain indestructible and hexproof until end of turn.
+Look at the top four cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order. => Look at the top five cards of your library. You may reveal any number of creature cards from among them. If you revealed a Soldier card this way, put each revealed card onto the battlefield under your control. Otherwise, put those cards into your hand. Put the rest on the bottom of your library in any order.
+
+Alphys, Anime Enthusiast
+rules_text: Prowess
+[i]Strong Opinions—[/i]Whenever you cast a noncreature spell, Alphys deals 1 damage to each opponent. => [i]Strong Opinions—[/i]Whenever you cast a noncreature spell, Alphys deals 1 damage to each opponent. If this is the third time this ability resolved this turn, exile the top card of your library. You may play it this turn.
+
+Oh! One True Love!
+cost: {2}{R} => {1}{R}
+
+Encounter Aimless Teens
+pt: 5 => 
+loyalty:  => 5
+
+Friendly Froggit Guide
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+At the beginning of your end step, if your LV is 1, each creature your opponents control get -2/-0 until your next turn. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+At the beginning of your end step, if your LV is 1, each creature your opponents control gets -2/-0 until your next turn.
+
+Encounter an Amalgamate
+pt: 3 => 
+loyalty:  => 3
+
+Nice Cream Guy
+cost: {2}{W} => {3}{W}
+rules_text: When Nice Cream Guy enters, create a Food token.
+At the beginning of your upkeep, if you control two or more tokens, you gain 1 life. => When Nice Cream Guy enters, create a Food token.
+At the beginning of your end step, if you created a token this turn, draw a card.
+
+Encounter Strange Vendors
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+At the beginning of your upkeep, create your choice of a 2/2 green Citizen creature token, a Treasure token, or a Food token. => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+At the beginning of your end step, if this Encounter wasn't attacked since your last turn, create a 2/2 green Citizen creature token, a Treasure token, and a Clue token.
+pt: 4 => 
+loyalty:  => 3
+
+Encounter Waterfall Residents
+pt: 5 => 
+loyalty:  => 5
+
+Dress Lion
+cost: {3}{W} => {2}{W}
+rules_text: Spells you cast that target this creature cost {2} less to cast.
+Equip abilities that target this creature cost {2} less to activate. => Vigilance
+Spells you cast that target this creature cost {2} less to cast.
+Equip abilities that target this creature cost {2} less to activate.
+pt: 4/3 => 3/3
+
+Doleful Banishment
+
+Encounter a Tormented King
+rules_text: [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+Whenever a creature deals combat damage to you, gain control of it until your next end step. => [i](All players can attack this Encounter, but only your creatures can block other players' attacks. The player who defeats it exiles it, then casts it transformed.)[/i]
+Whenever a creature deals combat damage to you, you may pay {1}{R}. If you do, gain control of that creature until your next end step.
+pt: 8 => 
+loyalty:  => 7
+
+Encounter Snowdin Locals
+pt: 5 => 
+loyalty:  => 5
+
+Encounter a Training Dummy
+pt: 4 => 
+loyalty:  => 4
+
+Business Manticore
+rules_text: Flying
+When this creature enters, create a 2/2 green Citizen creature token. => When this creature enters, create a 2/2 green Citizen creature token.
+
+But Nobody Came.
+pt: 9 => 
+loyalty:  => 9
+
+Prank Telescope
+rules_text: S[i]chadenfreude — [/i]Whenever a creature you control is dealt damage, you gain that much life.
+{R}, {T}: This artifact deals 1 damage to target creature you control. => S[i]chadenfreude — [/i]Whenever a creature you control is dealt damage, you gain that much life.
+{1}, {T}: This artifact deals 1 damage to target creature you control. Create a Treasure token.
+
+Despite Everything...
+rules_text: Enchant creature
+...[i]It's Still You. — [/i]Enchanted creature gets +1/+1 for each other creature and token you control. => Enchant creature
+...[i]It's Still You. — [/i]Enchanted creature gets +1/+1 for each other nonland permanent you control.
+
+Mettaton, Arisen Despot
+cost: {6}{B}{R} => {5}{B}{R}
+rules_text: Menace
+Whenever Mettaton deals combat damage to a player, exile the top card of that player's library. If it's a land card, Mettaton deals 3 damage to defending player. Otherwise, you may cast it without paying its mana cost.
+Whenever you cast a spell you don't own, draw cards equal to its mana value. => Menace, ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever Mettaton enters or deals combat damage to a player, exile the top card of each opponent's library. You may cast any number of spells from among those cards without paying their mana costs.
+Whenever you cast a spell you don't own, you draw a card and lose 1 life.
+
+Queen Alphys
+rules_text: Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+Whenever you cast a noncreature spell, if your LV is 5 or higher, Queen Alphys deals 2 damage to each opponent. If your LV is 9 or higher, she deals damage equal to her power instead. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+Whenever you cast a noncreature spell, Queen Alphys deals 2 damage to each opponent. If your LV is 5 or higher, she deals damage equal to her power instead.
+pt: 4/4 => 4/3
+
+Gerson, Hammer of Justice
+rules_text: Trample, haste
+Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+As long as you have LV 3 or less, Gerson has hexproof. => Judgment. [i](Your LV starts at 1. It increases whenever a creature an opponent controls dies.)[/i]
+Trample, haste
+As long as you have LV 3 or less, Gerson has hexproof.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Merciless Rejection added.
